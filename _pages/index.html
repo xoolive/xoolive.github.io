@@ -1,0 +1,42 @@
+---
+layout: default
+title: xoolive.org
+permalink: /
+---
+
+<div id="home">
+
+  <h1>About me</h1>
+  <ul class="posts">
+      <li><a href="/self-introduction/">A self-introduction</a></li>
+  </ul>
+
+  <h1>Blog posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>Noteworthy projects</h1>
+  <ul class="posts">
+      <li><a href="http://pandoc.org/">pandoc.org</a> » <code>pandoc</code> is
+          a tool to convert documents from one markdown language
+          to another: it supports Markdown, reST, org-mode, HTML, LaTeX, docx,
+          epub, among others.</li>
+      <li><a href="http://jupyter.org/">jupyter.org</a> » The Jupyter project
+          develops a web application that allows to create and share
+          documents that contain live code, equations, visualizations and
+          explanatory text.</li>
+      <li><a href="https://github.com/bmatzelle/gow/">
+              <i class="fa fa-github"></i> bmatzelle/gow</a> »
+          <code>gow</code> is a lightweight alternative to Cygwin that packs
+          130+ useful open source UNIX applications compiled as native
+          win32 binaries</li>
+      <li><a href="http://vispy.org">vispy.org</a> »
+          VisPy is a high-performance interactive 2D/3D data visualization
+          library.</li>
+  </ul>
+
+</div>
+

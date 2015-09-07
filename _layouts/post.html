@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h1> {{ page.title }} </h1>
+
+<p class="meta"> {{ page.date | date_to_string }}{% for p in page.place %}, from {{ p }}{% endfor %} </p>
+<div id="post">
+{{ content }}
+</div>
+
+<div id="related">
+  <h2>Most recent posts</h2>
+  <ul class="posts">
+    {% for post in site.related_posts limit:3 %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

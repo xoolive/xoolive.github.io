@@ -1,0 +1,4 @@
+include: ['_pages']
+markdown: redcarpet
+redcarpet:
+    extensions: ["footnotes", "tables", "no_intra_emphasis", "autolink", "xhtml", "smart"]

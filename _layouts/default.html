@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>{{ page.title }}</title>
+   <meta name="author" content="Xavier Olive" />
+
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="/css/solarized-light.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+
+   <!-- Social network logos -->
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+   {% if page.url == "/le-petit-prince/" %}
+   <!-- Ugly trick -->
+   <style type="text/css">
+   code {
+     font-family: inherit;
+     color: #999;
+     font-size: 90%;
+     float: right
+   }
+   </style>
+   {% endif %}
+</head>
+<body>
+
+
+<div class="site">
+  <div class="title">
+    <a href="/">Xavier Olive</a>
+    <a class="extra" href="/">home</a>
+    <div class="social">
+    <a class="extra" href="https://github.com/xoolive">
+        <i class="fa fa-github fa-lg"></i>
+    </a>
+    <a class="extra" href="https://linkedin.com/in/xoolive">
+        <i class="fa fa-linkedin fa-lg"></i>
+    </a>
+    <a class="extra" href="https://twitter.com/x00live">
+        <i class="fa fa-twitter fa-lg"></i>
+    </a>
+    <a class="extra" href="https://delicious.com/xo.olive">
+        <i class="fa fa-delicious fa-lg"></i>
+    </a>
+    <a class="extra" href="https://instagram.com/xoolive">
+        <i class="fa fa-instagram fa-lg"></i>
+    </a>
+    <a class="extra" href="https://runkeeper.com/profile?username=xoolive">
+        <i class="fa fa-runkeeper fa-lg"></i>
+    </a>
+    </div>
+  </div>
+
+  {{ content }}
+
+  <div class="footer">
+    <div class="license">
+      <p>
+      Unless specified otherwise, the contents of this website is published
+      under the terms of the Creative Commons
+      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">BY-NC-SA</a>
+      license. <a href="/copyright">More about this</a>.
+      </p>
+      <p>
+      <img height=20pt width=auto alt="by"
+           src="https://creativecommons.org/images/deed/by.png"/>
+      <img height=20pt width=auto alt="nc"
+           src="https://creativecommons.org/images/deed/nc.png"/>
+      <img height=20pt width=auto alt="sa"
+           src="https://creativecommons.org/images/deed/sa.png"/>
+    </div>
+    <div class="rss">
+      <a href="/atom.xml">
+        <i class="fa fa-rss fa-lg"></i>
+      </a>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
