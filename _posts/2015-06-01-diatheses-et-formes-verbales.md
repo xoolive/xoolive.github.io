@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title: Diathèses et formes verbales
 ---
 

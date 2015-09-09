@@ -1,6 +1,7 @@
 ---
 date: 2007-03-04 19:20:45+00:00
 layout: post
+lang: fr
 title: Le clavier dvorak-fr
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2014-08-26 13:30:52+00:00
 layout: post
+lang: fr
 title: Les langues, un défi
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2007-03-22 19:58:13+00:00
 layout: post
+lang: fr
 title: Programmation OpenGL sous Mac OS X
 ---
 

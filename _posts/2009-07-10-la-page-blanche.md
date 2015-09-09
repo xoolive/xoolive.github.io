@@ -1,6 +1,7 @@
 ---
 date: 2009-07-10 20:15:09+00:00
 layout: post
+lang: fr
 title: La page blanche
 ---
 

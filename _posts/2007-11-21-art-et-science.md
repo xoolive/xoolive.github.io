@@ -1,6 +1,7 @@
 ---
 date: 2007-11-21 15:42:55+00:00
 layout: post
+lang: fr
 title: Art et science
 ---
 

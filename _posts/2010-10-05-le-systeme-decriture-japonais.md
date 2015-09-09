@@ -1,6 +1,7 @@
 ---
 date: 2010-10-05 10:04:32+00:00
 layout: post
+lang: fr
 title: Le système d'écriture japonais
 ---
 

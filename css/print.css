@@ -1,0 +1,28 @@
+.title {
+    display: none;
+}
+
+#related {
+    display: none;
+}
+
+.rss {
+    display: none;
+}
+
+.site .footer .license {
+    color: #aaa;
+    width: 100%
+}
+
+.site .meta {
+    color: #aaa;
+}
+
+h1 {
+  font-size: larger;
+}
+
+#more-about-this {
+  display: none;
+}

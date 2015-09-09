@@ -1,6 +1,7 @@
 ---
 date: 2012-11-10 01:03:24+00:00
 layout: post
+lang: fr
 title: Science et religion
 ---
 

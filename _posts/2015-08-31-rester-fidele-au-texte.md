@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title: Rester fidèle au texte
 ---
 

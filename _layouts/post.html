@@ -4,7 +4,31 @@ layout: default
 
 <h1> {{ page.title }} </h1>
 
-<p class="meta"> {{ page.date | date_to_string }}{% for p in page.place %}, from {{ p }}{% endfor %} </p>
+<p class="meta">
+  {{ page.date | date: "%-d" }}
+  {% if page.lang == 'fr' %}
+    {% assign m = page.date | date: "%-m" %}
+    {% case m %}
+      {% when '1' %}janvier
+      {% when '2' %}février
+      {% when '3' %}mars
+      {% when '4' %}avril
+      {% when '5' %}mai
+      {% when '6' %}juin
+      {% when '7' %}juillet
+      {% when '8' %}août
+      {% when '9' %}septembre
+      {% when '10' %}octobre
+      {% when '11' %}novembre
+      {% when '12' %}décembre
+    {% endcase %}
+  {% else %}
+    {{ page.date | date: "%B" }}
+  {% endif %}
+  {{ page.date | date: "%Y" }}
+  {% for p in page.place %}, à {{ p }}{% endfor %}
+</p>
+
 <div id="post">
 {{ content }}
 </div>

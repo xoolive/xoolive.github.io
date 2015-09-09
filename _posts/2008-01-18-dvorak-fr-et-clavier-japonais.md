@@ -1,6 +1,7 @@
 ---
 date: 2008-01-18 07:08:13+00:00
 layout: post
+lang: fr
 title: Le dvorak-fr sur un clavier japonais
 ---
 

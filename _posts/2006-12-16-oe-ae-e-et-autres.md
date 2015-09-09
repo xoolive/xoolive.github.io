@@ -1,6 +1,7 @@
 ---
 date: 2006-12-16 11:04:14+00:00
 layout: post
+lang: fr
 title: œ, æ, É et autres...
 ---
 
