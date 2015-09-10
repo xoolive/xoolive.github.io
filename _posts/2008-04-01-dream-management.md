@@ -1,6 +1,7 @@
 ---
 date: 2008-04-01 08:43:43+00:00
 layout: post
+lang: fr
 title: Dream management
 ---
 
