@@ -1,24 +1,43 @@
 ---
 layout: default
-title: xoolive.org
+title: xoolive.org » Xavier Olive
 permalink: /
 ---
 
 <div id="home">
 
-  <h1>About me</h1>
+  <h1>Technical posts</h1>
   <ul class="posts">
-      <li><a href="/self-introduction/">A self-introduction</a></li>
+  {% for post in site.posts %}
+      {% if post.tags[0] == "technical" %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+  {% endfor %}
   </ul>
 
   <h1>Blog posts</h1>
   <ul class="posts">
-    {% for post in site.posts %}
+  {% for post in site.posts %}
+      {% if post.tags[0] != "technical" %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+      {% endif %}
+  {% endfor %}
   </ul>
 
-  <h1>Noteworthy projects</h1>
+  <h1>Noteworthy open-source projects</h1>
+  <ul class="posts">
+      <li><i class="fa fa-github"></i>
+          <a href="https://github.com/xoolive/quadtree/">xoolive/quadtree</a> »
+          a quadtree library for managing moving objects</li>
+      <li><i class="fa fa-github"></i>
+          <a href="https://github.com/xoolive/geodesy/">xoolive/geodesy</a> »
+          a toolkit for geodesy computing (spherical and WGS84)</li>
+      <li><i class="fa fa-github"></i>
+          <a href="https://github.com/xoolive/facile/">xoolive/facile</a> »
+          a Python wrapping for OCaml FaCiLe library (constraint programming)</li>
+  </ul>
+
+  <p>I also keep an eye on the following open-source projects:</p>
   <ul class="posts">
       <li><a href="http://pandoc.org/">pandoc.org</a> » <code>pandoc</code> is
           a tool to convert documents from one markdown language
@@ -28,15 +47,20 @@ permalink: /
           develops a web application that allows to create and share
           documents that contain live code, equations, visualizations and
           explanatory text.</li>
-      <li><a href="https://github.com/bmatzelle/gow/">
-              <i class="fa fa-github"></i> bmatzelle/gow</a> »
-          <code>gow</code> is a lightweight alternative to Cygwin that packs
-          130+ useful open source UNIX applications compiled as native
-          win32 binaries</li>
-      <li><a href="http://vispy.org">vispy.org</a> »
-          VisPy is a high-performance interactive 2D/3D data visualization
-          library.</li>
+      <li><a href="http://www.typerex.org/">typerex.org</a> » TypeRex is a set
+          of tools and libraries for developing applications in OCaml.</li>
   </ul>
+
+  <h1>Disclaimer</h1>
+
+  <ul>
+    <li>I write here about anything that crosses my mind on a given day;</li>
+    <li>I prefer to avoid the process of moderating comments (mostly spam);</li>
+    <li>If something really bugs you, you can still contact me
+      <a href="https://github.com/xoolive/xoolive.github.io/issues">here</a>.
+    </li>
+  </ul>
+
 
 </div>
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: technical
 title: Issues on loading DLLs with pyinstaller
 ---
 

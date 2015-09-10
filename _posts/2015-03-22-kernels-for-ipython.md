@@ -1,6 +1,7 @@
 ---
 date: 2015-03-22 22:24:13+00:00
 layout: post
+tags: technical
 title: Kernels for iPython
 ---
 

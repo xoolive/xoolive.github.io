@@ -1,6 +1,7 @@
 ---
 date: 2008-04-03 07:27:47+00:00
 layout: post
+tags: technical
 title: Fonts in LaTeX
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2007-07-02 08:07:03+00:00
 layout: post
+tags: technical
 lang: fr
 title: LaTeX en japonais
 ---
