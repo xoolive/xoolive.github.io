@@ -156,6 +156,10 @@ ul.posts span {
   display: none;
 }
 
+.footnotes a {
+  color: #76baff;
+}
+
 /*
  * Posts
  */
