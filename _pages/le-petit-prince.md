@@ -38,5 +38,6 @@ I bought some of these books during trips around the world. Some were offered by
  - 2015: *Litli Prinsinn*, Icelandic, `offered by Élyse`
  - 2015: *Tiprens-La*, Guadeloupe Creole, `bought in a Paris bookshop`
  - 2015: *Printze txilia*, Basque, `offered by Bob`
+ - 2015: *Regulus*, Latin, `bought on Amazon`
 
 [^1]: Also offered by Damien and Marianne (2015)
