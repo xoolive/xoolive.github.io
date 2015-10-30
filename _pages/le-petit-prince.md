@@ -39,5 +39,6 @@ I bought some of these books during trips around the world. Some were offered by
  - 2015: *Tiprens-La*, Guadeloupe Creole, `bought in a Paris bookshop`
  - 2015: *Printze txilia*, Basque, `offered by Bob`
  - 2015: *Regulus*, Latin, `bought on Amazon`
+ - 2015: *Lou pichin prince*, Nissart, `bought online`
 
 [^1]: Also offered by Damien and Marianne (2015)
