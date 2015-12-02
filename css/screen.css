@@ -48,8 +48,20 @@ a:hover {
 table {
   font-size: inherit;
   font: 100%;
+      border-collapse: separate;
+    border-spacing: 0px 5px;
 }
 
+thead tr th {
+    border-bottom: 1px solid rgb(170, 170, 170);
+    border-spacing: 5px;
+}
+th {
+    padding: 0px 10px;
+}
+td {
+    padding: 0px 10px;
+}
 /*
  * Home
  */
