@@ -22,7 +22,7 @@ I bought some of these books during trips around the world. Some were offered by
  - 2008: *เจ้าชายน้อย*, Thai, `bought in a Chiang Mai bookshop`
  - 2008: *الأمير الصغير*, Arabic, `offered by Lubna`
  - 2008: *Ang Munting Prinsipe*, Tagalog, `bought in a Cebu Island bookshop`
- - 2009: *De Kleine Prins*, Dutch,
+ - 2009: *De Kleine Prins*, Dutch, `offered by a kind couchsurfer`
  - 2009: *Küçük Prens*, Turkish, `offered by Lubna`
  - 2009: *Väike Prints*, Estonian, `offered and mailed by Gea`
  - 2009: *El petit princep*, Catalan, `bought in a Barcelona bookshop`
