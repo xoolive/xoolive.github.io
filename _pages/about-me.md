@@ -21,7 +21,7 @@ Outside office hours, I love to learn new things, especially when it comes to:
 I appreciate a good cup of tea and/or coffee.
 
 <i class="fa fa-code fa-lg" style="margin-right: 1em; width: 15pt"></i>
-I do enjoy vim, git, python, ocaml and Markdown; also LaTeX and TikZ[^1].
+I do enjoy vim, git, python, ocaml and Markdown; also LaTeX and TikZ/pgfplots[^1].
 
 [^1]: For a beautiful TikZ gallery, see [texample.net](http://texample.net).
 
