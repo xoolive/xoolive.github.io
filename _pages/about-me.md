@@ -35,4 +35,4 @@ I collect [translations](/le-petit-prince) of *Le Petit Prince*.
 I have some obsessional disorder with maps.
 
 <i class="fa fa-paper-plane-o fa-lg" style="margin-right: 1em; width: 15pt"></i>
-There is some history between me and planes. Feel free to ask...
+There is some history between me and planes.
