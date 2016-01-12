@@ -35,6 +35,7 @@ As for the single `-`, it causes `tar` to read/write from `stdin/stdout`.
 When I connect to my account on some university I am related with, I need to create a `tty` terminal on a gateway before connecting another server (say `student01`) where I have a proper account. Only the gateway is visible from outside.
 
 The recommended way to connect is:
+
 ```sh
 ssh -t gateway.university.edu student01
 ```
