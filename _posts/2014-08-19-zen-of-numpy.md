@@ -1,6 +1,7 @@
 ---
 date: 2014-08-19 13:24:21+00:00
 layout: post
+tags: technical
 title: The zen of NumPy
 ---
 
