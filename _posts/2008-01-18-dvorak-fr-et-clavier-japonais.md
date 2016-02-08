@@ -24,7 +24,7 @@ Je propose donc de déplacer pour ce clavier le "ç" sur la touche entre le "j" 
 
 Sous un système Linux, ajouter les lignes suivantes dans le fichier `/usr/share/X11/xkb/symbols/fr`, à la rubrique de la description du clavier "dvorak-fr".
 
-```
+~~~
 key <HZTG> {
   type[Group1]="PC_SYSRQ",
   symbols[Group1]= [ Zenkaku_Hankaku, Kanji ]
@@ -40,4 +40,4 @@ key <HKTG> {
 };
 key <AB11>  { [ ccedilla, Ccedilla ] };
 key <AC12>  { [     ugrave,   Ugrave,       masculine,    ordfeminine ] };`
-```
+~~~

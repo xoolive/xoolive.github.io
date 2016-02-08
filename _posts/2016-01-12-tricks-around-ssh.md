@@ -15,17 +15,17 @@ You can use `tar` to make a single file of a directory, compress it if need be, 
 
 When you send files to a server:
 
-```sh
+~~~sh
 tar cvzf - dir_to_copy/ | ssh user@host "cat > /path/to/archive.tar.gz"
 tar cvzf - dir_to_copy/ | ssh user@host "tar xvzf - -C /path/to/dir"
-```
+~~~
 
 When you send files from a server:
 
-```sh
+~~~sh
 ssh user@host "tar cvzf - dir_to_copy/" | cat > /path/to/archive.tar.gz
 ssh user@host "tar cvzf - dir_to_copy/" | tar xvzf - -C /path/to/dir
-```
+~~~
 
 Note the `-C` option to `tar` that would decompress the file to the proper directory.  
 As for the single `-`, it causes `tar` to read/write from `stdin/stdout`.
@@ -36,13 +36,13 @@ When I connect to my account on some university I am related with, I need to cre
 
 The recommended way to connect is:
 
-```sh
+~~~sh
 ssh -t gateway.university.edu student01
-```
+~~~
 
 This is quite inconvenient, esp. when I want to transfer files with `scp`. The following configuration can be put in a `.ssh/config` if you happen to need to deal with such configuration:
 
-```
+~~~
 Host gateway
 Hostname gateway.university.edu
 User olive
@@ -53,6 +53,6 @@ Hostname student01
 User olive
 ProxyCommand ssh gateway nc %h %p
 #ForwardX11 yes
-```
+~~~
 
 `scp` and also `ssh-copy-id` work properly now, and I only have one password left to type (on `gateway`) when I connect there.

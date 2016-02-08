@@ -9,17 +9,17 @@ For anyone using LaTeX, it is sometimes appreciable to be able to change the fon
 
 So let us have a look at the `palatino.sty` file.
 
-```latex
+~~~latex
 \renewcommand{\rmdefault}{ppl}
 \renewcommand{\sfdefault}{phv}
 \renewcommand{\ttdefault}{pcr}
-```
+~~~
 
 Actually, only the first line redefines the roman style to Palatino. Because of next lines, sans-serif style will be also changed to Helvetica, and typewriter style will be changed to Courrier.
 
 Therefore, it is possible to redefine the font of any style, the default one being
 
-```latex
+~~~latex
 {\rmdefault}{cmr}
 {\ttdefault}{cmtt}
 {\sfdefault}{cmss}
@@ -29,11 +29,11 @@ Therefore, it is possible to redefine the font of any style, the default one bei
 {\itdefault}{it}
 {\scdefault}{sc}
 {\sldefault}{sl}
-```
+~~~
 
 if we refer to the list hereunder:
 
-```
+~~~
 bch         Charter
 lmr         Latin Modern Roman
 lmss        Latin Modern Sans Serif
@@ -49,13 +49,13 @@ ppl         Palatino
 ptm         Times
 put         Utopia
 pzc         Zapf Chancery
-```
+~~~
 
 I would keep a very simple header for my files:
 
-```latex
+~~~latex
 \usepackage[T1]{fontenc}       % for the font family, the accents
 \usepackage[utf8]{inputenc}    % for the utf8 encoding
 \renewcommand{\rmdefault}{ppl} % for the Palatino font
 \usepackage{mathpazo}          % for the math fonts in Palatino
-```
+~~~

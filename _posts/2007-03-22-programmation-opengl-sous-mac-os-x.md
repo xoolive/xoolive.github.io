@@ -10,17 +10,17 @@ Venant de passer sous MacOS X, j'ai rencontré quelques problèmes de compatibil
 
 Cependant, il convient d'adapter les `#include` et l'édition de lien.
 
-```c
+~~~c
 #include <OpenGL/gl.h>
 #include <OpenGL/glu.h>
 #include <GLUT/glut.h>
-```
+~~~
 
 Lors de l'édition de lien, il faudra ajouter les drapeaux:
 
-```
+~~~
 -framework OpenGL -framework GLUT
-```
+~~~
 
 Sur mes projets, certes simples, ceci a suffit.  
 Pour les instructions `#ifdef`, le test à faire est sur la variable `__APPLE__`.

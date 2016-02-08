@@ -6,19 +6,19 @@ title: Building libpython34.a for Windows
 
 This trick is already to be found at many places around the net, but I never happen to find it when I need it. So, here goes:
 
-```batch
+~~~batch
 gendef python34.dll
 dlltool --dllname python34.dll --def python34.def --output-lib libpython34.a
-```
+~~~
 
 Another related useful piece of information concerns how Python has been built. You can find what you need on the second line after running Python.
 
-```
+~~~
 Python 3.4.3 (default, Nov  8 2015, 21:37:19)
 [MSC v.1600 32 bit (Intel)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
-```
+~~~
 Look  here: `[MSC v.1600 ...]`. For Windows, here is how to decode this line:
 
 | Version of Visual C++       | Compiler version |

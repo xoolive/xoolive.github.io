@@ -35,7 +35,7 @@ Concernant le français, il n'existe pas de disposition officielle : tout le  mo
 
 
 **Sous les systèmes *nix récents,** il suffit de taper la commande  suivante:  
-```setxkbmap -layout fr -variant dvorak```
+~~~setxkbmap -layout fr -variant dvorak```
 
 Si le système est plus vieux – ou plus précisément si la version du  serveur graphique est plus vieille –, inversez `layout` et `dvorak` dans la  commande précédente.
 
