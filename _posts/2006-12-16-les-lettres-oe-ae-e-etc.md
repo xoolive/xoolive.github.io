@@ -2,7 +2,7 @@
 date: 2006-12-16 11:04:14+00:00
 layout: post
 lang: fr
-title: œ, æ, É et autres...
+title: Les lettres œ, æ, É, etc.
 ---
 
 Idée reçue numéro 1 : l'informatique dispense d'orthographier correctement. Un clavier de base ne contient pas le œ, donc on serait dispensé de le taper. On serait autorisé à écrire « une soeur » et « un oeuf », graphie à laquelle réagissent tous les correcteurs orthographiques. Dans un logiciel de traitement de texte, un clic droit permet de corriger rapidement mais tous les logiciels n'en sont pas munis.
