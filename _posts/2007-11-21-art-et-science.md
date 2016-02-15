@@ -13,8 +13,7 @@ Les disciplines artistiques ont souvent été influencées par les innovations s
 
 De la même manière, le pointillisme en peinture apparaît aux débuts de l'optique. Le pointillisme est cette technique qui consiste à ne peindre qu'à l'aide de couleurs primaires. Le mélange ne se fait pas par la peinture, mais dans l'œil de l'observateur. Lorsque le tableau est observé à une certaine distance, les taches de couleur ne peuvent pas être distinguées les unes des autres et se fondent optiquement les unes aux autres. Les artistes ont ici exploité ces lois de l'optique.
 
-<img alt="Un dimanche après-midi sur l'île de la Grande Jatte* (Georges Seurat)" src="/images/seurat.jpg" width=80% style="margin: 0px 4em;"/>
-
+![Un dimanche après-midi sur l'île de la Grande Jatte* (Georges Seurat)](/images/seurat.jpg){:width="80%" style="margin: 0px 4em;"}
 
 En littérature également, le courant naturaliste, où l'écrivain, en posant un cadre et des personnages significatifs de l'époque, adopte une démarche scientifique semblable à celle du biologiste, qui observe a posteriori les interactions entre les protagonistes de la société qu'il dépeint. Les *Rougon-Macquart* n'est que le reflet de démarche expérimentale de rigueur en biologie.
 

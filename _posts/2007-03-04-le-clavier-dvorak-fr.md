@@ -29,13 +29,16 @@ Ces dispositions précédemment énoncées sont valables pour taper efficacement
 
 Concernant le français, il n'existe pas de disposition officielle : tout le  monde y est allé de sa petite modification. Je vous recommande cependant  d'utiliser la disposition adoptée par X.org (les serveurs graphiques sous les  systèmes *nix) présentée ci-dessous :
 
-<img alt="Le clavier dvorak-fr" src="/images/clavier-dvorak-fr.png" width=80% style="margin: 0px 4em;"/>
+![Le clavier dvorak-fr](/images/clavier-dvorak-fr.png){:width="80%" style="margin: 0px 4em;"}
 
 ### Et pour l'utiliser ?
 
 
-**Sous les systèmes *nix récents,** il suffit de taper la commande  suivante:  
-~~~setxkbmap -layout fr -variant dvorak```
+**Sous les systèmes *nix récents,** il suffit de taper la commande suivante:  
+
+~~~sh
+setxkbmap -layout fr -variant dvorak
+~~~
 
 Si le système est plus vieux – ou plus précisément si la version du  serveur graphique est plus vieille –, inversez `layout` et `dvorak` dans la  commande précédente.
 
