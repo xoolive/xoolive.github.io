@@ -42,5 +42,6 @@ I bought some of these books during trips around the world. Some were offered by
  - 2015: *Regulus*, Latin, `bought on Amazon`
  - 2015: *Lou pichin prince*, Nissart, `bought online`
  - 2016: *Ilay Andriandahy Kely*, Malagasy, `offered and mailed by Fara`
+ - 2016: *Den Lille Prinsen*, Swedish, `offered by Nicolás`
 
 [^1]: Also offered by Damien and Marianne (2015)
