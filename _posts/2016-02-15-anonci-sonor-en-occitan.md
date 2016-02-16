@@ -12,7 +12,7 @@ Après m'être éloigné de Toulouse pendant quelques années, j'avais eu la sur
 Pourtant, ma première réaction ne fut pas vraiment positive.  
 Tout d'abord, je n'avais jamais entendu d'occitan avant à Toulouse ; tout juste en avais-je aperçu sur le nom des rues et sur les panneaux d'entrée dans la ville. Et puis pourquoi s'évertuer à répéter les noms des stations tels quels, avec une voix somme toute disgracieuse. Tout juste pouvais-je percevoir une différence à la station « Saint-Cyprien -- République ».
 
-Puis lors d'un nouveau passage à Toulouse, une nouvelle voix, féminine, douce et claire, la même en français et en occitan. L'art de trouver une voix *neutre*, sans accent, intelligible par tous pour des messages dans les transports en commun est difficile. J'avais entendu qu'une ville[^2] avait choisi d'enregistrer des voix d'enfants pour annoncer les stations de son système de transport. Ici l'exercice est plutôt réussi, et surtout les messages ne se résument pas au nom des stations:
+Puis lors d'un nouveau passage à Toulouse, une nouvelle voix, féminine, douce et claire, la même en français et en occitan. L'art de trouver une voix *neutre*, sans accent, intelligible par tous pour des messages dans les transports en commun est difficile. J'avais entendu qu'une ville[^2] avait choisi d'enregistrer des voix d'enfants pour annoncer les stations de son système de transport. Ici l'exercice est plutôt réussi, et surtout les messages ne se résument pas au nom des stations. On entend également :
 
 > - *Estacion veneta* : ... (prochaine station) ;
 > - *Atencion, davalada a esquèrra* (attention, descente à gauche) ;
