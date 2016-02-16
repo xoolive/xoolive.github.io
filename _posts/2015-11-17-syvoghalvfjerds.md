@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-title: Syvoghalvfjerds
+title: Syvoghalvfjerds, 7 + (-½ + 4) × 20 = 77
 ---
 
 Les langues évoluent, s'adaptent, et ont tendance à converger vers des postures parfois étonnantes, vestiges de pratiques aujourd'hui désuettes.
