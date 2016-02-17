@@ -2,7 +2,7 @@
 layout: post
 lang: fr
 tags: technical notebook
-title: Le rolling shutter
+title: L'effet « rolling shutter »
 ---
 
 > *L'envie m'a prise de tenter de publier régulièrement une série de petites expériences codées dans des notebooks [Jupyter](http://jupyter.org). Le billet est alors généré de manière semi-automatique en Markdown par le convertisseur embarqué.*
@@ -32,7 +32,7 @@ plt.polar(theta, r, '.')
 ~~~
 
 
-![Modélisation d'une hélice par une équation polaire](/images/rolling_shutter_3_0.png){:width="35%" style="margin: 0px 4em;"}
+![Modélisation d'une hélice par une équation polaire](/images/l-effet-rolling-shutter_3_0.png){:width="35%" style="margin: 0px 4em;"}
 
 
 On construit une image en manipulant une grille d'une résolution donnée.  
@@ -67,6 +67,6 @@ propellers(5, .01,  ax[1, 0])
 propellers(5, .03,  ax[1, 1])
 ~~~
 
-![Artefacts pour plusieurs vitesses de rotation](/images/rolling_shutter_5_0.png){:width="80%" style="margin: 0px 4em;"}
+![Artefacts pour plusieurs vitesses de rotation](/images/l-effet-rolling-shutter_5_0.png){:width="80%" style="margin: 0px 4em;"}
 
 [#]: vim: spelllang=fr
