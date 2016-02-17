@@ -5,7 +5,7 @@ tags: technical notebook
 title: Le rolling shutter
 ---
 
-> *L'envie m'a prise de tenter de publier régulièrement une série de petites expériences codées dans des notebooks [Jupyter](jupyter.org). Le billet est alors généré de manière semi-automatique en Markdown par le convertisseur embarqué.*
+> *L'envie m'a prise de tenter de publier régulièrement une série de petites expériences codées dans des notebooks [Jupyter](http://jupyter.org). Le billet est alors généré de manière semi-automatique en Markdown par le convertisseur embarqué.*
 
 Le *rolling shutter* est un artefact produit par un appareil photographique qui fixe une image par déroulement. Il engendre des déformations sur l'image capturée.
 
