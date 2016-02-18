@@ -4,7 +4,7 @@ lang: fr
 title: Anonci sonòr en occitan dins lo mètro de Tolosa
 ---
 
-Après m'être éloigné de Toulouse pendant quelques années, j'avais eu la surprise lors d'un passage dans la ville rose d'entendre des annonces bilingues dans le métro... en occitan. Après avoir passé dans de nombreuses villes d'Asie à apprendre quelques rudiments des langues locales par la musique des haut-parleurs[^1], je n'étais pas vraiment choqué de ne pas voir tous les messages traduits en *allemanglaispagnol*.
+Après m'être éloigné de Toulouse pendant quelques années, j'avais eu la surprise lors d'un passage dans la ville rose d'entendre des annonces bilingues dans le métro... en occitan. Après avoir passé dans de nombreuses villes d'Asie à apprendre quelques rudiments des langues locales par la musique des haut-parleurs[^1], je n'étais pas vraiment choqué de ne pas voir tous les messages traduits en anglais, espagnol ou allemand.
 
 [^1]: Je me revois encore en train de marmonner dans le métro de Séoul  
     « 이번 역은 종로 3가. 다음, 안국역 입니다 »...
