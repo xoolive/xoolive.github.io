@@ -55,7 +55,7 @@ def propellers(nb_prob, speed, ax, resolution=1000):
     r = np.sqrt(xx * xx + yy * yy)
     
     # Colormap à peu près lisible
-    ax.imshow(r - 4 * resolution / 10 * np.sin(nb_prop * theta) <= 1,
+    ax.imshow(r <= 4 * resolution / 10 * np.sin(nb_prop * theta),
               cmap=plt.cm.Blues)
     ax.set_title("Vitesse : {}".format(speed))
 
