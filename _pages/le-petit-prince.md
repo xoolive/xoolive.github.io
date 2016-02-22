@@ -39,9 +39,11 @@ I bought some of these books during trips around the world. Some were offered by
  - 2015: *Litli Prinsinn*, Icelandic, `offered by Élyse`
  - 2015: *Tiprens-La*, Guadeloupe Creole, `bought in a Paris bookshop`
  - 2015: *Printze txilia*, Basque, `offered by Bob`
- - 2015: *Regulus*, Latin, `bought on Amazon`
- - 2015: *Lou pichin prince*, Nissart, `bought online`
+ - 2015: *Regulus*, Latin, `bought online`
+ - 2015: *Lou pichin prince*, Nissart[^2], `bought online`
  - 2016: *Ilay Andriandahy Kely*, Malagasy, `offered and mailed by Fara`
  - 2016: *Den Lille Prinsen*, Swedish, `offered by Nicolás`
+ - 2016: *Lou Princihoun*, Provençal[^2], `bought online`
 
 [^1]: Also offered by Damien and Marianne (2015)
+[^2]: Occitan dialects. The spelling follows the Mistralian norm.
