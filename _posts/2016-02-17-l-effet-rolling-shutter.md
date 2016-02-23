@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-tags: technical notebook
+tags: notebook
 title: L'effet « rolling shutter »
 ---
 

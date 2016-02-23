@@ -11,10 +11,18 @@ permalink: /
   {% for post in site.posts %}
       {% if post.tags[0] == "technical" %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo;
-        {% if post.tags[1] == "notebook" %}
-        <i class="fa fa-code" style="color: #ffa500"></i>
-        {% endif %}
       <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+  {% endfor %}
+  </ul>
+
+  <h1>Fun things to do with programming</h1>
+  <ul class="posts">
+  {% for post in site.posts %}
+      {% if post.tags[0] == "notebook" %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo;
+        <i class="fa fa-code" style="color: #ffa500"></i>
+        <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
   {% endfor %}
   </ul>
@@ -29,6 +37,7 @@ permalink: /
   </ul>
 
   <h1>Noteworthy open-source projects</h1>
+  <p>I maintain the following small-scale open-source tools:</p>
   <ul class="posts">
       <li><i class="fa fa-github"></i>
           <a href="https://github.com/xoolive/quadtree/">xoolive/quadtree</a> »
@@ -43,16 +52,21 @@ permalink: /
 
   <p>I also keep an eye on the following open-source projects:</p>
   <ul class="posts">
-      <li><a href="http://pandoc.org/">pandoc.org</a> » <code>pandoc</code> is
+      <li><i class="fa fa-github"></i>
+          <a href="https://github.com/jgm/pandoc/">jgm/pandoc</a> »
           a tool to convert documents from one markdown language
           to another: it supports Markdown, reST, org-mode, HTML, LaTeX, docx,
-          epub, among others.</li>
-      <li><a href="http://jupyter.org/">jupyter.org</a> » The Jupyter project
-          develops a web application that allows to create and share
-          documents that contain live code, equations, visualizations and
-          explanatory text.</li>
-      <li><a href="http://www.typerex.org/">typerex.org</a> » TypeRex is a set
-          of tools and libraries for developing applications in OCaml.</li>
+          epub, among others. <a href="http://www.pandoc.org">more</a></li>
+      <li><i class="fa fa-github"></i>
+          <a href="https://github.com/jupyter/jupyter/">jupyter/jupyter</a> »
+          The Jupyter project develops a web application that allows to create
+          and share documents that contain live code, equations, visualizations
+          and explanatory text. <a href="http://www.jupyter.org">more</a></li>
+      <li><i class="fa fa-link"></i>
+          <a href="https://www.typerex.org/">www.typerex.org</a> » TypeRex is a set
+          of tools and libraries provided by OCamlPro for developing
+          applications in OCaml. Since you are there, keep an eye on
+          <a href="http://www.ocamlpro.com/">OCamlPro</a> as well!</li>
   </ul>
 
   <h1>Disclaimer</h1>
