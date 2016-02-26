@@ -138,7 +138,7 @@ $$
     y = \rho_0 - \rho \cos(n (\lambda - \lambda_0))
 $$
 
-On choisit ici de rester en modèle sphérique pour ne pas trop compliquer l'expression de $n$.
+On choisit ici de rester en modèle sphérique pour ne pas trop compliquer l'expression de $$n$$.
 
 $$
     n = \frac{\ln(\cos \varphi_1 \sec \varphi_2)}{\ln (\tan (\frac14 \pi + \frac12 \varphi_2) \cot (\frac14 \pi + \frac12\varphi_1))}
@@ -314,7 +314,7 @@ On simplifie alors une carte de France métropolitaine. La carte de base fournie
 
 
 ~~~python
-def addmap(x, y, max_area, ax):
+def add_map(x, y, max_area, ax):
     new_pol = visvalingam(x, y, max_area)
     nb_pts = len(new_pol.exterior.coords)
 
@@ -339,10 +339,10 @@ for idx, p in enumerate(a):
     lat = np.array([lat for (_, lat) in list(p.exterior.coords)])
     x, y = sph2lcc(np.radians(lon), np.radians(lat))
 
-    addmap(x, y, 1e-24, ax[0][0])
-    addmap(x, y, 5e-07, ax[0][1])
-    addmap(x, y, 1e-06, ax[1][0])
-    addmap(x, y, 5e-06, ax[1][1])
+    add_map(x, y, 1e-24, ax[0][0])
+    add_map(x, y, 5e-07, ax[0][1])
+    add_map(x, y, 1e-06, ax[1][0])
+    add_map(x, y, 5e-06, ax[1][1])
 
 ~~~
 
