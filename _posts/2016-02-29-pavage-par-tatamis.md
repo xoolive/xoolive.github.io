@@ -5,7 +5,7 @@ tags: notebook
 lang: fr
 ---
 
-Lorsque l'on loue un appartement ou une maison au Japon, la superficie des pièces n'est pas déterminée en mètres carrés mais en tatamis. Les tatamis sont des tapis de paille riz séchée (*goza*) montés sur des supports en bois, que l'on utilise traditionnellement pour paver le sol des pièces des maisons japonaises.
+Lorsque l'on loue un appartement ou une maison au Japon, la superficie des pièces n'est pas déterminée en mètres carrés mais en tatamis. Les tatamis sont des tapis de paille de riz séchée (*goza*) montés sur des supports en bois, que l'on utilise traditionnellement pour paver le sol des pièces des maisons japonaises.
 
 Une petite chambre d'étudiants fera ainsi 6 tatamis, c'est à dire qu'il est possible de placer 6 tatamis dans la pièce à vivre (sans compter l'entrée, le coin cuisine, les toilettes et la salle de bain). Un tatami peut être modélisé par un rectangle 2 × 1 ; la dimension des tatamis n'est pas définie de manière standard.  
 Les tatamis dans la région de Tôkyô (le Kantô) sont plus petits (88 × 176 cm) que les tatamis de la région de Kyôto (91 × 182 cm).
