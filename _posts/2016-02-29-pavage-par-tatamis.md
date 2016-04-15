@@ -78,6 +78,11 @@ On propose alors d'afficher les différentes solutions de la manière suivante.
 %matplotlib inline
 import matplotlib.pyplot as plt
 
+import seaborn as sns
+
+sns.set(style='whitegrid', palette='Set2')
+sns.despine()
+
 def fill_square(ax, x, y, xs, ys):
     ax.fill([x, x, x+xs, x+xs], [y, y+ys, y+ys, y])
 
