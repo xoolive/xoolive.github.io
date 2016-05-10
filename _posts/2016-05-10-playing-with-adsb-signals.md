@@ -2,13 +2,13 @@
 layout: post
 lang: en
 tags: technical
-title: Getting ADS-B signals
+title: Playing with ADS-B signals
 ---
 
 So I finally got my dongle.
 
 It just started as I played with air traffic data I am not supposed to have,
-and it just didn't plot well around airports. The idea was, as part of the
+and it just did not plot well around airports. The idea was, as part of the
 student project I mentor, to have students plot the takeoff and
 approach/landing pathways used by airlines during one full day. Actually, I
 find it nice to see routes emerging on a map as airplanes fly them.
