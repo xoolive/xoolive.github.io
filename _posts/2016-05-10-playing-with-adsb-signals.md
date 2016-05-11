@@ -103,6 +103,10 @@ The `-s osmocom` option is to be set for the presented dongle. Then, the default
 
 An sqlite file is filled and used to produce a real-time image of the traffic in a kml file. You can view it in Google Earth and set a refresh pace of five seconds for a fair animation of current traffic. The nice part with the Google Earth tracks is that you get a good intuition of different flight levels (cruise, landing, etc.) and get to explore traffic in a 3D manner.
 
+![google earth output](/images/adsb-google-earth.png){:width="80%" style="margin: 0px 4em;"}
+
+> *Note: You can play around with the kml file attached [here](/extra/traffic.kml).*
+
 ## Same story, in the Linux world
 
 So I tried again on another laptop I have access to (Ubuntu 14.04 LTS). Having a more clear idea of where to go, it was easier to infer the following line:
