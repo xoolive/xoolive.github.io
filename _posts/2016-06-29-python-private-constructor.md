@@ -77,8 +77,8 @@ def make_foo(idx):
     >>> make_foo(12)
     Foo: #12
     """
-    value = build_foo(idx, __SECRET__)
-    return Foo(value)
+    value = build_foo(idx)
+    return Foo(value, __SECRET__)
 ~~~
 
 
