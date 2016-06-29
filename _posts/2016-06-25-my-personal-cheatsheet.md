@@ -71,7 +71,7 @@ rm -rf $(brew --cache)
 ~~~
 
 - **Fix errors with invisible characters**  
-  Sometimes you get during compilations errors about "stray ‘\302’ in program":
+  Sometimes you get during compilations errors mentioning `stray ‘\302’ in program`, which can be frustrating:
 
 ~~~
 :% s,\%o302,,g
