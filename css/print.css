@@ -26,3 +26,12 @@ h1 {
 #more-about-this {
   display: none;
 }
+
+input, textarea {
+  display: none;
+}
+
+body {
+    font-family: Georgia, serif;
+    font-size: larger;
+}
