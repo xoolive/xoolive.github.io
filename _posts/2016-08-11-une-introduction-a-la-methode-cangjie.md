@@ -392,7 +392,7 @@ Un principe déroutant dans l'apprentissage de la méthode Cangjie est le décou
 |**力**| | 大 | 尸 |
 |**目**| | 月 | 山 |
 
-*Dans ces exemple, les décomposition 大弓 pour 力 ou 月一 pour 目 seraient incorrectes.*
+*Dans ces exemples, les décompositions 大弓 pour 力 ou 月一 pour 目 seraient incorrectes.*
 
 - Sauf exception, les signes ne se croisent en général pas :
 
