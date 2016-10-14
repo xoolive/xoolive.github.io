@@ -44,6 +44,8 @@ I bought some of these books during trips around the world. Some were offered by
  - 2016: *Ilay Andriandahy Kely*, Malagasy, `offered and mailed by Fara`
  - 2016: *Den Lille Prinsen*, Swedish, `offered by Nicolás`
  - 2016: *Lou Princihoun*, Provençal[^2], `bought online`
+ - 2016: *Lo Princilhon*, Lengadocian[^3], `bought in [Ostal d'Occitània](http://www.ostaldoccitania.net/)`
 
 [^1]: Also offered by Damien and Marianne (2015)
 [^2]: Occitan dialects. The spelling follows the Mistralian norm.
+[^3]: Occitan dialect. The spelling follows the classical norm.
