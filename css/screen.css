@@ -281,8 +281,15 @@ input, textarea {
 
 #post pre {
   border: 1px solid #dddddd;
-  background-color: #f4f4f4;
   padding: 0.2px 0.4em;
+  background-color: #fffcf6;
+  margin-top: -1em;
+  margin-bottom: 1em;
+  border-top-width: 0;
+}
+
+#post .language-python pre {
+  background-color: #f4f4f4;
   margin: 1em 0;
 }
 
