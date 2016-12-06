@@ -617,6 +617,7 @@ plt.plot([length(syracuse(i)) for i in interval],
 ## Read more about it
 
 Make sure to have a look at the following links:
+
 - The PEP about [list comprehensions](https://www.python.org/dev/peps/pep-0202/);
 - An [interesting story](https://www.python.org/doc/essays/list2str/) about code optimisation;
 - More about this [new notation](https://en.wikipedia.org/wiki/Set-builder_notation)
