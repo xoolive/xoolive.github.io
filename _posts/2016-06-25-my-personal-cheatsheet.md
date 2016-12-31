@@ -13,10 +13,10 @@ Let me gather all the commands I (don't) use often (enough).
 - **Upgrade all installed packages**  
   The two following command should be equivalent. Why would `pip` not provide such a function remains a mystery.
 
-~~~
+~~~zsh
 pip freeze -l | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U
 ~~~
-~~~
+~~~zsh
 pip install -U `pip list --outdated | awk '!/Could not|ignored/ {print $1}'`
 ~~~
 
@@ -36,7 +36,7 @@ virtualenv $VIRTUAL_ENV --python=python3
 
 - **List dependencies of a package**
 
-~~~
+~~~zsh
 brew deps <package>
 brew deps --installed <package>
 ~~~
@@ -44,21 +44,21 @@ brew deps --installed <package>
 - **Switch to a different version of a package**  
   Note that this may help to not delete an old version of a package you like.
 
-~~~
+~~~zsh
 brew switch <package> <version>
 ~~~
 
 - **Clean old versions of installed packages**  
   Remove the `-s` if you like what it prints.
 
-~~~
+~~~zsh
 brew cleanup -ns
 ~~~
 
 - **Delete all archives in cache**  
   Homebrew keeps everything by default.
 
-~~~
+~~~zsh
 rm -rf $(brew --cache)
 ~~~
 
@@ -66,20 +66,20 @@ rm -rf $(brew --cache)
 
 - **Insert a Unicode character**
 
-~~~
+~~~zsh
 <ctrl-v>U<code>
 ~~~
 
 - **Fix errors with invisible characters**  
   Sometimes you get during compilations errors mentioning `stray ‘\302’ in program`, which can be frustrating:
 
-~~~
+~~~zsh
 :% s,\%o302,,g
 ~~~
 
 - **When you forgot to sudo** (a classic!)
 
-~~~
+~~~zsh
 :w ! sudo tee %
 ~~~
 

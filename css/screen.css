@@ -288,6 +288,11 @@ input, textarea {
   border-top-width: 0;
 }
 
+#post .language-zsh pre {
+  background-color: #f4f4f4;
+  margin: 1em 0;
+}
+
 #post .language-python pre {
   background-color: #f4f4f4;
   margin: 1em 0;
