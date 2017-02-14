@@ -189,6 +189,7 @@ solution = sopt.fmin_bfgs(func, x0, fprime=func_der, retall=True)
 Now we have a solution (which looks quite good!), and thanks to the `retall` parameter, we get the full convergence track in the second argument of the tuple.
 
 Yet, since all rotations of maps and mirrors of solution maps are equivalent solutions to our problem (we call these symmetries), we need to do some post-processing to put the map in a familiar way:
+
 - we can use the fact that Rome and Copenhagen are almost aligned to rotate the map;
 - we take two cities that we know are east/west of each other, and decide whether a mirroring is necessary.
 
@@ -220,6 +221,7 @@ if mirror == True:
 And now we can plot all cities coordinates with the track of convergence of their respective positions.
 
 We manually set different parameters:
+
 - we trim the image 10% outside the square hull of the cities' positions;
 - we use colormaps to put some sense in this spaghetti soup;
 - we manually chose label placements so as to avoid overlaps and improve readability.
