@@ -20,8 +20,8 @@ permalink: /
   <ul class="posts">
   {% for post in site.posts %}
       {% if post.tags[0] == "notebook" %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo;
-        <i class="fa fa-code" style="color: #ffa500"></i>
+      <li><span>{{ post.date | date_to_string }}</span> 
+        <i class="fab fa-python" style="color: #ffa500"></i>
         <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
   {% endfor %}
@@ -39,30 +39,30 @@ permalink: /
   <h1>Noteworthy open-source projects</h1>
   <p>I maintain the following small-scale open-source tools:</p>
   <ul class="posts">
-      <li><i class="fa fa-github"></i>
+      <li><i class="fab fa-github"></i>
           <a href="https://github.com/xoolive/quadtree/">xoolive/quadtree</a> »
           a quadtree library for managing moving objects</li>
-      <li><i class="fa fa-github"></i>
+      <li><i class="fab fa-github"></i>
           <a href="https://github.com/xoolive/geodesy/">xoolive/geodesy</a> »
           a toolkit for geodesy computing (spherical and WGS84)</li>
-      <li><i class="fa fa-github"></i>
+      <li><i class="fab fa-github"></i>
           <a href="https://github.com/xoolive/facile/">xoolive/facile</a> »
           a Python wrapping for OCaml FaCiLe library (constraint programming)</li>
   </ul>
 
   <p>I also keep an eye on the following open-source projects:</p>
   <ul class="posts">
-      <li><i class="fa fa-github"></i>
+      <li><i class="fab fa-github"></i>
           <a href="https://github.com/jgm/pandoc/">jgm/pandoc</a> »
           a tool to convert documents from one markdown language
           to another: it supports Markdown, reST, org-mode, HTML, LaTeX, docx,
           epub, among others. <a href="http://www.pandoc.org">more</a></li>
-      <li><i class="fa fa-github"></i>
+      <li><i class="fab fa-github"></i>
           <a href="https://github.com/jupyter/jupyter/">jupyter/jupyter</a> »
           The Jupyter project develops a web application that allows to create
           and share documents that contain live code, equations, visualizations
           and explanatory text. <a href="http://www.jupyter.org">more</a></li>
-      <li><i class="fa fa-link"></i>
+      <li><i class="fas fa-link"></i>
           <a href="https://www.typerex.org/">www.typerex.org</a> » TypeRex is a set
           of tools and libraries provided by OCamlPro for developing
           applications in OCaml. Since you are there, keep an eye on
