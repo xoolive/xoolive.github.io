@@ -139,6 +139,12 @@ pdftk book.pdf output uncompressed.pdf uncompress
 pdftk uncompressed.pdf output clean.pdf compress
 ```
 
+Or to rotate pages:
+
+```zsh
+pdftk in.pdf cat 1-endwest output out.pdf
+```
+
 
 
 ## pdfrename

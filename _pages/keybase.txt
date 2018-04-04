@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/xoolive
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.xoolive.org
+  * I am xoolive (https://keybase.io/xoolive) on keybase.
+  * I have a public key with fingerprint 481C FB6C A003 AC28 A707  9CC2 F860 C160 A6B9 B1CD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014226bb56f54d330b1058a411d5eba2279bc84aea9e740c1ce010965b9de645e50a",
+      "fingerprint": "481cfb6ca003ac28a7079cc2f860c160a6b9b1cd",
+      "host": "keybase.io",
+      "key_id": "f860c160a6b9b1cd",
+      "kid": "01014226bb56f54d330b1058a411d5eba2279bc84aea9e740c1ce010965b9de645e50a",
+      "uid": "0233457c5d1ddf4eb6cfe8a8426d1d19",
+      "username": "xoolive"
+    },
+    "service": {
+      "hostname": "www.xoolive.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1522869633,
+  "expire_in": 157680000,
+  "prev": "67612f6ac0d629a5cb77aac578830b1e4cbe9f859dc2df284a3296dd7d44e7b6",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNDAnicrZJ/UBRlGMfv6IA4cvxBVxgKzSo6CHPu7u2+u3shydCkATLEzySnY3+8
+e6zA7Xl3HJ6igYM1lpBZxKmoiNSMCFM3NUGi6SkqCmpOSTUk4MRMRNqIwWQTRu8S
+/defvf+88z7v5/t9v88zb8+8x3RG/cPiYPFHXwSu6fuCByt0RRfja7Zjgir5MOt2
+rBTObrBMgm6PrVSRMCuGEzhBkSQQBBrINCVZLLhA4DTLUwQh0VDgSZLhBJGleMhz
+kKFwkRAhEnGAFjgJAoqGNM5jSZisOOzQ5XQpDg+ypVhClAUg8jhu4UWS5Rmc4USR
+lFmAHADOA4ETCFFCwhLVrSlQOIF3Q7Oioho62Gbj/Qf/P+eu+MeOtFgomhFpiZAk
+mYIougxZnqVIgCoEp4Fu6HLw5RDRW1W1TPFCbEcShopeRYTaXLVG5oDKykrzHGRW
+XXakdrpUjyqqZeiyxONxuq2a2ONzztJQsM352ATFIaFJIoUXutyK6sCsBCJFj6IZ
+EzRJsoADFksSBrc6FRe0KRpBM4DF0dLegV5kCRhAkDLgRVwCJMfTosAwPC/SDMtq
+g4KUKEBOZmlOEklJJtGYLCQHJImRKAoyAsC0zrY4VOTNoJy8HXm6FbuD91S4UN/n
+g5sMOr1RFxYaon0xnTFiwb8fb33T/EcLhk8fOD9kct52RZ8KvL5LdY6+dHbZey0N
+a7+veCszsObYvpYLsXp3J5nkjOxaZKKu5VcZdr4clz4wnVak/nW55oQ4eL3bvKUa
+b/kjJSq74IUPK62BPSNl6zYbNoX5Q9NLbjbMGPp2Dz3h/Skx96B+z6p5ufHnhutq
+63VnF+faWgPdD3Y2Bn8PiUsZtIKOREt+UUh3Yd6P4EAwOta4zmQ6kXzHFxQSnh/i
+Bw4bnwYDct10bOZ+5qYvP4vxj8QUZXR+3P5t6ouZtUce/myre/TZ2ucCj8d/8mdh
+bbkUv6EAjr87mJq16p5zmfXItrSa9+uXLnzztyujTMGTb4DRDYu6/T1x97LDW02d
+n++dvGXo6Hkq6lJMBG7OHN/fm+hffb/JH/Gsb+burl6W9/96e/HbZvlQ4Oryir7k
+yeLQhDbjVEIM1p9VfWF174oPftmWXFLbPPSODq5srz7cdzq10y6UF2dN5wo3Bl47
+SQwXMh29/FeOdrCmI+doyfyqk2ljY+fu9oQ3femcqA975np/6HfNxolGR+F4is50
+scv+yoO8y3eWL8nbONNxpqf5zNK2WzeWlIYYv16oN0ZutDa1ZZMjRS0ZrdPYxNWV
+kw07omoPuab2bu7vTf+0f6o0w1V13xudI0zodp+yzViiM7pSX11x6crRnMFUa3x4
+I9l5/Jvjacd+iEyJNPgCY38DrpK7WA==
+=OTWE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xoolive
+
+==================================================================
+
