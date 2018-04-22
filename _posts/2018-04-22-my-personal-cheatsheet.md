@@ -2,11 +2,16 @@
 layout: post
 lang: en
 tags: technical
+date: 2016-06-25
 title: My personal cheatsheet
+permalink: /cheatsheet/
 ---
 
-Let me gather all the commands I (don't) use often (enough).  
-*(The indicated date is the one of the latest edition.)*
+My favourite Linux command line tools are described [here](/linux-tools/).  
+All what doesn't fit there comes on this more dynamic page.
+
+*Latest edition*: 22 April 2018 
+
 
 # 1. Around Python
 
@@ -28,9 +33,34 @@ rm $VIRTUAL_ENV/**/*(@) # zsh specific: remove all symlinks
 virtualenv $VIRTUAL_ENV --python=python3
 ~~~
 
+- **Activate widgets on Jupyter Lab**
+
+```zsh
+pip install ipywidgets
+# for notebooks
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
+# for Jupyter Lab
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+```
+
+- **Upload wheels to PyPI**
+
+```zsh
+twine upload dist/*.whl
+```
+
 # 2. Around git
 
 - [How to rebase a pull request](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request)
+
+- **Remove files mistakenly added in previous commit**:
+
+```zsh
+git reset --soft HEAD~1
+git reset HEAD path/to/unwanted_file
+git commit -c ORIG_HEAD
+```
+
 
 # 3. Around Homebrew
 
@@ -83,3 +113,32 @@ rm -rf $(brew --cache)
 :w ! sudo tee %
 ~~~
 
+# 5. Miscellaneous
+
+- **Remove empty directories**
+
+```zsh
+find . -type d -empty -delete
+```
+
+- **Crop a pdf file to hide/reveal part of it**
+
+```zsh
+pdfcrop --margins '0 0 0 -620' --clip private_information.pdf
+```
+
+- **Search for files with identical content**
+
+```zsh
+fdupes .  # first checks checksums then byte-by-byte
+```
+
+- **Improve battery life when you forgot your charger** (Linux)
+
+```zsh
+sudo apt install cpufrequtils
+sudo cpufreq-set -g powersave -c 0
+sudo cpufreq-set -g powersave -c 1
+sudo cpufreq-set -g powersave -c 2
+sudo cpufreq-set -g powersave -c 3
+```

@@ -4,6 +4,15 @@ title: Le Petit Prince
 permalink: /le-petit-prince/
 ---
 
+<style type="text/css">
+code {
+  font-family: inherit;
+  color: #999;
+  font-size: 90%;
+  float: right
+}
+</style>
+
 # Le Petit Prince
 
 The first contact I had with *Le Petit Prince* was in 1991, as we read the stories of the lamplighter and of the fox at school.

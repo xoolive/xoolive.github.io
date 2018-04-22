@@ -3,6 +3,7 @@ date: 2018-01-04
 layout: post
 title: Linux at the command line
 tag: technical
+permalink: /linux-tools/
 ---
 
 As a research scientist in computer and data science, Linux is part of my daily work routine. I did the investment back in my students days (that would be a 15th anniversary!) and it has truly been worth it. Linux was a tad more unstable back in the days, but the terminal experience is still something I need on a daily basis. First as a developper, since developping a graphical user interface is a time consuming thankless task, but also as an end user to get a better control on my operating system and on various kinds of data produced by the devices that are have started to ~~track~~ accompany our lives in the past decade.
