@@ -26,6 +26,8 @@ Keep in mind to have a look at [`traitlets`](https://traitlets.readthedocs.io/) 
     - Didn't try [Go](https://github.com/gopherdata/gophernotes), [Haskell](https://github.com/gibiansky/IHaskell), didn't find anything decent for Scala or Rust.  
     *Note to myself*: learn those languages first!
 
+- The standard unix [password manager](https://www.passwordstore.org/) with browser extensions, smartphone applications and git repository integration. Since you will need a GPG key, check also [keybase.io](https://keybase.io/xoolive).
+
 # Typography
 
 - [The long, incredibly tortuous, and fascinating process of creating a Chinese font](https://qz.com/522079/the-long-incredibly-tortuous-and-fascinating-process-of-creating-a-chinese-font/);
