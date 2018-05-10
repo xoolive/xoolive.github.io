@@ -25,10 +25,9 @@ I appreciate a good cup of tea and/or coffee.
 I do enjoy vim, git, python, ocaml and Markdown;
 
 <i class="fas fa-globe fa-lg" style="margin-right: 1em; width: 15pt"></i>
-I am (now less of) a compulsive language learner[^1]  
+I am (now less of) a compulsive language learner  
 <i style="margin-right: 34pt"></i>🇫🇷 🇩🇪 🇬🇧 🇯🇵 🇹🇼 🇭🇰 🇦🇷 🇮🇹 🇱🇧 🇳🇱 🇵🇹 🇮🇸
 
-[^1]: although flags are not the best way to talk about languages...
 
 
 <i class="fas fa-book fa-lg" style="margin-right: 1em; width: 15pt"></i>

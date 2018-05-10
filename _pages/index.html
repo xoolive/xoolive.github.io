@@ -6,32 +6,29 @@ permalink: /
 
 <div id="home">
 
-  <h1>Technical posts</h1>
+  <h1>Technical notes</h1>
   <ul class="posts">
   {% for post in site.posts %}
-      {% if post.tags[0] == "technical" %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo;
+      {% if post.tags[0] == "technical" or post.tags[0] == "notebook" %}
+      <li><span>{{ post.date | date_to_string }}</span>
+      {% if post.tags[0] == "notebook" %}
+        <i class="fab fa-python" style="color: #ffc864"></i>
+      {% else %}
+        <i class="fas fa-angle-double-right" style="color: #aabcbc"></i>
+      {% endif %}
       <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
   {% endfor %}
   </ul>
 
-  <h1>Fun things to do with programming</h1>
+  <h1>Ramblings and scribblings</h1>
   <ul class="posts">
   {% for post in site.posts %}
-      {% if post.tags[0] == "notebook" %}
-      <li><span>{{ post.date | date_to_string }}</span> 
-        <i class="fab fa-python" style="color: #ffa500"></i>
-        <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endif %}
-  {% endfor %}
-  </ul>
-
-  <h1>Blog posts</h1>
-  <ul class="posts">
-  {% for post in site.posts %}
-      {% if post.tags[0] != "technical" and post.tags[0] != "notebook" %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% if post.tags[0] != "technical" and post.tags[0] != "notebook" and
+      post.tags[0] != "digest" %}
+      <li><span>{{ post.date | date_to_string }}</span>
+        <i class="fas fa-random" style="color: #aabcbc"></i>
+          <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
   {% endfor %}
   </ul>
