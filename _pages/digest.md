@@ -1,7 +1,7 @@
 ---
 layout: default
 title: xoolive.org » Xavier Olive
-permalink: /digest
+permalink: /digest/
 ---
 
 <div id="home">
