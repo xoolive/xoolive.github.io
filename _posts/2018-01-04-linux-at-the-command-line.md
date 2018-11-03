@@ -218,9 +218,10 @@ zmv -n -W '*.sh' '*.pl'
 
 convert is part of the [imagemagick](https://www.imagemagick.org/script/command-line-processing.php) suite and is a useful tool to resize, rotate or convert image formats.
 
-My latest use:
+My latest uses:
 ```zsh
 convert -background none -density 1000 -resize 1000x file.svg file.png
+convert input.png -fuzz 10% -transparent white output.png
 ```
 
 

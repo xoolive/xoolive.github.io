@@ -10,13 +10,14 @@ permalink: /cheatsheet/
 My favourite Linux command line tools are described [here](/linux-tools/).  
 All what doesn't fit there comes on this more dynamic page.
 
-*Latest edition*: 22 April 2018 
+*Latest edition*: 3 November 2018 
 
 
 # 1. Around Python
 
 - **Upgrade all installed packages**  
-  The two following command should be equivalent. Why would `pip` not provide such a function remains a mystery.
+  The two following command should be equivalent. Why would `pip` not provide
+  such a function remains a mystery.
 
 ~~~zsh
 pip freeze -l | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U
@@ -26,7 +27,9 @@ pip install -U `pip list --outdated | awk '!/Could not|ignored/ {print $1}'`
 ~~~
 
 - **Repair a broken `virtualenv`**  
-  It may happen that after some upgrade in your system, your environments are broken. If your environment should still be safe to use with the new version, you may try to fix it.
+  It may happen that after some upgrade in your system, your environments are
+  broken. If your environment should still be safe to use with the new version,
+  you may try to fix it.
 
 ~~~zsh
 rm $VIRTUAL_ENV/**/*(@) # zsh specific: remove all symlinks
@@ -61,8 +64,79 @@ git reset HEAD path/to/unwanted_file
 git commit -c ORIG_HEAD
 ```
 
+- **How to list commits concerning one directory**
 
-# 3. Around Homebrew
+```
+git log --format=oneline --no-merges master..dev $path  | cut -d " "  -f 1
+```
+
+- **How to list files impacted by a a specific commit**
+
+```
+git show --name-only --pretty="" $commit_hash | cat
+```
+
+- **How to split a commit into several smaller commits**
+
+```
+git rebase -i $commit_hash~
+git reset HEAD~
+# split the commits
+git rebase --continue
+```
+
+- **How to reassign a commit**
+
+```sh
+#!/bin/sh
+
+git filter-branch -f --env-filter '
+OLD_EMAIL="irrelevant@provider.com"
+CORRECT_NAME="Xavier Olive"
+CORRECT_EMAIL="git@xoolive.org"
+if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
+then
+    export GIT_COMMITTER_NAME="$CORRECT_NAME"
+    export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
+fi
+if [ "$GIT_AUTHOR_EMAIL" = "$OLD_EMAIL" ]
+then
+    export GIT_AUTHOR_NAME="$CORRECT_NAME"
+    export GIT_AUTHOR_EMAIL="$CORRECT_EMAIL"
+fi
+' --tag-name-filter cat -- --branches --tags
+```
+
+# 3. MacOS specific
+
+- **Reset default timezones in iCal**:
+
+```
+defaults read com.apple.iCal 'RecentlyUsedTimeZones'
+defaults write com.apple.iCal 'RecentlyUsedTimeZones' '("Europe/Paris", "Asia/Tokyo")'
+```
+
+- **Force Mail to Unicode**:
+
+```
+defaults write com.apple.mail NSPreferredMailCharset "UTF-8"
+```
+
+- **Pipe SoftFM to sox**:
+
+```
+softfm  -f 98.3M -g 20.7 -b 0.1 -R - | play -t raw -esigned-integer -b16 -r 48000 -c 2 -
+```
+
+otherwise, there is always:
+
+```
+rtl_fm -M wbfm -f 103.5M -F 0 -g 37.5 -s 250k | play -r 32k -t raw -e s -b 16 -c 1 -V1 -
+```
+
+
+
+# 4. Around Homebrew
 
 - **List dependencies of a package**
 
@@ -92,7 +166,7 @@ brew cleanup -ns
 rm -rf $(brew --cache)
 ~~~
 
-# 4. Around Vim
+# 5. Around Vim
 
 - **Insert a Unicode character**
 
@@ -101,7 +175,8 @@ rm -rf $(brew --cache)
 ~~~
 
 - **Fix errors with invisible characters**  
-  Sometimes you get during compilations errors mentioning `stray ‘\302’ in program`, which can be frustrating:
+  Sometimes you get during compilations errors mentioning `stray ‘\302’ in
+  program`, which can be frustrating:
 
 ~~~zsh
 :% s,\%o302,,g
@@ -113,7 +188,7 @@ rm -rf $(brew --cache)
 :w ! sudo tee %
 ~~~
 
-# 5. Miscellaneous
+# 6. Miscellaneous
 
 - **Remove empty directories**
 
@@ -133,6 +208,12 @@ pdfcrop --margins '0 0 0 -620' --clip private_information.pdf
 fdupes .  # first checks checksums then byte-by-byte
 ```
 
+- **Crop a movie**:
+
+```zsh
+ffmpeg -i input.avi -vcodec copy -acodec copy -ss 01:00:00 -t 00:30:00 output.avi
+```
+
 - **Improve battery life when you forgot your charger** (Linux)
 
 ```zsh
@@ -141,4 +222,32 @@ sudo cpufreq-set -g powersave -c 0
 sudo cpufreq-set -g powersave -c 1
 sudo cpufreq-set -g powersave -c 2
 sudo cpufreq-set -g powersave -c 3
+```
+
+- **Put window buttons to the left**
+
+```zsh
+gsettings set org.gnome.desktop.wm.preferences button-layout 'close,minimize,maximize:'
+```
+
+- **Reset USB ports** (Linux)
+
+```zsh
+for i in /sys/bus/pci/drivers/[uoex]hci_hcd/*:*; do
+  echo "${i##*/}" > "${i%/*}/unbind"
+  echo "${i##*/}" > "${i%/*}/bind"
+done
+```
+
+- **Mount HFS+ disk** (Linux)
+
+```
+sudo mount -t hfsplus -o remount,force,rw /dev/sd<#id> </mounting/point>
+```
+
+- **Do not create such bookmark** so that you do not click on it when you have
+  no access to an academic paper.
+
+```
+javascript:location.hostname += '.sci-hub.tw'
 ```
