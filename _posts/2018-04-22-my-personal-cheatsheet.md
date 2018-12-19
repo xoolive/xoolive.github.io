@@ -188,6 +188,13 @@ rm -rf $(brew --cache)
 :w ! sudo tee %
 ~~~
 
+- **Remove hidden ^M after a copy-paste**
+
+~~~zsh
+:e ++ff=dos
+:set ff=unix 
+~~~
+
 # 6. Miscellaneous
 
 - **Remove empty directories**
