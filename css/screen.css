@@ -26,6 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  font-size: 105%;
   margin-bottom: 1em;
 }
 
@@ -331,4 +332,42 @@ input, textarea {
 
 #related h2 {
   margin-bottom: 1em;
+}
+
+/* profile */
+
+.profile-picture {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  margin: -10px 0 0 15px;
+  float: right;
+  border-radius: 50%
+}
+
+@media (max-width: 480px) {
+  .profile-picture img {
+    margin-top: -5px
+  }
+}
+
+.logo_traffic {
+  height: 80px;
+  width: 80px;
+  position: relative;
+  margin: -5px 0 0 15px;
+  float: right;
+  border-radius: 50%;
+  filter: invert(100%) opacity(80%);
+  -webkit-filter: invert(100%) opacity(80%);
+}
+.logo_opensky {
+  height: 80px;
+  width: 80px;
+  position: relative;
+  margin: -5px 0 0 15px;
+  float: right;
+  border-radius: 50%;
+  filter: opacity(80%);
+  -webkit-filter: opacity(80%);
 }

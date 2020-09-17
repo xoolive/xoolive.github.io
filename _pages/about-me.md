@@ -4,6 +4,8 @@ title: Xavier Olive
 permalink: /
 ---
 
+<p><img class="profile-picture" src="images/profile.jpg" /></p>
+
 I am a research scientist, passionate about aviation, maps and data.  
 For a decent idea of my work activities, have a look at my [LinkedIn](https://linkedin.com/in/xoolive) profile.
 
@@ -22,8 +24,10 @@ Outside office hours, I love to learn new things, especially when it comes to:
     programming
 - Data Science, Machine Learning, esp. unsupervised learning
 
-# Open-source projects
+# Open access projects (open source, open data)
 
+
+<p><img class="logo_traffic" src="https://github.com/xoolive/traffic/raw/master/docs/_static/logo_traffic.png" /></p>
 
 - The [traffic](https://traffic-viz.github.io/) library provides data
 analysis methods commonly applied to trajectories and airspaces. It offers
@@ -36,6 +40,8 @@ reference any kind of (possibly open) data initiative related to aviation. It is
 supported by a group of academics, researchers and aviation people working to
 bring the power of data in order to improve the current state of the art in
 aviation.
+
+<p><img class="logo_opensky" src="https://opensky-network.org/apidoc/_static/radar_small.png" /></p>
 
 - I am pretty active within the [OpenSky Network](https://opensky-network.org/),
 a non-profit association aiming at improving the security, reliability and
