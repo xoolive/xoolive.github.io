@@ -12,8 +12,9 @@ For a decent idea of my work activities, have a look at my [LinkedIn](https://li
 Outside office hours, I love to learn new things, especially when it comes to:
 
   - foreign cultures and languages,
-  - music, particularly jazz and bossa nova,
-  - yoga, cooking, independent cinema.
+  - music: jazz, bossa nova;
+  - trail running, meditation and yoga;
+  - radio waves and broadcasting, independent cinema.
 
 # Teaching activities
 
@@ -91,5 +92,4 @@ There is some history between me and planes.
 
 # Location
 
-[outline.lightly.town](http://w3w.co/outline.lightly.town)  
-<code style="font-size: 90%">43.599356, 1.439622</code><br />
+[yoga.silver.staring](http://w3w.co/yoga.silver.staring)  

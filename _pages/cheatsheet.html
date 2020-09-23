@@ -1,0 +1,803 @@
+---
+layout: default
+lang: en
+title: My personal cheatsheet
+permalink: /cheatsheet/
+---
+
+<div class="mb-3">
+  <ul class="nav nav-pills" id="myTab" role="tablist">
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        id="git-tab"
+        data-toggle="tab"
+        href="#git"
+        role="tab"
+        aria-controls="contact"
+        aria-selected="false"
+        >git</a
+      >
+    </li>
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        id="python-tab"
+        data-toggle="tab"
+        href="#python"
+        role="tab"
+        aria-controls="python"
+        aria-selected="true"
+        >python</a
+      >
+    </li>
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        id="vim-tab"
+        data-toggle="tab"
+        href="#vim"
+        role="tab"
+        aria-controls="vim"
+        aria-selected="false"
+        >vim</a
+      >
+    </li>
+    <li class="nav-item active">
+      <a
+        class="nav-link"
+        id="zsh-tab"
+        data-toggle="tab"
+        href="#zsh"
+        role="tab"
+        aria-controls="contact"
+        aria-selected="false"
+        >zsh</a
+      >
+    </li>
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        id="pdf-tab"
+        data-toggle="tab"
+        href="#pdf"
+        role="tab"
+        aria-controls="contact"
+        aria-selected="false"
+        >pdf</a
+      >
+    </li>
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        id="images-tab"
+        data-toggle="tab"
+        href="#images"
+        role="tab"
+        aria-controls="contact"
+        aria-selected="false"
+        >images</a
+      >
+    </li>
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        id="sound-tab"
+        data-toggle="tab"
+        href="#sound"
+        role="tab"
+        aria-controls="contact"
+        aria-selected="false"
+        >sound</a
+      >
+    </li>
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        id="video-tab"
+        data-toggle="tab"
+        href="#video"
+        role="tab"
+        aria-controls="contact"
+        aria-selected="false"
+        >video</a
+      >
+    </li>
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        id="web-tab"
+        data-toggle="tab"
+        href="#web"
+        role="tab"
+        aria-controls="contact"
+        aria-selected="false"
+        >web</a
+      >
+    </li>
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        id="ubuntu-tab"
+        data-toggle="tab"
+        href="#ubuntu"
+        role="tab"
+        aria-controls="contact"
+        aria-selected="false"
+        >Ubuntu</a
+      >
+    </li>
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        id="macos-tab"
+        data-toggle="tab"
+        href="#macos"
+        role="tab"
+        aria-controls="contact"
+        aria-selected="false"
+        >Mac OS</a
+      >
+    </li>
+  </ul>
+</div>
+
+<div class="tab-content mb-4">
+  <div
+    class="tab-pane fade"
+    id="python"
+    role="tabpanel"
+    aria-labelledby="python-tab"
+  >
+    <ul>
+      <li>
+        <strong>Upgrade all installed packages</strong><br />
+        The two following command should be equivalent. Why would
+        <code class="language-plaintext highlighter-rouge">pip</code> not
+        provide such a function remains a mystery.
+      </li>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>pip freeze <span class="nt">-l</span> | <span class="nb">grep</span> <span class="nt">-v</span> <span class="s1">'^\-e'</span> | <span class="nb">cut</span> <span class="nt">-d</span> <span class="o">=</span> <span class="nt">-f</span> 1 | xargs <span class="nt">-n1</span> pip <span class="nb">install</span> <span class="nt">-U</span>
+</code></pre>
+        </div>
+      </div>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>pip <span class="nb">install</span> <span class="nt">-U</span> <span class="sb">`</span>pip list <span class="nt">--outdated</span> | <span class="nb">awk</span> <span class="s1">'!/Could not|ignored/ {print $1}'</span><span class="sb">`</span>
+</code></pre>
+        </div>
+      </div>
+
+      <li>
+        <strong
+          >Repair a broken
+          <code class="language-plaintext highlighter-rouge"
+            >virtualenv</code
+          ></strong
+        ><br />
+        It may happen that after some upgrade in your system, your environments
+        are broken. If your environment should still be safe to use with the new
+        version, you may try to fix it.
+      </li>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code><span class="nb">rm</span> <span class="nv">$VIRTUAL_ENV</span>/<span class="k">**</span>/<span class="k">*</span><span class="o">(</span>@<span class="o">)</span> <span class="c"># zsh specific: remove all symlinks</span>
+virtualenv <span class="nv">$VIRTUAL_ENV</span> <span class="nt">--python</span><span class="o">=</span>python3
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>Activate widgets on Jupyter Lab</strong></li>
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>pip <span class="nb">install </span>ipywidgets
+<span class="c"># for notebooks</span>
+jupyter nbextension <span class="nb">enable</span> <span class="nt">--py</span> <span class="nt">--sys-prefix</span> widgetsnbextension
+<span class="c"># for Jupyter Lab</span>
+jupyter labextension <span class="nb">install</span> @jupyter-widgets/jupyterlab-manager
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>Upload wheels to PyPI</strong></li>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>twine upload dist/<span class="k">*</span>.whl
+</code></pre>
+        </div>
+      </div>
+    </ul>
+  </div>
+
+  <div class="tab-pane fade" id="vim" role="tabpanel" aria-labelledby="vim-tab">
+    <ul>
+      <li><strong>Insert a Unicode character</strong></li>
+      <div class="language-vim highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code><span class="p">&lt;</span>ctrl<span class="p">-</span><span class="k">v</span><span class="p">&gt;</span>U<span class="p">&lt;</span>code<span class="p">&gt;</span>
+</code></pre>
+        </div>
+      </div>
+
+      <li>
+        <strong>Fix errors with invisible characters</strong><br />
+        Sometimes you get during compilations errors mentioning
+        <code>`stray ‘\302’ in program`</code>, which can be frustrating:
+      </li>
+
+      <div class="language-vim highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code><span class="p">:</span>% s<span class="p">,</span>\%o302<span class="p">,,</span><span class="k">g</span>
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>When you forgot a sudo (a classic!)</strong></li>
+
+      <div class="language-vim highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code><span class="p">:</span><span class="k">w</span> <span class="p">!</span> sudo tee %
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>Remove hidden ^M after a copy-paste</strong></li>
+
+      <div class="language-vim highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code><span class="p">:</span><span class="k">e</span> <span class="p">++</span><span class="nb">ff</span><span class="p">=</span>dos
+<span class="p">:</span><span class="k">set</span> <span class="nb">ff</span><span class="p">=</span>unix 
+</code></pre>
+        </div>
+      </div>
+    </ul>
+  </div>
+
+  <div class="tab-pane fade" id="git" role="tabpanel" aria-labelledby="git-tab">
+    <ul>
+      <li>
+        <p>
+          <a
+            href="https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request"
+            >How to rebase a pull request</a
+          >
+        </p>
+      </li>
+      <li>
+        <p>
+          <strong>Remove files mistakenly added in previous commit</strong>:
+        </p>
+      </li>
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>git reset <span class="nt">--soft</span> HEAD~1
+git reset HEAD path/to/unwanted_file
+git commit <span class="nt">-c</span> ORIG_HEAD
+</code></pre>
+        </div>
+      </div>
+      <li><strong>How to list commits concerning one directory</strong></li>
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>git log --format=oneline --no-merges master..dev $path  | cut -d " "  -f 1
+</code></pre>
+        </div>
+      </div>
+      <li>
+        <strong>How to list files impacted by a a specific commit</strong>
+      </li>
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>git show --name-only --pretty="" $commit_hash | cat
+</code></pre>
+        </div>
+      </div>
+      <li>
+        <strong>How to split a commit into several smaller commits</strong>
+      </li>
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>git rebase -i $commit_hash~
+git reset HEAD~
+# split the commits
+git rebase --continue
+</code></pre>
+        </div>
+      </div>
+      <li><strong>How to reassign a commit</strong></li>
+      <div class="language-sh highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code><span class="c">#!/bin/sh</span>
+
+git filter-branch <span class="nt">-f</span> <span class="nt">--env-filter</span> <span class="s1">'
+OLD_EMAIL="irrelevant@provider.com"
+CORRECT_NAME="Xavier Olive"
+CORRECT_EMAIL="git@xoolive.org"
+if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
+then
+    export GIT_COMMITTER_NAME="$CORRECT_NAME"
+    export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
+fi
+if [ "$GIT_AUTHOR_EMAIL" = "$OLD_EMAIL" ]
+then
+    export GIT_AUTHOR_NAME="$CORRECT_NAME"
+    export GIT_AUTHOR_EMAIL="$CORRECT_EMAIL"
+fi
+'</span> <span class="nt">--tag-name-filter</span> <span class="nb">cat</span> <span class="nt">--</span> <span class="nt">--branches</span> <span class="nt">--tags</span>
+</code></pre>
+        </div>
+      </div>
+    </ul>
+  </div>
+
+  <div
+    class="tab-pane fade active in"
+    id="zsh"
+    role="tabpanel"
+    aria-labelledby="zsh-tab"
+  >
+    <ul>
+      <li><strong>Remove empty directories</strong></li>
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>find <span class="nb">.</span> <span class="nt">-type</span> d <span class="nt">-empty</span> <span class="nt">-delete</span>
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>Search for files with identical content</strong></li>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>fdupes <span class="nb">.</span>  <span class="c"># first checks checksums then byte-by-byte</span>
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>Qualifiers</strong></li>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code><span class="c"># show only directories</span>
+print <span class="nt">-l</span> zsh_demo/<span class="k">**</span>/<span class="k">*</span><span class="o">(</span>/<span class="o">)</span>
+<span class="c"># show only regular files</span>
+print <span class="nt">-l</span> zsh_demo/<span class="k">**</span>/<span class="k">*</span><span class="o">(</span>.<span class="o">)</span>
+<span class="c"># show empty files</span>
+<span class="nb">ls</span> <span class="nt">-l</span> zsh_demo/<span class="k">**</span>/<span class="k">*</span><span class="o">(</span>L0<span class="o">)</span>
+<span class="c"># show files greater than 3 KB</span>
+<span class="nb">ls</span> <span class="nt">-l</span> zsh_demo/<span class="k">**</span>/<span class="k">*</span><span class="o">(</span>Lk+3<span class="o">)</span>
+<span class="c"># show files modified in the last hour</span>
+print <span class="nt">-l</span> zsh_demo/<span class="k">**</span>/<span class="k">*</span><span class="o">(</span>mh-1<span class="o">)</span>
+<span class="c"># sort files from most to least recently modified and show the last 3</span>
+<span class="nb">ls</span> <span class="nt">-l</span> zsh_demo/<span class="k">**</span>/<span class="k">*</span><span class="o">(</span>om[1,3]<span class="o">)</span>
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>Renaming files</strong></li>
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code><span class="c"># rename file contents with its directory name as a prefix</span>
+zmv <span class="nt">-n</span> <span class="s1">'(*)/(*.txt)'</span> <span class="s1">'${1}_$2'</span>
+
+<span class="c"># adding leading zeros to a filename (1.jpg -&gt; 001.jpg, ..  </span>
+autoload zmv 
+zmv <span class="nt">-n</span> <span class="s1">'(&lt;1-&gt;).jpg'</span> <span class="s1">'${(l:3::0:)1}.jpg'</span>
+
+<span class="c"># Change the suffix from *.sh to *.pl</span>
+autoload zmv 
+zmv <span class="nt">-n</span> <span class="nt">-W</span> <span class="s1">'*.sh'</span> <span class="s1">'*.pl'</span>
+</code></pre>
+        </div>
+      </div>
+    </ul>
+  </div>
+
+  <div
+    class="tab-pane fade"
+    id="ubuntu"
+    role="tabpanel"
+    aria-labelledby="ubuntu-tab"
+  >
+    <ul>
+      <li><strong>Put window buttons to the left</strong></li>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>gsettings <span class="nb">set </span>org.gnome.desktop.wm.preferences button-layout <span class="s1">'close,minimize,maximize:'</span>
+</code></pre>
+        </div>
+      </div>
+
+      <li>
+        <strong>Improve battery life when you forgot your charger</strong>
+      </li>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code><span class="nb">sudo </span>apt <span class="nb">install </span>cpufrequtils
+<span class="nb">sudo </span>cpufreq-set <span class="nt">-g</span> powersave <span class="nt">-c</span> 0
+<span class="nb">sudo </span>cpufreq-set <span class="nt">-g</span> powersave <span class="nt">-c</span> 1
+<span class="nb">sudo </span>cpufreq-set <span class="nt">-g</span> powersave <span class="nt">-c</span> 2
+<span class="nb">sudo </span>cpufreq-set <span class="nt">-g</span> powersave <span class="nt">-c</span> 3
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>Reset USB ports</strong></li>
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code><span class="k">for </span>i <span class="k">in</span> /sys/bus/pci/drivers/[uoex]hci_hcd/<span class="k">*</span>:<span class="k">*</span><span class="p">;</span> <span class="k">do
+  </span><span class="nb">echo</span> <span class="s2">"</span><span class="k">${</span><span class="nv">i</span><span class="p">##*/</span><span class="k">}</span><span class="s2">"</span> <span class="o">&gt;</span> <span class="s2">"</span><span class="k">${</span><span class="nv">i</span><span class="p">%/*</span><span class="k">}</span><span class="s2">/unbind"</span>
+  <span class="nb">echo</span> <span class="s2">"</span><span class="k">${</span><span class="nv">i</span><span class="p">##*/</span><span class="k">}</span><span class="s2">"</span> <span class="o">&gt;</span> <span class="s2">"</span><span class="k">${</span><span class="nv">i</span><span class="p">%/*</span><span class="k">}</span><span class="s2">/bind"</span>
+<span class="k">done</span>
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>Mount HFS+ disk</strong></li>
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>sudo mount -t hfsplus -o remount,force,rw /dev/sd&lt;#id&gt; &lt;/mounting/point&gt;
+</code></pre>
+        </div>
+      </div>
+    </ul>
+  </div>
+
+  <div
+    class="tab-pane fade"
+    id="macos"
+    role="tabpanel"
+    aria-labelledby="macos-tab"
+  >
+    <ul>
+      <li><strong>Reset default timezones in iCal</strong>:</li>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>defaults read com.apple.iCal 'RecentlyUsedTimeZones'
+defaults write com.apple.iCal 'RecentlyUsedTimeZones' '("Europe/Paris", "Asia/Tokyo")'
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>Force Mail to Unicode</strong>:</li>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>defaults write com.apple.mail NSPreferredMailCharset "UTF-8"
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>mdfind</strong></li>
+
+      <p>
+        mdfind is the MacOS interface to the Spotlight search engine. MacOS runs
+        a daemon to index all files on the system. mdfind searches for patterns
+        inside files; the
+        <code class="language-plaintext highlighter-rouge">-name</code> option
+        limits the search to file names.
+      </p>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code><span class="c"># the five latest modified files (limited to the past 5 days)</span>
+mdfind <span class="nt">-onlyin</span> ~/Pictures <span class="s1">'kMDItemPixelCount &gt; 15000000'</span>
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        You can also limit the search to specific directories with
+        <code class="language-plaintext highlighter-rouge">-onlyin</code> or
+        work in real-time mode with the
+        <code class="language-plaintext highlighter-rouge">-live</code> option.
+      </p>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code><span class="c"># yields the number of files matching the criteria</span>
+mdfind <span class="nt">-live</span> <span class="s1">'kMDItemContentModificationDate &gt;= $time.now'</span>
+<span class="o">[</span>Type ctrl-C to <span class="nb">exit</span><span class="o">]</span>
+Query update: 1 matches
+Query update: 2 matches
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        A note on
+        <a
+          href="https://developer.apple.com/library/content/documentation/CoreServices/Reference/MetadataAttributesRef/Reference/CommonAttrs.html#//apple_ref/doc/uid/TP40001694-SW1"
+          >metadata attributes</a
+        >, also to be found from the output of
+        <code class="language-plaintext highlighter-rouge">mdls</code> .
+      </p>
+
+      <li><strong>List dependencies of a package</strong></li>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>brew deps &lt;package&gt;
+brew deps <span class="nt">--installed</span> &lt;package&gt;
+</code></pre>
+        </div>
+      </div>
+
+      <li>
+        <strong>Switch to a different version of a package</strong><br />
+        Note that this may help to not delete an old version of a package you
+        like.
+      </li>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>brew switch &lt;package&gt; &lt;version&gt;
+</code></pre>
+        </div>
+      </div>
+
+      <li>
+        <strong>Clean old versions of installed packages</strong><br />
+        Remove the
+        <code class="language-plaintext highlighter-rouge">-s</code> if you like
+        what it prints.
+      </li>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>brew cleanup <span class="nt">-ns</span>
+</code></pre>
+        </div>
+      </div>
+
+      <li>
+        <strong>Delete all archives in cache</strong><br />
+        Homebrew keeps everything by default.
+      </li>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code><span class="nb">rm</span> <span class="nt">-rf</span> <span class="si">$(</span>brew <span class="nt">--cache</span><span class="si">)</span>
+</code></pre>
+        </div>
+      </div>
+    </ul>
+  </div>
+
+  <div
+    class="tab-pane fade"
+    id="sound"
+    role="tabpanel"
+    aria-labelledby="sound-tab"
+  >
+    <ul>
+      <li><strong>Pipe SoftFM to sox</strong>:</li>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>softfm  -f 98.3M -g 20.7 -b 0.1 -R - | play -t raw -esigned-integer -b16 -r 48000 -c 2 -
+</code></pre>
+        </div>
+      </div>
+      <p>otherwise, there is always:</p>
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>rtl_fm -M wbfm -f 103.5M -F 0 -g 37.5 -s 250k | play -r 32k -t raw -e s -b 16 -c 1 -V1 -
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>Old phones</strong>:</li>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>a=(697 770 852 941);b=(1209 1336 1477 1633);c='123A456B789C*0#D';while read -N1 l;do r="${c#*$l}";i=$((${#c}-${#r}-1));[ "$l" = "*" ]&&i=12;play -n synth sin ${a[$((i/4))]} sin ${b[$((i%4))]} remix - trim 0 0.2 2>/dev/null;done
+</code></pre>
+        </div>
+      </div>
+    </ul>
+  </div>
+
+  <div
+    class="tab-pane fade"
+    id="images"
+    role="tabpanel"
+    aria-labelledby="images-tab"
+  >
+    <ul>
+      <li>
+        <strong>convert</strong> is part of the imagemagick suite and is a
+        useful tool to resize, rotate or convert image formats.
+      </li>
+
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>convert <span class="nt">-background</span> none <span class="nt">-density</span> 1000 <span class="nt">-resize</span> 1000x file.svg file.png
+convert input.png <span class="nt">-fuzz</span> 10% <span class="nt">-transparent</span> white output.png
+</code></pre>
+        </div>
+      </div>
+    </ul>
+  </div>
+
+  <div class="tab-pane fade" id="pdf" role="tabpanel" aria-labelledby="pdf-tab">
+    <ul>
+      <li><strong>Crop a pdf file to hide/reveal part of it</strong></li>
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>pdfcrop <span class="nt">--margins</span> <span class="s1">'0 0 0 -620'</span> <span class="nt">--clip</span> private_information.pdf
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>Merge several pdf files</strong></li>
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>pdftk in1.pdf in2.pdf in3.pdf <span class="nb">cat </span>output out1.pdf
+</code></pre>
+        </div>
+      </div>
+      <p>or with the pdfjam suite:</p>
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>pdfjoin <span class="nt">-o</span> output.pdf in1.pdf in2.pdf in3.pdf
+</code></pre>
+        </div>
+      </div>
+
+      <li><strong>Compress/uncompress pdf files</strong></li>
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>pdftk book.pdf output uncompressed.pdf uncompress
+<span class="c"># and after editing the file</span>
+pdftk uncompressed.pdf output clean.pdf compress
+</code></pre>
+        </div>
+      </div>
+    </ul>
+  </div>
+
+  <div
+    class="tab-pane fade"
+    id="video"
+    role="tabpanel"
+    aria-labelledby="video-tab"
+  >
+    <ul>
+      <li><strong>Crop a movie</strong>:</li>
+      <div class="language-zsh highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>ffmpeg <span class="nt">-i</span> input.avi <span class="nt">-vcodec</span> copy <span class="nt">-acodec</span> copy <span class="nt">-ss</span> 01:00:00 <span class="nt">-t</span> 00:30:00 output.avi
+</code></pre>
+        </div>
+      </div>
+    </ul>
+  </div>
+
+  <div class="tab-pane fade" id="web" role="tabpanel" aria-labelledby="web-tab">
+    <ul>
+      <li>
+        <strong>Web services</strong>
+      </li>
+      <ul>
+        <li>Rotating Earth:</li>
+        <div class="language-plaintext highlighter-rouge">
+          <div class="highlight">
+            <pre
+              class="highlight"
+            ><code>curl -s http://artscene.textfiles.com/vt100/globe.vt | pv -L9600 -q</code></pre>
+          </div>
+        </div>
+        <li>Interactive map:</li>
+        <div class="language-plaintext highlighter-rouge">
+          <div class="highlight">
+            <pre class="highlight"><code>telnet mapscii.me</code></pre>
+          </div>
+        </div>
+        <li>Weather service:</li>
+        <div class="language-plaintext highlighter-rouge">
+          <div class="highlight">
+            <pre class="highlight"><code>curl v2.wttr.in/:help</code></pre>
+          </div>
+        </div>
+        <li>Help pages:</li>
+        <div class="language-plaintext highlighter-rouge">
+          <div class="highlight">
+            <pre class="highlight"><code>curl cht.sh</code></pre>
+          </div>
+        </div>
+      </ul>
+      <li>
+        <strong>Do not create such bookmark</strong> so that you do not click on
+        it when you have no access to an academic paper.
+      </li>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>javascript:location.hostname += '.sci-hub.tw'
+</code></pre>
+        </div>
+      </div>
+    </ul>
+  </div>
+</div>
