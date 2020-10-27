@@ -5,24 +5,25 @@ title: Teaching resources
 permalink: /teaching/
 ---
 
-# Teaching resources 
+# Teaching resources
 
 ## Programmation
 
 - Mise ou remise à niveau Python 🇫🇷 🇬🇧  
-[page](https://letstrythat.github.io/back2python) |
-[github](https://github.com/letstrythat/back2python)
+  [page](https://xolearn.github.io/back2python) |
+  [github](https://github.com/xolearn/back2python)
 
-- Python scientifique et cartographie 🇫🇷 🇬🇧    
-[github](https://github.com/letstrythat/scientificpython)
+- Python scientifique et cartographie 🇫🇷 🇬🇧  
+  [github](https://github.com/xolearn/scientificpython)
 
 ## Optimisation
 
 - Optimisation dans les graphes 🇬🇧  
-[github](https://github.com/letstrythat/graphs)
+  [github](https://github.com/xolearn/graphs)
 
 - Programmation par contraintes 🇬🇧  
-[github](https://github.com/letstrythat/constraints)
+  [page](https://xolearn.github.io/constraints) |
+  [github](https://github.com/xolearn/constraints)
 
 - Métaheuristiques 🇬🇧  
-[github](https://github.com/letstrythat/metaheuristics)
+  [github](https://github.com/xolearn/metaheuristics)
