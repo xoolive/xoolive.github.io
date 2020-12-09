@@ -9,13 +9,13 @@ permalink: /publications/
 - Xavier Olive, Junzi Sun, Adrien Lafage and Luis Basora.  
   Detecting Events in Aircraft Trajectories: Rule-based and Data-driven Approaches.  
   _Proceedings of the 8th OpenSky Symposium_, 2020;  
-  _Proceedings_ 2020, 59(1), 8;
+  _Proceedings_ 2020, 59(1), 8;  
   [https://doi.org/10.3390/proceedings2020059008](https://doi.org/10.3390/proceedings2020059008)
 
 - Junzi Sun, Huy Vû, Xavier Olive and Jacco Hoekstra.  
   Mode S Transponder Comm-B Capabilities in Current Operational Aircraft.  
   _Proceedings of the 8th OpenSky Symposium_, 2020;  
-  _Proceedings_ 2020, 59(1), 5;
+  _Proceedings_ 2020, 59(1), 5;  
   [https://doi.org/10.3390/proceedings2020059005](https://doi.org/10.3390/proceedings2020059005)
 
 - Xavier Olive and Luis Basora.  
