@@ -13,7 +13,7 @@ Applications range from air traffic management, operations, predictive maintenan
 ## Selected recent publications
 
 See a [full list](/publications/) of publications.  
-An overview of my research is also available on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAAAJ&hl=fr&sortby=pubdate), [ResearchGate](https://www.researchgate.net/profile/Xavier_Olive2) and [SciProfiles](https://sciprofiles.com/profile/681188).
+An overview of my research is also available on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAAAJ&hl=fr&sortby=pubdate), [ResearchGate](https://www.researchgate.net/profile/Xavier_Olive2), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219756804) and [SciProfiles](https://sciprofiles.com/profile/681188).
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2335-5774" href="https://orcid.org/0000-0002-2335-5774" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2335-5774</a></div>
 
