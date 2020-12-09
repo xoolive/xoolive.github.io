@@ -12,7 +12,10 @@ Applications range from air traffic management, operations, predictive maintenan
 
 ## Selected recent publications
 
-See [full list](/publications/) of publications.
+See a [full list](/publications/) of publications.  
+An overview of my research is also available on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAAAJ&hl=fr&sortby=pubdate), [ResearchGate](https://www.researchgate.net/profile/Xavier_Olive2) and [SciProfiles](https://sciprofiles.com/profile/681188).
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2335-5774" href="https://orcid.org/0000-0002-2335-5774" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2335-5774</a></div>
 
 - Xavier Olive and Luis Basora.  
   Detection and identification of significant events in historical aircraft trajectory data.  
@@ -39,8 +42,8 @@ See [full list](/publications/) of publications.
 
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> **Adrian Lafage** will work on a data-based trajectory generation framework.  
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2020</span> **Paloma Bry**. _Deep anomaly detection techniques for predictive maintenance_.  
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2019</span> **Benoît Viry**. _Deep clustering and anomaly detection methods for air traffic analysis_.  
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2018</span> **Jeremy Grignard**. _Identification of air traffic controller order in historical traffic_.
+<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2019</span> **Benoît Viry**. _Deep Trajectory Clustering with Autoencoders_. [**(paper)**](http://www.icrat.org/ICRAT/seminarContent/2020/papers/ICRAT2020_paper_2.pdf)  
+<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2018</span> **Jeremy Grignard**. _Detecting Controllers’ Actions in Past Mode S Data by Autoencoder-Based Anomaly Detection_. [**(paper)**](https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_17.pdf)
 
 ## Open access projects (open source, open data)
 
