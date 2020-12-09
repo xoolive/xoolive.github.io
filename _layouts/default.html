@@ -1,105 +1,151 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }}</title>
-   <meta name="author" content="Xavier Olive" />
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>{{ page.title }}</title>
+    <meta name="author" content="Xavier Olive" />
 
-   <!-- http://www.favicon.cc/?action=icon&file_id=710977 -->
-   <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAdXV1AP///wCMjIwAT09OAJSUlAA4ODgA29vbAO3t7QCnp6sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB0kAAAAAE0REIAAAAERJhUIgAAAEk5VEiQAAADk4VJKSAAAJiIVJIpAAAAUzVJJZAAAAWIVJKJAAAAA4REKJAAAABEBEKJAAAAAEQAE5AAAAAARgFJAAAAAAQGFkAAAAAAAAFGAAAAAAAAEEAAAAAAAAAEAAAAAAAAD/+AAA/wEAAPwBAAD4AwAA8AMAAOAHAADgDwAAwB8AAMA/AACAfwAAgP8AAIH/AAAD/wAAB/8AAA//AAAf/wAA" rel="icon" type="image/x-icon" />
+    <!-- http://www.favicon.cc/?action=icon&file_id=710977 -->
+    <link
+      href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAdXV1AP///wCMjIwAT09OAJSUlAA4ODgA29vbAO3t7QCnp6sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB0kAAAAAE0REIAAAAERJhUIgAAAEk5VEiQAAADk4VJKSAAAJiIVJIpAAAAUzVJJZAAAAWIVJKJAAAAA4REKJAAAABEBEKJAAAAAEQAE5AAAAAARgFJAAAAAAQGFkAAAAAAAAFGAAAAAAAAEEAAAAAAAAAEAAAAAAAAD/+AAA/wEAAPwBAAD4AwAA8AMAAOAHAADgDwAAwB8AAMA/AACAfwAAgP8AAIH/AAAD/wAAB/8AAA//AAAf/wAA"
+      rel="icon"
+      type="image/x-icon"
+    />
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-412789-2"></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-412789-2"
+    ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-412789-2');
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "UA-412789-2");
     </script>
 
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <script src="/css/jquery.min.js"></script>
     <script src="/css/bootstrap.min.js"></script>
 
-   <!-- syntax highlighting CSS -->
-   <link rel="stylesheet" href="/css/solarized-light.css" type="text/css" />
+    <link
+      href="http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext"
+      rel="stylesheet"
+      type="text/css"
+    />
 
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection, print" />
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="/css/solarized-light.css" type="text/css" />
 
-   <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+    <!-- Homepage CSS -->
+    <link
+      rel="stylesheet"
+      href="/css/screen.css"
+      type="text/css"
+      media="screen, projection, print"
+    />
 
-   <!-- Social network logos -->
-<!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" /> 
+    <link
+      rel="stylesheet"
+      href="/css/print.css"
+      type="text/css"
+      media="print"
+    />
+
+    <!-- Social network logos -->
+    <!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" /> 
    <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"/>
        -->
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css">
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.14.0/css/all.css"
+    />
 
-   <!-- In case you need some equations -->
-   <script type="text/javascript"
-           src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-   </script>
+    <!-- In case you need some equations -->
+    <script
+      type="text/javascript"
+      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    ></script>
+  </head>
+  <body>
+    <div class="site">
+      <div class="title">
+        <a href="/">Xavier Olive</a>
+        <a class="extra" href="/research/">research</a>
+        <a class="extra" href="/teaching/">teaching</a>
+        <a class="extra" href="/blog/">blog</a>
+        <a class="extra" href="/cheatsheet/">cheatsheet</a>
+        <div class="social">
+          <!--<a class="extra" href="https://keybase.io/xoolive">
+            <i class="fab fa-keybase fa-lg"></i>
+          </a>-->
+          <a class="extra" href="https://github.com/xoolive">
+            <i class="fab fa-github fa-lg"></i>
+          </a>
+          <a class="extra" href="https://linkedin.com/in/xoolive">
+            <i class="fab fa-linkedin fa-lg"></i>
+          </a>
+          <!--<a
+            class="extra"
+            href="https://www.researchgate.net/profile/Xavier_Olive2"
+          >
+            <i class="fab fa-researchgate fa-lg"></i>
+          </a>-->
+          <a class="extra" href="https://twitter.com/x00live">
+            <i class="fab fa-twitter fa-lg"></i>
+          </a>
+          <a class="extra" href="https://instagram.com/xoolive">
+            <i class="fab fa-instagram fa-lg"></i>
+          </a>
+          <a class="extra" href="https://www.strava.com/athletes/6098259">
+            <i class="fab fa-strava fa-lg"></i>
+          </a>
+        </div>
+      </div>
 
-</head>
-<body>
+      {{ content }}
 
+      <div class="footer">
+        <div class="license">
+          <p>
+            Unless specified otherwise, the contents of this website is
+            published under the terms of the Creative Commons
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >BY-NC-SA</a
+            >
+            license.
+            <a id="more-about-this" href="/copyright">More about this.</a>
+          </p>
+          <p>
+            <img
+              height="20pt"
+              width="auto"
+              alt="by"
+              src="https://creativecommons.org/images/deed/by.png"
+            />
+            <img
+              height="20pt"
+              width="auto"
+              alt="nc"
+              src="https://creativecommons.org/images/deed/nc.png"
+            />
+            <img
+              height="20pt"
+              width="auto"
+              alt="sa"
+              src="https://creativecommons.org/images/deed/sa.png"
+            />
+          </p>
+        </div>
 
-<div class="site">
-  <div class="title">
-    <a href="/">Xavier Olive</a>
-    <a class="extra" href="/teaching/">teaching</a>
-    <a class="extra" href="/blog/">blog</a>
-    <a class="extra" href="/cheatsheet/">cheatsheet</a>
-    <div class="social">
-    <a class="extra" href="https://keybase.io/xoolive">
-        <i class="fab fa-keybase fa-lg"></i>
-    </a>
-    <a class="extra" href="https://github.com/xoolive">
-        <i class="fab fa-github fa-lg"></i>
-    </a>
-    <a class="extra" href="https://linkedin.com/in/xoolive">
-        <i class="fab fa-linkedin fa-lg"></i>
-    </a>
-    <a class="extra" href="https://www.researchgate.net/profile/Xavier_Olive2">
-        <i class="fab fa-researchgate fa-lg"></i>
-    </a>
-    <a class="extra" href="https://twitter.com/x00live">
-        <i class="fab fa-twitter fa-lg"></i>
-    </a>
-    <a class="extra" href="https://instagram.com/xoolive">
-        <i class="fab fa-instagram fa-lg"></i>
-    </a>
-    <a class="extra" href="https://www.strava.com/athletes/6098259">
-        <i class="fab fa-strava fa-lg"></i>
-    </a>
+        <div class="rss">
+          <a href="/atom.xml">
+            <i class="fa fa-rss fa-lg"></i>
+          </a>
+        </div>
+      </div>
     </div>
-  </div>
-
-  {{ content }}
-
-  <div class="footer">
-    <div class="license">
-      <p>
-      Unless specified otherwise, the contents of this website is published
-      under the terms of the Creative Commons
-      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">BY-NC-SA</a>
-      license. <a id="more-about-this" href="/copyright">More about this.</a>
-      </p>
-      <p>
-      <img height=20pt width=auto alt="by"
-           src="https://creativecommons.org/images/deed/by.png"/>
-      <img height=20pt width=auto alt="nc"
-           src="https://creativecommons.org/images/deed/nc.png"/>
-      <img height=20pt width=auto alt="sa"
-           src="https://creativecommons.org/images/deed/sa.png"/>
-    </div>
-    <div class="rss">
-      <a href="/atom.xml">
-        <i class="fa fa-rss fa-lg"></i>
-      </a>
-    </div>
-  </div>
-</div>
-
-</body>
+  </body>
 </html>

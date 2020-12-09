@@ -13,18 +13,24 @@ code {
   padding: 0px 4px 0px 4px;
 }
 
-html, body {
+html,
+body {
   height: 100%;
 }
 
 body {
   background-color: white;
-  font: 13.34px helvetica, clean, sans-serif;
+  font: 13.34px Lato, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-size: 100%;
   font-weight: 800;
   margin-top: 1em;
@@ -33,6 +39,10 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 105%;
   margin-bottom: 1em;
+}
+
+h2 {
+  margin-top: 3em;
 }
 
 p {
@@ -44,7 +54,7 @@ blockquote {
 }
 
 a {
-  color: #3399ff;
+  color: #9a3334;
 }
 
 a:hover {
@@ -59,20 +69,20 @@ table {
 }
 
 thead tr th {
-    border-bottom: 1px solid rgb(170, 170, 170);
-    border-spacing: 5px;
+  border-bottom: 1px solid rgb(170, 170, 170);
+  border-spacing: 5px;
 }
 th {
-    padding: 0px 10px;
+  padding: 0px 10px;
 }
 td {
-    padding: 0px 10px;
+  padding: 0px 10px;
 }
 
 hr {
   height: 1px;
   border: none;
-  color:#aaa;
+  color: #aaa;
   background-color: #aaa;
   margin: 2em 0em 3em;
 }
@@ -111,7 +121,7 @@ ul.posts span {
 .title {
   color: #a00;
   font-weight: bold;
-  margin-bottom: 2em;
+  margin-bottom: 3em;
 }
 
 .site .title a {
@@ -156,7 +166,7 @@ ul.posts span {
 }
 
 .site .footer .license a {
-  color: #8085C1;
+  color: #8085c1;
   text-decoration: none;
 }
 
@@ -170,7 +180,7 @@ ul.posts span {
 }
 
 .site .footer .rss a {
-  color: #8085C1;
+  color: #8085c1;
 }
 
 .footnotes {
@@ -189,7 +199,8 @@ ul.posts span {
 
 /* Inputs */
 
-input, textarea {
+input,
+textarea {
   font-size: inherit;
   margin: 5px -3px 0px;
   width: 98%;
@@ -273,14 +284,11 @@ input, textarea {
   color: #843534;
 }
 
-
-
 /*
  * Posts
  */
 
 #post {
-
 }
 
 /* standard */
@@ -311,7 +319,8 @@ input, textarea {
 #post code {
   font-size: 90%;
   padding: 0.1px 0;
-  font-family: "Hack", "Monaco", "Consolas", "Liberation Mono", "Menlo", monospace;
+  font-family: "Hack", "Monaco", "Consolas", "Liberation Mono", "Menlo",
+    monospace;
   color: #5d6063;
 }
 
@@ -347,12 +356,12 @@ input, textarea {
   position: relative;
   margin: -10px 0 0 15px;
   float: right;
-  border-radius: 50%
+  border-radius: 50%;
 }
 
 @media (max-width: 480px) {
   .profile-picture img {
-    margin-top: -5px
+    margin-top: -5px;
   }
 }
 

@@ -6,90 +6,58 @@ permalink: /
 
 <p><img class="profile-picture" src="images/profile.jpg" /></p>
 
-I am a research scientist, passionate about aviation, maps and data.  
-For a decent idea of my work activities, have a look at my [LinkedIn](https://linkedin.com/in/xoolive) profile.
+I am a <span style="color: #9a3334; font-weight: 600">research scientist</span>, passionate about <span style="color: #9a3334; font-weight: 600">aviation, maps and data</span>.
+
+My research interests include Data Science, Machine Learning and Decision Science applied to aviation, with a particular focus on optimisation, anomaly and pattern detection. Applications range from air traffic management, operations, predictive maintenance, safety analyses and risk assessment.
 
 Outside office hours, I love to learn new things, especially when it comes to:
 
-  - foreign cultures and languages,
-  - music: jazz, bossa nova;
-  - trail running, meditation and yoga;
-  - radio waves and broadcasting, independent cinema.
+- foreign cultures and languages,
+- music: jazz, bossa nova;
+- trail running, meditation and yoga;
+- radio waves and broadcasting, independent cinema.
 
-# Teaching activities
+## Recent news
+
+<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation)  
+<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2020</span> Technical Program Chair at the 8th OpenSky Symposium: [proceedings](https://www.mdpi.com/2504-3900/59/1), [videos](https://www.youtube.com/playlist?list=PLNft4qtPGeqO79zjez0mEPYEHkoI7zQCo)  
+<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2020</span> Best of Track Award at DASC 2020
+
+## Teaching activities
 
 - Algorithms and Programming, with a focus on data structures and their
-    implementation
+  implementation
 - Python for Scientists, advanced and idiomatic programming practices
 - Decision Science, incl. graph optimisation, constraint programming or linear
-    programming
+  programming
 - Data Science, Machine Learning, esp. unsupervised learning
 
-# Open access projects (open source, open data)
+## Pathologies
 
-
-<p><img class="logo_traffic" src="https://github.com/xoolive/traffic/raw/master/docs/_static/logo_traffic.png" /></p>
-
-- The [traffic](https://traffic-viz.github.io/) library provides data
-analysis methods commonly applied to trajectories and airspaces. It offers
-facilities to parse and/or access traffic data from open sources of ADS-B
-traffic like the [OpenSky Network](https://opensky-network.org/).  
-It is designed to be easily extendable to other sources of data.
-
-- The [open aviation data](https://atmdata.github.io/) initiative intends to
-reference any kind of (possibly open) data initiative related to aviation. It is
-supported by a group of academics, researchers and aviation people working to
-bring the power of data in order to improve the current state of the art in
-aviation.
-
-<p><img class="logo_opensky" src="https://opensky-network.org/apidoc/_static/radar_small.png" /></p>
-
-- I am pretty active within the [OpenSky Network](https://opensky-network.org/),
-a non-profit association aiming at improving the security, reliability and
-efficiency of the air space usage by providing open access of real-world air
-traffic control data to the public. 
-
-# Selected recent publications
-
-See [full list](/publications/) of publications.
-
-- Xavier Olive and Luis Basora.  
-  Detection and identification of significant events in historical aircraft trajectory data.  
-  *Transportation Research Part C: Emerging Technologies* 119, 2020, 10237;  
-  [https://doi.org/10.1016/j.trc.2020.102737](https://doi.org/10.1016/j.trc.2020.102737)
-
-- Luis Basora, Xavier Olive and Thomas Dubot.  
-  Recent Advances in Anomaly Detection Methods Applied to Aviation.  
-  *Aerospace*, 6(11), 2019, 117;  
-  [https://doi.org/10.3390/aerospace6110117](https://doi.org/10.3390/aerospace6110117)
-
-# Pathologies
-
-
-<i class="fas fa-coffee fa-lg" style="margin-right: 1em; width: 15pt"></i>
+<i class="fas fa-coffee fa-lg pull-right" style="margin-top: 15px"></i>
 I appreciate a good cup of tea and/or coffee.  
-<i style="margin-right: 34pt"></i>My preference goes for siphon coffee brewer and aeropress.
+My preference goes for siphon coffee brewer and aeropress.
 
-<i class="fas fa-beer fa-lg" style="margin-right: 1em; width: 15pt"></i>
+<i class="fas fa-beer fa-lg pull-right" style="margin-top: 5px"></i>
 You may treat me with a beer from a brewery in your neighbourhood.
 
-<i class="fas fa-code fa-lg" style="margin-right: 1em; width: 15pt"></i>
+<i class="fas fa-code fa-lg pull-right" style="margin-top: 5px"></i>
 I do enjoy vim, git, python, ocaml and Markdown.
 
-<i class="fas fa-globe fa-lg" style="margin-right: 1em; width: 15pt"></i>
+<i class="fas fa-globe fa-lg pull-right" style="margin-top: 20px"></i>
 I am (now less of) a compulsive language learner  
-<i style="margin-right: 34pt"></i>I should be able to get into trouble in 🇹🇼 🇭🇰 🇦🇷 🇮🇹 🇱🇧 🇳🇱 🇵🇹 🇮🇸  
-<i style="margin-right: 34pt"></i>I can get myself out of trouble in 🇫🇷 🇩🇪 🇬🇧 🇯🇵
+I should be able to get into trouble in 🇹🇼 🇭🇰 🇦🇷 🇮🇹 🇱🇧 🇳🇱 🇵🇹 🇮🇸  
+I can get myself out of trouble in 🇫🇷 🇩🇪 🇬🇧 🇯🇵
 
-<i class="fas fa-book fa-lg" style="margin-right: 1em; width: 15pt"></i>
-I collect [translations](/le-petit-prince) of *Le Petit Prince*.
+<i class="fas fa-book fa-lg pull-right" style="margin-top: 5px"></i>
+I collect [translations](/le-petit-prince) of _Le Petit Prince_.
 
-<i class="far fa-map fa-lg" style="margin-right: 1em; width: 15pt"></i>
+<i class="far fa-map fa-lg pull-right" style="margin-top: 5px"></i>
 I have some obsessional disorder with maps.
 
-<i class="far fa-paper-plane fa-lg" style="margin-right: 1em; width: 15pt"></i>
+<i class="far fa-paper-plane fa-lg pull-right" style="margin-top: 5px"></i>
 There is some history between me and planes.
 
-# Location
+## Location
 
-[yoga.silver.staring](http://w3w.co/yoga.silver.staring)  
+[yoga.silver.staring](http://w3w.co/yoga.silver.staring)
