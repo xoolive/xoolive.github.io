@@ -35,8 +35,9 @@ An overview of my research is also available on [Google Scholar](https://scholar
 
 ## PhD students
 
-<span class="pull-left" style="font-weight: bold;text-indent: -80px;">2020 -- ...</span> **Hatem El Kadi** will start his research on aircraft deconfliction techniques.  
-<span class="pull-left" style="font-weight: bold;text-indent: -80px;">2017 -- ...</span> **Sana Ikli** will soon defend her thesis about optimisation techniques around the aircraft sequencing and landing problem.
+<span class="pull-left" style="font-weight: bold;text-indent: -80px;">2021 -- ...</span> **Timothé Krauth** starts his research around the estimation of risk probability for aircraft collision (collaboration with [ZHAW](https://www.zhaw.ch/de/hochschule/)).  
+<span class="pull-left" style="font-weight: bold;text-indent: -80px;">2020 -- ...</span> **Hatem El Kadi** starts his research around aircraft deconfliction techniques (collaboration with [ENAC](https://www.enac.fr/en)).  
+<span class="pull-left" style="font-weight: bold;text-indent: -80px;">2017 -- ...</span> **Sana Ikli** will soon defend her thesis about optimisation techniques around the aircraft sequencing and landing problem (collaboration with [ENAC](https://www.enac.fr/en) and [ISAE-SUPAERO](https://www.isae-supaero.fr/en)).
 
 ## Student assignments
 

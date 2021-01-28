@@ -6,6 +6,11 @@ permalink: /publications/
 
 # 2020
 
+- Martin Strohmeier, Xavier Olive, Jannis Lübbe, Matthias Schäfer and Vincent Lenders.  
+  Crowdsourced Air Traffic Data from the OpenSky Network 2019–20.
+  _Earth System Science Data_, 2020
+  [https://doi.org/10.5194/essd-2020-223](https://doi.org/10.5194/essd-2020-223)
+
 - Xavier Olive, Junzi Sun, Adrien Lafage and Luis Basora.  
   Detecting Events in Aircraft Trajectories: Rule-based and Data-driven Approaches.  
   _Proceedings of the 8th OpenSky Symposium_, 2020;  
