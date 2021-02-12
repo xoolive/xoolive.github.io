@@ -19,8 +19,8 @@ An overview of my research is also available on [Google Scholar](https://scholar
 
 - Martin Strohmeier, Xavier Olive, Jannis Lübbe, Matthias Schäfer and Vincent Lenders.  
   Crowdsourced Air Traffic Data from the OpenSky Network 2019–20.  
-  _Earth System Science Data_, 2020;  
-  [https://doi.org/10.5194/essd-2020-223](https://doi.org/10.5194/essd-2020-223)
+  _Earth System Science Data_, 13, 357–366, 2021;  
+  [https://doi.org/10.5194/essd-13-357-2021](https://doi.org/10.5194/essd-13-357-2021)
 
 - Xavier Olive and Luis Basora.  
   Detection and identification of significant events in historical aircraft trajectory data.  
