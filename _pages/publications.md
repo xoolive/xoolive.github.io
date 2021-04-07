@@ -6,6 +6,11 @@ permalink: /publications/
 
 # 2021
 
+- Luis Basora, Paloma Bry, Xavier Olive and Floris Freeman.  
+  Aircraft Fleet Health Monitoring with Anomaly Detection Techniques.  
+  _Aerospace_, 8(4), 2021, 103;
+  [https://doi.org/10.3390/aerospace8040103](https://doi.org/10.3390/aerospace8040103)
+
 - Martin Strohmeier, Xavier Olive, Jannis Lübbe, Matthias Schäfer and Vincent Lenders.  
   Crowdsourced Air Traffic Data from the OpenSky Network 2019–20.  
   _Earth System Science Data_, 13, 357–366, 2021;  
