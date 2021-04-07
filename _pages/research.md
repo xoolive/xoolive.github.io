@@ -52,7 +52,7 @@ An overview of my research is also available on [Google Scholar](https://scholar
 ## Student assignments
 
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> **Adrian Lafage** will work on a data-based trajectory generation framework.  
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2020</span> **Paloma Bry**. _Deep anomaly detection techniques for predictive maintenance_. [**(paper)**](https://doi.org/10.3390/aerospace8040103)  
+<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2020</span> **Paloma Bry**. _ Aircraft Fleet Health Monitoring with Anomaly Detection Techniques_. [**(paper)**](https://doi.org/10.3390/aerospace8040103)  
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2019</span> **Benoît Viry**. _Deep Trajectory Clustering with Autoencoders_. [**(paper)**](http://www.icrat.org/ICRAT/seminarContent/2020/papers/ICRAT2020_paper_2.pdf)  
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2018</span> **Jeremy Grignard**. _Detecting Controllers’ Actions in Past Mode S Data by Autoencoder-Based Anomaly Detection_. [**(paper)**](https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_17.pdf)
 
