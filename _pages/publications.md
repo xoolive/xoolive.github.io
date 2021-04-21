@@ -84,7 +84,7 @@ permalink: /publications/
 
 - Sana Ikli, Catherine Mancel, Marcel Mongeau, Xavier Olive and Emmanuel Rachelson.  
   An Optimistic Planning Approach for the Aircraft Landing Problem.  
-  _Proceedings of ENRI International Workshop on ATM/CNS_, 2019
+  _Proceedings of ENRI International Workshop on ATM/CNS_, 2019  
   [https://doi.org/10.1007/978-981-33-4669-7_10](https://doi.org/10.1007/978-981-33-4669-7_10) (selected papers)
 
 - Xavier Olive.  
@@ -125,3 +125,9 @@ permalink: /publications/
   Efficient Representation of Constraints and Propagation of Variable–Value Symmetries in Distributed Constraint Reasoning.  
   _Journal of Information Processing_, 19:201–210, 2011.  
   [https://doi.org/10.2197/ipsjjip.19.201](https://doi.org/10.2197/ipsjjip.19.201)
+
+# 2010
+
+- Xavier Olive and Hiromshi Nakashima.  
+  SymDPOP: Adapting DPOP to exploit partial symmetries.  
+  _Proceedings of the 12th International Workshop on Distributed Constraint Programming_, 2010
