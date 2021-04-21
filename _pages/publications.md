@@ -6,6 +6,11 @@ permalink: /publications/
 
 # 2021
 
+- Sana Ikli, Catherine Mancel, Marcel Mongeau, Xavier Olive and Emmanuel Rachelson.  
+  The aircraft runway scheduling problem: A survey.  
+  _Computers & Operations Research_, 2021, 105336;  
+  [https://doi.org/10.1016/j.cor.2021.105336](https://doi.org/10.1016/j.cor.2021.105336)
+
 - Luis Basora, Paloma Bry, Xavier Olive and Floris Freeman.  
   Aircraft Fleet Health Monitoring with Anomaly Detection Techniques.  
   _Aerospace_, 8(4), 2021, 103;  
@@ -80,6 +85,7 @@ permalink: /publications/
 - Sana Ikli, Catherine Mancel, Marcel Mongeau, Xavier Olive and Emmanuel Rachelson.  
   An Optimistic Planning Approach for the Aircraft Landing Problem.  
   _Proceedings of ENRI International Workshop on ATM/CNS_, 2019
+  [https://doi.org/10.1007/978-981-33-4669-7_10](https://doi.org/10.1007/978-981-33-4669-7_10) (selected papers)
 
 - Xavier Olive.  
   traffic, a toolbox for processing and analysing air traffic data.  
