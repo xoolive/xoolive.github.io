@@ -42,8 +42,9 @@ permalink: /publications/
 
 - Xavier Olive, Axel Tanner, Martin Strohmeier, Matthias Schäfer, Metin Feridun, Allan Tart, Ivan Martinovic and Vincent Lenders.  
   OpenSky Report 2020: Analysing in-flight emergencies using big data.  
-  _Proceedings of the 39th Digital Avionics Systems Conference (DASC)_, 2020  
-  (Best of Track paper award)
+  _Proceedings of the 39th Digital Avionics Systems Conference (DASC)_, 2020.  
+  (Best of Track paper award)  
+  [https://doi.org/10.1109/DASC50938.2020.9256787](https://doi.org/10.1109/DASC50938.2020.9256787)
 
 - Xavier Olive and Junzi Sun.  
   Detecting and Measuring Turbulence from Mode S Surveillance Downlink Data.  
@@ -60,7 +61,7 @@ permalink: /publications/
 - Michael Schultz, Xavier Olive, Judith Rosenow, Hartmut Fricke, Sameer Alam.  
   Analysis of airport ground operations based on ADS-B data.  
   _Proceedings of the 1st International Conference on Artificial Intelligence and Data Analytics in Air Transportation (AIDA-AT)_, Singapore, 2020;  
-  [https://ieeexplore.ieee.org/document/9049212](https://ieeexplore.ieee.org/document/9049212)
+  [https://doi.org/10.1109/AIDA-AT48540.2020.9049212](https://doi.org/10.1109/AIDA-AT48540.2020.9049212)
 
 # 2019
 
@@ -80,7 +81,8 @@ permalink: /publications/
 
 - Matthias Schäfer, Xavier Olive, Martin Strohmeier, Matthew Smith, Ivan Martinovic, Vincent Lenders.
   OpenSky Report 2019: Analysing TCAS in the Real World using Big Data.  
-  _Proceedings of the 38th Digital Avionics Systems Conference (DASC)_, 2019
+  _Proceedings of the 38th Digital Avionics Systems Conference (DASC)_, 2019.  
+  [https://doi.org/10.1109/DASC43569.2019.9081686](https://doi.org/10.1109/DASC43569.2019.9081686)
 
 - Sana Ikli, Catherine Mancel, Marcel Mongeau, Xavier Olive and Emmanuel Rachelson.  
   An Optimistic Planning Approach for the Aircraft Landing Problem.  
