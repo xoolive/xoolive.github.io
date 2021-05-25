@@ -37,6 +37,16 @@ An overview of my research is also available on [Google Scholar](https://scholar
   _Aerospace_, 6(11), 2019, 117;  
   [https://doi.org/10.3390/aerospace6110117](https://doi.org/10.3390/aerospace6110117)
 
+## Editorial board member
+
+- Editor for [TU Delft OPEN Publishing](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing/about/board-of-editors)
+- Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation) (2021)
+- Technical Program Chair at the 8th OpenSky Symposium (2020): [proceedings](https://www.mdpi.com/2504-3900/59/1), [videos](https://www.youtube.com/playlist?list=PLNft4qtPGeqO79zjez0mEPYEHkoI7zQCo)
+
+## Book
+
+- [**Programmation Python avancée**](/python) with Dunod Editions (in French)
+
 ## Most active collaborations
 
 - **Luis Basora**, ONERA
