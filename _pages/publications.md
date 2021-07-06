@@ -6,6 +6,14 @@ permalink: /publications/
 
 # 2021
 
+- Junzi Sun, Xavier Olive, Martin Strohmeier, Matthias Schäfer, Ivan Martinovic and Vincent Lenders.  
+  OpenSky Report 2021: Insights on ADS-B Mandate and Fleet Deployment in Times of Crisis.  
+  _Proceedings of the 40th Digital Avionics Systems Conference (DASC)_, 2021.
+
+- Xavier Olive, Junzi Sun, Mayara Condé Rocha Murça and Timothé Krauth.  
+  A Framework to Evaluate Aircraft Trajectory Generation Methods.  
+  _Proceedings of the 14th USA/Europe Air Traffic Management Research and Development Seminar_, 2021
+
 - Sana Ikli, Catherine Mancel, Marcel Mongeau, Xavier Olive and Emmanuel Rachelson.  
   The aircraft runway scheduling problem: A survey.  
   _Computers & Operations Research_, 2021, 105336;  
