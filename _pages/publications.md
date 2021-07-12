@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# 2021
+## 2021
 
 - Junzi Sun, Xavier Olive, Martin Strohmeier, Matthias Schäfer, Ivan Martinovic and Vincent Lenders.  
   OpenSky Report 2021: Insights on ADS-B Mandate and Fleet Deployment in Times of Crisis.  
@@ -29,7 +29,7 @@ permalink: /publications/
   _Earth System Science Data_, 13, 357–366, 2021;  
   [https://doi.org/10.5194/essd-13-357-2021](https://doi.org/10.5194/essd-13-357-2021)
 
-# 2020
+## 2020
 
 - Xavier Olive, Junzi Sun, Adrien Lafage and Luis Basora.  
   Detecting Events in Aircraft Trajectories: Rule-based and Data-driven Approaches.  
@@ -71,7 +71,7 @@ permalink: /publications/
   _Proceedings of the 1st International Conference on Artificial Intelligence and Data Analytics in Air Transportation (AIDA-AT)_, Singapore, 2020;  
   [https://doi.org/10.1109/AIDA-AT48540.2020.9049212](https://doi.org/10.1109/AIDA-AT48540.2020.9049212)
 
-# 2019
+## 2019
 
 - Michael Schultz, Judith Rosenow and Xavier Olive.  
   A-CDM Lite: situation awareness and decision making for small airports based on ADS-B data.  
@@ -111,7 +111,7 @@ permalink: /publications/
   _Aerospace Science and Technology_, 2019.  
   [https://doi.org/10.1016/j.ast.2018.11.031](https://doi.org/10.1016/j.ast.2018.11.031)
 
-# 2018
+## 2018
 
 - Xavier Olive, Jeremy Grignard, Thomas Dubot and Julie Saint-Lot.  
   Detecting Controllers' Actions in Past Mode S Data by Autoencoder-Based Anomaly Detection.  
@@ -122,21 +122,21 @@ permalink: /publications/
   _Proceedings of the 8th International Conference on Research in Air Transportation_, 2018  
   (Best paper award)
 
-# 2016
+## 2016
 
 - Nicolas Bérend and Xavier Olive.  
   Bi-objective optimization of a multiple-target active debris removal mission.  
   _Acta Astronautica_, 122:324–335, 2016.  
   [https://doi.org/10.1016/j.actaastro.2016.02.005](https://doi.org/10.1016/j.actaastro.2016.02.005)
 
-# 2011
+## 2011
 
 - Xavier Olive and Hiroshi Nakashima.  
   Efficient Representation of Constraints and Propagation of Variable–Value Symmetries in Distributed Constraint Reasoning.  
   _Journal of Information Processing_, 19:201–210, 2011.  
   [https://doi.org/10.2197/ipsjjip.19.201](https://doi.org/10.2197/ipsjjip.19.201)
 
-# 2010
+## 2010
 
 - Xavier Olive and Hiromshi Nakashima.  
   SymDPOP: Adapting DPOP to exploit partial symmetries.  
