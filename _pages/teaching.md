@@ -16,8 +16,8 @@ I teach mostly programming, optimisation and machine learning techniques at [ISA
 
 - **Python programming**:
 
-  - a ["back on track" seminar](https://xolearn.github.io/back2python): 3 sessions designed for self training;
-  - a [7 full-day course](https://github.com/xolearn/scientificpython), oriented on data analysis and Geographical Information Systems.
+  - an [intermediate-level seminar](/pyseminar) designed for three sessions, with a fair share of self-training;
+  - a [7 full-day course](https://github.com/xolearn/scientificpython), more oriented on data analysis and Geographical Information Systems.
 
 - **Algorithmic and programming**, covering data structures and algorithms with the C language.
 
