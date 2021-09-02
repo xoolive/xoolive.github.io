@@ -26,12 +26,11 @@ I teach mostly programming, optimisation and machine learning techniques at [ISA
 <span class="pull-left" style="font-weight: bold; text-indent: -15px;">
 <i class="fas fa-flask fa-lg"></i></span>**Data and decision science**
 
-- [**Constraint Programming**](/constraints), theory, hands-on session and project on realistic examples;
+- **Optimisation topics**:
 
-- Mixed-Integer Linear Programming;
+  - [Constraint Programming](/constraints): theory, hands-on session and project on realistic examples;
+  - Mixed-Integer Linear Programming;
+  - [Optimisation in graphs](https://github.com/xoolive/graphs);
+  - [Metaheuristics](https://github.com/xoolive/metaheuristics) (discontinued);
 
-- [Metaheuristics](https://github.com/xolearn/metaheuristics);
-
-- [Optimisation in graphs](https://github.com/xolearn/graphs);
-
-- and applied study cases in energy and transportation.
+- **Applied study cases** focused on transportation and energy.

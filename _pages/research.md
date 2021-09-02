@@ -56,14 +56,19 @@ An overview of my research is also available on [Google Scholar](https://scholar
 
 ## PhD students
 
-<span class="pull-left" style="font-weight: bold;text-indent: -80px;">2021 -- ...</span> **Timothé Krauth** starts his research around the estimation of risk probability for aircraft collision (collaboration with [ZHAW](https://www.zhaw.ch/de/hochschule/)).  
-<span class="pull-left" style="font-weight: bold;text-indent: -80px;">2020 -- ...</span> **Hatem El Kadi** starts his research around aircraft deconfliction techniques (collaboration with [ENAC](https://www.enac.fr/en)).  
-<span class="pull-left" style="font-weight: bold;text-indent: -95px;">2017 -- 2021</span> **Sana Ikli** defended her thesis around the Aircraft Landing Problem, entitled "Méthodes exactes et heuristiques pour l'ordonnancement des atterissages d'avions" (collaboration with [ENAC](https://www.enac.fr/en) and [ISAE-SUPAERO](https://www.isae-supaero.fr/en)).
+<span class="pull-left" style="font-weight: bold;text-indent: -80px;">2021 -- ...</span> **Timothé Krauth** starts his research around trajectory generation and estimation of risk probability for aircraft collision (collaboration with [ZHAW](https://www.zhaw.ch/de/hochschule/)).
+
+<span class="pull-left" style="font-weight: bold;text-indent: -80px;">2020 -- ...</span> **Hatem El Kadi** starts his research around aircraft deconfliction techniques  
+(collaboration with [ENAC](https://www.enac.fr/en)).
+
+<span class="pull-left" style="font-weight: bold;text-indent: -95px;">2017 -- 2021</span> **Sana Ikli** defended her thesis around the Aircraft Landing Problem, entitled "Méthodes exactes et heuristiques pour l'ordonnancement des atterissages d'avions"  
+(collaboration with [ENAC](https://www.enac.fr/en) and [ISAE-SUPAERO](https://www.isae-supaero.fr/en)).
 
 ## Student assignments
 
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> **Adrian Lafage** works on a data-based trajectory generation framework.  
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> **Raphaël Delair** works on ADS-B based airport collaborative decision making, with a particular focus on ground operations.  
+<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> **Michel Khalaf** starts working on real-time information extraction from ADS-B data.  
+<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> **Adrian Lafage** graduated after a work on a data-based trajectory generation framework.  
+<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> **Raphaël Delair** graduated after a work on ADS-B based airport collaborative decision making, with a particular focus on ground operations.  
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2020</span> **Paloma Bry**. _Aircraft Fleet Health Monitoring with Anomaly Detection Techniques_. [**(paper)**](https://doi.org/10.3390/aerospace8040103)  
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2019</span> **Benoît Viry**. _Deep Trajectory Clustering with Autoencoders_. [**(paper)**](http://www.icrat.org/ICRAT/seminarContent/2020/papers/ICRAT2020_paper_2.pdf)  
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2018</span> **Jeremy Grignard**. _Detecting Controllers’ Actions in Past Mode S Data by Autoencoder-Based Anomaly Detection_. [**(paper)**](https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_17.pdf)
