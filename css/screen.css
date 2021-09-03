@@ -284,6 +284,10 @@ textarea {
   color: #843534;
 }
 
+.screenshot {
+  max-width: 80%;
+}
+
 /*
  * Posts
  */
@@ -316,7 +320,7 @@ textarea {
   margin-left: 1.35em;
 }
 
-#post code {
+code {
   font-size: 90%;
   padding: 0.1px 0;
   font-family: "Hack", "Monaco", "Consolas", "Liberation Mono", "Menlo",
