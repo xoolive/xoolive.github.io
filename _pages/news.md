@@ -13,7 +13,7 @@ permalink: /news/
 **October 5, 2021** -- Junzi Sun will present our _OpenSky Report 2021: Insights on ADS-B Mandate and Fleet Deployment in Times of Crisis_ during [DASC 2021 conference](https://2021.dasconline.org/) (online).
 
 **October 4, 2021** -- I will run a [tutorial](https://2021.dasconline.org/presentations/efficient-and-large-scale-air-traffic-data-analysis-with-opensky/) (online) at [DASC 2021 conference](https://2021.dasconline.org/)
-will run a tutorial on data analysis with [OpenSky](https://opensky-network.org/) and the [traffic](https://github.com/xoolive/traffic) library.
+on data analysis with [OpenSky](https://opensky-network.org/) and the [traffic](https://github.com/xoolive/traffic) library.
 
 **September 21, 2021** -- I will present during [ATM Seminar](http://atmseminar.org/) (online) our paper entitled _A Framework to Evaluate Aircraft Trajectory Generation Methods_ (with Junzi Sun, Mayara Condé Rocha Murça and Timothé Krauth)
 
