@@ -17,21 +17,14 @@ Outside office hours, I love to learn new things, especially when it comes to:
 - trail running, meditation and yoga;
 - radio waves and broadcasting, independent cinema.
 
-## Recent news
+## Highlights
 
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/)  
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> Editor for [TU Delft OPEN Publishing](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing)  
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation)  
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> **Book!** 🇫🇷 [**Programmation Python avancée**](/python) with Dunod Editions
 
-## Teaching activities
-
-- Algorithms and Programming, with a focus on data structures and their
-  implementation
-- Python for Scientists, advanced and idiomatic programming practices
-- Decision Science, incl. graph optimisation, constraint programming or linear
-  programming
-- Data Science, Machine Learning, esp. unsupervised learning
+[» Past news](news)
 
 ## Pathologies
 
