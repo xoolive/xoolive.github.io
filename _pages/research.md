@@ -58,7 +58,7 @@ An overview of my research is also available on [Google Scholar](https://scholar
 
 <span class="pull-left" style="font-weight: bold;text-indent: -80px;">2021 -- ...</span> **Timothé Krauth** starts his research around trajectory generation and estimation of risk probability for aircraft collision (collaboration with [ZHAW](https://www.zhaw.ch/de/hochschule/)).
 
-<span class="pull-left" style="font-weight: bold;text-indent: -95px;">2020 -- 2021</span> **Hatem El Kadi** developped RL-based techniques for aircraft deconfliction  
+<span class="pull-left" style="font-weight: bold;text-indent: -95px;">2020 -- 2021</span> **Hatem El Kadi** developed RL-based techniques for aircraft deconfliction  
 (collaboration with [ENAC](https://www.enac.fr/en)).
 
 <span class="pull-left" style="font-weight: bold;text-indent: -95px;">2017 -- 2021</span> **Sana Ikli** defended her thesis around the Aircraft Landing Problem, entitled "Méthodes exactes et heuristiques pour l'ordonnancement des atterissages d'avions"  
