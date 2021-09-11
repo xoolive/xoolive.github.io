@@ -58,7 +58,7 @@ An overview of my research is also available on [Google Scholar](https://scholar
 
 <span class="pull-left" style="font-weight: bold;text-indent: -80px;">2021 -- ...</span> **Timothé Krauth** starts his research around trajectory generation and estimation of risk probability for aircraft collision (collaboration with [ZHAW](https://www.zhaw.ch/de/hochschule/)).
 
-<span class="pull-left" style="font-weight: bold;text-indent: -80px;">2020 -- ...</span> **Hatem El Kadi** starts his research around aircraft deconfliction techniques  
+<span class="pull-left" style="font-weight: bold;text-indent: -95px;">2020 -- 2021</span> **Hatem El Kadi** developped RL-based techniques for aircraft deconfliction  
 (collaboration with [ENAC](https://www.enac.fr/en)).
 
 <span class="pull-left" style="font-weight: bold;text-indent: -95px;">2017 -- 2021</span> **Sana Ikli** defended her thesis around the Aircraft Landing Problem, entitled "Méthodes exactes et heuristiques pour l'ordonnancement des atterissages d'avions"  
@@ -66,7 +66,7 @@ An overview of my research is also available on [Google Scholar](https://scholar
 
 ## Student assignments
 
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> **Michel Khalaf** starts working on real-time information extraction from ADS-B data.  
+<span class="pull-left" style="font-weight: bold;text-indent: -95px;">2021 -- 2022</span> **Michel Khalaf** starts working on real-time turbulence information extraction from ADS-B data.  
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> **Adrian Lafage** graduated after a work on a data-based trajectory generation framework.  
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> **Raphaël Delair** graduated after a work on ADS-B based airport collaborative decision making, with a particular focus on ground operations.  
 <span class="pull-left" style="font-weight: bold;text-indent: -45px;">2020</span> **Paloma Bry**. _Aircraft Fleet Health Monitoring with Anomaly Detection Techniques_. [**(paper)**](https://doi.org/10.3390/aerospace8040103)  
