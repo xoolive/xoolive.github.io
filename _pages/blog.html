@@ -5,22 +5,21 @@ permalink: /blog/
 ---
 
 <div id="home">
-
   <h1>Technical notes</h1>
   <ul class="posts">
-  {% for post in site.posts %}
-      {% if post.tags[0] == "technical" or post.tags[0] == "notebook" %}
-      <li><span>{{ post.date | date_to_string }}</span>
-      {% if post.tags[0] == "notebook" %}
-        <i class="fab fa-python" style="color: #ffc864"></i>
+    {% for post in site.posts %} {% if post.tags contains "technical" or
+    post.tags contains "notebook" %}
+    <li>
+      <span>{{ post.date | date_to_string }}</span>
+      {% if post.tags contains "notebook" %}
+      <i class="fab fa-python" style="color: #ffc864"></i>
       {% else %}
-        <i class="fas fa-angle-double-right" style="color: #aabcbc"></i>
+      <i class="fas fa-angle-double-right" style="color: #aabcbc"></i>
       {% endif %}
-      <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endif %}
-  {% endfor %}
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %} {% endfor %}
   </ul>
 
   Click <a href="/rambling/">here</a> for non technical content.
-
 </div>

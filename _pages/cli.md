@@ -9,9 +9,9 @@ permalink: /cli/
 
 ## Related posts
 
-- [Introduction to command-line interface](/404.html)
-- [How to quit Vim? An introduction on Vim usage](/404.html)
-- [Advanced Git usage patterns](/404.html)
+- [Introduction to command-line interface](/404.html) (soon)
+- [How to quit Vim? An introduction to Vim usage](/404.html) (soon)
+- [Advanced Git usage patterns](/404.html) (soon)
 - [Linux at the command line](/linux-tools)
 
 ## Cheatsheets

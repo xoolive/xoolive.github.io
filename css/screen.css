@@ -196,6 +196,12 @@ ul.posts span {
 .footnotes a {
   color: #76baff;
 }
+i {
+  margin: 0 0.5ex;
+}
+.social i {
+  margin: 0;
+}
 
 /* Inputs */
 
@@ -299,7 +305,7 @@ textarea {
 
 #post pre {
   border: 1px solid #dddddd;
-  padding: 0.2px 0.4em;
+  padding: 0.5ex 0.5em;
   background-color: #fffcf6;
   margin-top: 1em;
   margin-bottom: 1em;
