@@ -196,11 +196,26 @@ ul.posts span {
 .footnotes a {
   color: #76baff;
 }
+
 i {
   margin: 0 0.5ex;
 }
+
 .social i {
   margin: 0;
+}
+
+.badge {
+  margin-top: 0.3ex;
+  margin-left: 1em;
+}
+
+.badge.graduated {
+  background-color: #349a33;
+}
+
+.badge.paper {
+  background-color: #9a3334;
 }
 
 /* Inputs */
