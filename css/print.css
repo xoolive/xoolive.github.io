@@ -1,37 +1,17 @@
-.title {
-    display: none;
+.title,
+.footer {
+  display: none;
 }
 
 #related {
-    display: none;
+  display: none;
 }
 
 .rss {
-    display: none;
-}
-
-.site .footer .license {
-    color: #aaa;
-    width: 100%
-}
-
-.site .meta {
-    color: #aaa;
-}
-
-h1 {
-  font-size: larger;
-}
-
-#more-about-this {
   display: none;
 }
 
-input, textarea {
+input,
+textarea {
   display: none;
-}
-
-body {
-    font-family: Georgia, serif;
-    font-size: larger;
 }

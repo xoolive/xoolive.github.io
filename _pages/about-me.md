@@ -19,37 +19,37 @@ Outside office hours, I love to learn new things, especially when it comes to:
 
 ## Highlights
 
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/)  
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> Editor for [TU Delft OPEN Publishing](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing)  
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation)  
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span> **Book!** 🇫🇷 [**Programmation Python avancée**](/python) with Dunod Editions
+<span class="float-left year">2021</span> Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/)  
+<span class="float-left year">2021</span> Editor for [TU Delft OPEN Publishing](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing)  
+<span class="float-left year">2021</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation)  
+<span class="float-left year">2021</span> **Book!** 🇫🇷 [**Programmation Python avancée**](/python) with Dunod Editions
 
 [» Past news](news)
 
 ## Pathologies
 
-<i class="fas fa-coffee fa-lg pull-right" style="margin-top: 15px"></i>
+<i class="fas fa-coffee fa-lg float-right" style="margin-top: 15px"></i>
 I appreciate a good cup of tea and/or coffee.  
 My preference goes for siphon coffee brewer and aeropress.
 
-<i class="fas fa-beer fa-lg pull-right" style="margin-top: 5px"></i>
+<i class="fas fa-beer fa-lg float-right" style="margin-top: 5px"></i>
 You may treat me with a beer from a brewery in your neighbourhood.
 
-<i class="fas fa-code fa-lg pull-right" style="margin-top: 5px"></i>
+<i class="fas fa-code fa-lg float-right" style="margin-top: 5px"></i>
 I do enjoy vim, git, python, ocaml and Markdown.
 
-<i class="fas fa-globe fa-lg pull-right" style="margin-top: 20px"></i>
+<i class="fas fa-globe fa-lg float-right" style="margin-top: 20px"></i>
 I am (now less of) a compulsive language learner  
 I should be able to get into trouble in 🇹🇼 🇭🇰 🇦🇷 🇮🇹 🇱🇧 🇳🇱 🇵🇹 🇮🇸  
 I can get myself out of trouble in 🇫🇷 🇩🇪 🇬🇧 🇯🇵
 
-<i class="fas fa-book fa-lg pull-right" style="margin-top: 5px"></i>
+<i class="fas fa-book fa-lg float-right" style="margin-top: 5px"></i>
 I collect [translations](/le-petit-prince) of _Le Petit Prince_.
 
-<i class="far fa-map fa-lg pull-right" style="margin-top: 5px"></i>
+<i class="far fa-map fa-lg float-right" style="margin-top: 5px"></i>
 I have some obsessional disorder with maps.
 
-<i class="far fa-paper-plane fa-lg pull-right" style="margin-top: 5px"></i>
+<i class="far fa-paper-plane fa-lg float-right" style="margin-top: 5px"></i>
 There is some history between me and planes.
 
 ## Location

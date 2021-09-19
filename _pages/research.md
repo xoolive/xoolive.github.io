@@ -39,10 +39,10 @@ An overview of my research is also available on [Google Scholar](https://scholar
 
 ## Editorial board member
 
-- Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/)
-- Editor for [TU Delft OPEN Publishing](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing)
-- Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation) (2021)
-- Technical Program Chair for the [8th OpenSky Symposium](https://symposium.opensky-network.org/2020/) (2020): [proceedings](https://www.mdpi.com/2504-3900/59/1), [videos](https://www.youtube.com/playlist?list=PLNft4qtPGeqO79zjez0mEPYEHkoI7zQCo)
+<span class="float-left year">2021</span>Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
+<span class="float-left year">2021</span> Editor for [TU Delft OPEN Publishing](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing)<br/>
+<span class="float-left year">2021</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation)<br/>
+<span class="float-left year">2020</span> Technical Program Chair for the [8th OpenSky Symposium](https://symposium.opensky-network.org/2020/): [proceedings](https://www.mdpi.com/2504-3900/59/1), [videos](https://www.youtube.com/playlist?list=PLNft4qtPGeqO79zjez0mEPYEHkoI7zQCo)
 
 ## Book
 
@@ -56,34 +56,32 @@ An overview of my research is also available on [Google Scholar](https://scholar
 
 ## PhD students
 
-<span class="pull-left" style="font-weight: bold;text-indent: -80px;">2021 -- ...</span><span class="badge pull-right">active</span> **Timothé Krauth** starts his research around trajectory generation and estimation of risk probability for aircraft collision (collaboration with [ZHAW](https://www.zhaw.ch/de/hochschule/)).
+<span class="float-left year">2024<br/>2021</span><span class="badge float-right">active</span> **Timothé Krauth** starts his research around trajectory generation and estimation of risk probability for aircraft collision (collaboration with [ZHAW](https://www.zhaw.ch/de/hochschule/)).
 
-<span class="pull-left" style="font-weight: bold;text-indent: -95px;">2020 -- 2021</span><span class="badge pull-right">discontinued</span> **Hatem El Kadi** developed RL-based techniques for aircraft deconfliction  
+<span class="float-left year">2021<br/>2020</span><span class="badge discontinued float-right">discontinued</span> **Hatem El Kadi** developed RL-based techniques for aircraft deconfliction  
 (collaboration with [ENAC](https://www.enac.fr/en)).
 
-<span class="pull-left" style="font-weight: bold;text-indent: -95px;">2017 -- 2021</span><span class="badge graduated pull-right">graduated</span> **Sana Ikli** defended her thesis around the Aircraft Landing Problem, entitled "Méthodes exactes et heuristiques pour l'ordonnancement des atterissages d'avions"  
+<span class="float-left year">2021<br/>2017</span><span class="badge graduated float-right">graduated</span> **Sana Ikli** defended her thesis around the Aircraft Landing Problem, entitled "Méthodes exactes et heuristiques pour l'ordonnancement des atterissages d'avions"  
 (collaboration with [ENAC](https://www.enac.fr/en) and [ISAE-SUPAERO](https://www.isae-supaero.fr/en)).
 
 ## Student assignments
 
-<span class="pull-left" style="font-weight: bold;text-indent: -95px;">2021 -- 2022</span><span class="badge pull-right">active</span> **Michel Khalaf** starts working on real-time turbulence information extraction from ADS-B data.  
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span><span class="badge graduated pull-right">graduated</span> **Adrian Lafage** graduated after a work on a data-based trajectory generation framework.  
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2021</span><span class="badge graduated pull-right">graduated</span> **Raphaël Delair** graduated after a work on ADS-B based airport collaborative decision making, with a particular focus on ground operations.  
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2020</span> **Paloma Bry** [<span class="badge paper pull-right">paper</span>](https://doi.org/10.3390/aerospace8040103)  
+<span class="float-left year">2022</span><span class="badge float-right">active</span> **Michel Khalaf** starts working on real-time turbulence information extraction from ADS-B data.  
+<span class="float-left year">2021</span><span class="badge graduated float-right">graduated</span> **Adrian Lafage** graduated after a work on a data-based trajectory generation framework.  
+<span class="float-left year">2021</span><span class="badge graduated float-right">graduated</span> **Raphaël Delair** graduated after a work on ADS-B based airport collaborative decision making, with a particular focus on ground operations.  
+<span class="float-left year">2020</span> **Paloma Bry** [<span class="badge paper float-right">paper</span>](https://doi.org/10.3390/aerospace8040103)  
 _Aircraft Fleet Health Monitoring with Anomaly Detection Techniques_  
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2019</span> **Benoît Viry**. [<span class="badge paper pull-right">paper</span>](http://www.icrat.org/ICRAT/seminarContent/2020/papers/ICRAT2020_paper_2.pdf)  
+<span class="float-left year">2019</span> **Benoît Viry** [<span class="badge paper float-right">paper</span>](http://www.icrat.org/ICRAT/seminarContent/2020/papers/ICRAT2020_paper_2.pdf)  
 _Deep Trajectory Clustering with Autoencoders_  
-<span class="pull-left" style="font-weight: bold;text-indent: -45px;">2018</span> **Jeremy Grignard** [<span class="badge paper pull-right">paper</span>](https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_17.pdf)  
+<span class="float-left year">2018</span> **Jeremy Grignard** [<span class="badge paper float-right">paper</span>](https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_17.pdf)  
 _Detecting Controllers’ Actions in Past Mode S Data by Autoencoder-Based Anomaly Detection_
 
 ## Open access projects (open source, open data)
 
-<p><img class="logo_traffic" src="https://github.com/xoolive/traffic/raw/master/docs/_static/logo_traffic.png" /></p>
-
 - The [traffic](https://traffic-viz.github.io/) library provides data
   analysis methods commonly applied to trajectories and airspaces. It offers
   facilities to parse and/or access traffic data from open sources of ADS-B
-  traffic like the [OpenSky Network](https://opensky-network.org/).  
+  traffic like the [OpenSky Network](https://opensky-network.org/).
   It is designed to be easily extendable to other sources of data.
 
 - The [open aviation data](https://atmdata.github.io/) initiative intends to
@@ -91,8 +89,6 @@ _Detecting Controllers’ Actions in Past Mode S Data by Autoencoder-Based Anoma
   supported by a group of academics, researchers and aviation people working to
   bring the power of data in order to improve the current state of the art in
   aviation.
-
-<p><img class="logo_opensky" src="https://opensky-network.org/apidoc/_static/radar_small.png" /></p>
 
 - I am pretty active within the [OpenSky Network](https://opensky-network.org/),
   a non-profit association aiming at improving the security, reliability and

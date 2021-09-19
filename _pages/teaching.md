@@ -12,7 +12,7 @@ I regularly visit [ISAE SUPAERO](https://www.isae-supaero.fr/en/) (Toulouse camp
 
 <br/>
 
-<span class="pull-left" style="font-weight: bold; text-indent: -15px;">
+<span class="float-left year">
 <i class="fas fa-keyboard fa-lg"></i></span>**Programming**
 
 - **Python programming**: advanced and idiomatic programming practices.
@@ -24,7 +24,7 @@ I regularly visit [ISAE SUPAERO](https://www.isae-supaero.fr/en/) (Toulouse camp
 
 <br/>
 
-<span class="pull-left" style="font-weight: bold; text-indent: -15px;">
+<span class="float-left year">
 <i class="fas fa-flask fa-lg"></i></span>**Data and decision science**
 
 - **Optimisation topics**:

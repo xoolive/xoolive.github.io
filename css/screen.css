@@ -20,8 +20,7 @@ body {
 
 body {
   background-color: white;
-  font: 13.34px Lato, clean, sans-serif;
-  *font-size: small;
+  font: 14px Lato, clean, sans-serif;
   text-align: center;
 }
 
@@ -111,8 +110,7 @@ ul.posts span {
  */
 
 .site {
-  font-size: 110%;
-  text-align: justify;
+  text-align: left;
   width: 42em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
@@ -122,6 +120,32 @@ ul.posts span {
   color: #a00;
   font-weight: bold;
   margin-bottom: 3em;
+}
+
+@media (max-width: 480px) {
+  .title {
+    background-color: white;
+    box-sizing: border-box;
+    line-height: 2em;
+    margin-bottom: 2em;
+    margin-left: -2em;
+    padding: 0.5em 0;
+    text-align: left;
+    width: 24em;
+  }
+  .site {
+    width: 22em;
+    margin: 1em auto 1em auto;
+  }
+  .social {
+    margin-top: 0.5em;
+  }
+  .float-right {
+    margin: 1ex;
+  }
+  .badge {
+    margin-right: -2em;
+  }
 }
 
 .site .title a {
@@ -208,6 +232,15 @@ i {
 .badge {
   margin-top: 0.3ex;
   margin-left: 1em;
+  padding: 3px 7px;
+  background-color: #777;
+  color: white;
+  font-size: 12px;
+  border-radius: 10px;
+}
+
+.badge.discontinued {
+  background-color: #bbbbbb;
 }
 
 .badge.graduated {
@@ -216,6 +249,12 @@ i {
 
 .badge.paper {
   background-color: #9a3334;
+}
+
+.year {
+  font-weight: bold;
+  margin-left: -3em;
+  line-height: 1.5em;
 }
 
 /* Inputs */
