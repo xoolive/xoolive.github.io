@@ -61,7 +61,7 @@ An overview of my research is also available on [Google Scholar](https://scholar
 <span class="float-left year">2021<br/>2020</span><span class="badge discontinued float-right">discontinued</span> **Hatem El Kadi** developed RL-based techniques for aircraft deconfliction  
 (collaboration with [ENAC](https://www.enac.fr/en)).
 
-<span class="float-left year">2021<br/>2017</span><span class="badge graduated float-right">graduated</span> **Sana Ikli** defended her thesis around the Aircraft Landing Problem, entitled "Méthodes exactes et heuristiques pour l'ordonnancement des atterissages d'avions"  
+<span class="float-left year">2021<br/>2017</span><span class="badge graduated float-right">graduated</span> **Sana Ikli** defended her thesis around the Aircraft Landing Problem, entitled "Méthodes exactes et heuristiques pour l'ordonnancement des atterrissages d'avions"  
 (collaboration with [ENAC](https://www.enac.fr/en) and [ISAE-SUPAERO](https://www.isae-supaero.fr/en)).
 
 ## Student assignments
