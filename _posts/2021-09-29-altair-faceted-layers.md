@@ -58,7 +58,7 @@ base = alt.Chart(source).encode(
 alt.layer(base.mark_bar(), base.mark_text())
 ```
 
-<div style="margin-top: -1rem"/>
+<div style="margin-top: -1em"></div>
 
 ```pycon
 Traceback (most recent call last):
