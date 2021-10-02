@@ -39,6 +39,7 @@ An overview of my research is also available on [Google Scholar](https://scholar
 
 ## Editorial board member
 
+<span class="float-left year">2022</span>Technical Committee Member for the [1st International Conference for CBM in Aerospace](https://cbmacademy.eu/)<br/>
 <span class="float-left year">2021</span>Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
 <span class="float-left year">2021</span> Editor for [TU Delft OPEN Publishing](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing)<br/>
 <span class="float-left year">2021</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation)<br/>

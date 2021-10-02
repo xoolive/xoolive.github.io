@@ -19,9 +19,8 @@ Outside office hours, I love to learn new things, especially when it comes to:
 
 ## Highlights
 
+<span class="float-left year">2022</span>Technical Committee Member for the [1st International Conference for CBM in Aerospace](https://cbmacademy.eu/)<br/>
 <span class="float-left year">2021</span> Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/)  
-<span class="float-left year">2021</span> Editor for [TU Delft OPEN Publishing](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing)  
-<span class="float-left year">2021</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation)  
 <span class="float-left year">2021</span> **Book!** 🇫🇷 [**Programmation Python avancée**](/python) with Dunod Editions
 
 [» Past news](news)

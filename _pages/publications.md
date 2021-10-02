@@ -6,8 +6,12 @@ permalink: /publications/
 
 ## 2021
 
+- Timothé Krauth, Jérôme Morio, Xavier Olive, Benoit Figuet and Raphael Monstein.  
+  Synthetic Aircraft Trajectory Generation with Statistical Copula-based Models.  
+  _Proceedings of the 9th OpenSky Symposium_, 2021
+
 - Junzi Sun, Xavier Olive, Martin Strohmeier, Matthias Schäfer, Ivan Martinovic and Vincent Lenders.  
-  OpenSky Report 2021: Insights on ADS-B Mandate and Fleet Deployment in Times of Crisis.  
+  OpenSky Report 2021: Insights on ADS-B Mandate and Fleet Deployment in times of crisis.  
   _Proceedings of the 40th Digital Avionics Systems Conference (DASC)_, 2021.
 
 - Xavier Olive, Junzi Sun, Mayara Condé Rocha Murça and Timothé Krauth.  
@@ -51,7 +55,7 @@ permalink: /publications/
 - Xavier Olive, Axel Tanner, Martin Strohmeier, Matthias Schäfer, Metin Feridun, Allan Tart, Ivan Martinovic and Vincent Lenders.  
   OpenSky Report 2020: Analysing in-flight emergencies using big data.  
   _Proceedings of the 39th Digital Avionics Systems Conference (DASC)_, 2020.  
-  (Best of Track paper award)  
+  (Best of Session, Best of Track paper award)  
   [https://doi.org/10.1109/DASC50938.2020.9256787](https://doi.org/10.1109/DASC50938.2020.9256787)
 
 - Xavier Olive and Junzi Sun.  
@@ -138,6 +142,6 @@ permalink: /publications/
 
 ## 2010
 
-- Xavier Olive and Hiromshi Nakashima.  
+- Xavier Olive and Hiroshi Nakashima.  
   SymDPOP: Adapting DPOP to exploit partial symmetries.  
   _Proceedings of the 12th International Workshop on Distributed Constraint Programming_, 2010
