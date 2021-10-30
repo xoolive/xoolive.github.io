@@ -344,6 +344,9 @@ textarea {
   color: #843534;
 }
 
+.screenshot100 {
+  max-width: 100%;
+}
 .screenshot {
   max-width: 80%;
 }

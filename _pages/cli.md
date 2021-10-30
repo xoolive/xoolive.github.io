@@ -13,6 +13,7 @@ permalink: /cli/
 - [How to quit Vim? An introduction to Vim usage](/404.html) (soon)
 - [Advanced Git usage patterns](/404.html) (soon)
 - [Linux at the command line](/linux-tools)
+- [Bindkeys](/bindkeys)
 
 ## Cheatsheets
 
