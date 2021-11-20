@@ -54,7 +54,7 @@ I bought some of these books during trips around the world. Some were offered by
 - 2016: _Ilay Andriandahy Kely_, Malagasy, `offered and mailed by Fara`
 - 2016: _Den Lille Prinsen_, Swedish, `offered by Nicolás`
 - 2016: _Lou Princihoun_, Provençal[^2], `bought online`
-- 2016: _Lo Princilhon_, Lengadocian[^3], `bought in Ostal d'Occitània`
+- 2021: _Malý Princ_, Czech, `offered by Martin in Brussels`
 
 [^1]: Also offered by Damien and Marianne (2015)
 [^2]: Occitan dialect. The spelling follows the Mistralian norm.
