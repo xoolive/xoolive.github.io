@@ -8,7 +8,11 @@ permalink: /news/
 
 ## 2021
 
-**November 18/19, 2021** -- Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/)
+**November 18/19, 2021** -- Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/). Timothé Krauth presented our work _Synthetic Aircraft Trajectory Generation with Statistical Copula-based Models_.
+
+**November 17, 2021** -- I ran a hands-on tutorial "in real life" on data analysis with [OpenSky](https://opensky-network.org/) and the [traffic](https://github.com/xoolive/traffic) library.
+
+**November 2021** -- I participated in the [#30DayMapChallenge](/30DayMapChallenge)
 
 **October 5, 2021** -- Junzi Sun will present our _OpenSky Report 2021: Insights on ADS-B Mandate and Fleet Deployment in Times of Crisis_ during [DASC 2021 conference](https://2021.dasconline.org/) (online).
 
