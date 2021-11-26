@@ -12,7 +12,8 @@ permalink: /publications/
 
 - Junzi Sun, Xavier Olive, Martin Strohmeier, Matthias Schäfer, Ivan Martinovic and Vincent Lenders.  
   OpenSky Report 2021: Insights on ADS-B Mandate and Fleet Deployment in times of crisis.  
-  _Proceedings of the 40th Digital Avionics Systems Conference (DASC)_, 2021.
+  _Proceedings of the 40th Digital Avionics Systems Conference (DASC)_, 2021.  
+  [https://doi.org/10.1109/DASC52595.2021.9594361](https://doi.org/10.1109/DASC52595.2021.9594361)
 
 - Xavier Olive, Junzi Sun, Mayara Condé Rocha Murça and Timothé Krauth.  
   A Framework to Evaluate Aircraft Trajectory Generation Methods.  
