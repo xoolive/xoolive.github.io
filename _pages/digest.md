@@ -5,6 +5,9 @@ permalink: /digest/
 ---
 
 <div id="home">
+  <h1>The monthly digest</h1>
+
+  <p>This section gathers short summaries about random content of interest found upon browsing the Internet. Expect fun materials (according to me) but also fallacies, inconsistencies and dead links.</p>
 
   <ul class="posts">
   {% for post in site.posts %}
@@ -17,4 +20,3 @@ permalink: /digest/
   </ul>
 
 </div>
-
