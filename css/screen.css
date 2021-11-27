@@ -2,8 +2,14 @@
  * Common
  */
 
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu");
+/* in preload in the default template
+@import url("https://fonts.googleapis.com/css2?family=Fira%20Sans&subset=latin,latin-ext&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&subset=latin,latin-ext&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&subset=latin,latin-ext&display=swap");
+*/
 /* Global Reset */
-
 * {
   margin: 0;
   padding: 0;
@@ -101,8 +107,8 @@ ul.posts li {
 
 ul.posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  font-family: "Inconsolata", "Hack", "Monaco", "Courier New", monospace;
+  /*font-size: 80%;*/
 }
 
 /*
@@ -118,8 +124,14 @@ ul.posts span {
 
 .title {
   color: #a00;
+  font-family: "Fira Sans";
   font-weight: bold;
   margin-bottom: 3em;
+}
+
+.header {
+  font-family: "Fira Sans";
+  text-align: right;
 }
 
 @media (max-width: 480px) {
@@ -386,8 +398,8 @@ textarea {
 code {
   font-size: 90%;
   padding: 0.1px 0;
-  font-family: "Hack", "Monaco", "Consolas", "Liberation Mono", "Menlo",
-    monospace;
+  font-family: "IBM Plex Mono", "Hack", "Monaco", "Consolas", "Liberation Mono",
+    "Menlo", monospace;
   color: #5d6063;
 }
 
@@ -454,9 +466,6 @@ code {
 }
 
 /** Terminal */
-
-@import url("https://fonts.googleapis.com/css?family=Ubuntu+Mono");
-@import url("https://fonts.googleapis.com/css?family=Ubuntu");
 
 .terminal {
   max-width: 600px;
