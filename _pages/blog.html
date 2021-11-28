@@ -5,9 +5,6 @@ permalink: /blog/
 ---
 
 <div id="home">
-  <div class="header">
-    <a href="/digest/">Digest</a> » <a href="/rambling/">Rambling</a> »
-  </div>
   <h1>Technical notes</h1>
   <ul class="posts">
     {% for post in site.posts %} {% if post.tags contains "technical" or
@@ -23,4 +20,7 @@ permalink: /blog/
     </li>
     {% endif %} {% endfor %}
   </ul>
+  <div class="header">
+    <a href="/digest/">Digest</a> » <a href="/rambling/">Rambling</a> »
+  </div>
 </div>
