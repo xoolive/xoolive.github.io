@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## 2021
 
-- Michael Schultz, Judith Rosenow and Xavier Olive.
+- Michael Schultz, Judith Rosenow and Xavier Olive.  
   Data-driven airport management enabled by operational milestones derived from ADS-B messages.  
   _Journal of Air Transport Management_, 2021, 102164;  
   [https://doi.org/10.1016/j.jairtraman.2021.102164](https://doi.org/10.1016/j.jairtraman.2021.102164)
@@ -15,7 +15,7 @@ permalink: /publications/
   Synthetic Aircraft Trajectory Generation with Statistical Copula-based Models.  
   _Proceedings of the 9th OpenSky Symposium_, 2021
 
-- Junzi Sun, Xavier Olive, Martin Strohmeier, Matthias Schäfer, Ivan Martinovic and Vincent Lenders.
+- Junzi Sun, Xavier Olive, Martin Strohmeier, Matthias Schäfer, Ivan Martinovic Vincent Lenders.  
   OpenSky Report 2021: Insights on ADS-B Mandate and Fleet Deployment in times of crisis.  
   _Proceedings of the 40th Digital Avionics Systems Conference (DASC)_, 2021.  
   [https://doi.org/10.1109/DASC52595.2021.9594361](https://doi.org/10.1109/DASC52595.2021.9594361)
