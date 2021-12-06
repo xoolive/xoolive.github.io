@@ -6,9 +6,9 @@ permalink: /publications/
 
 ## 2021
 
-- M. Schultz, J. Rosenow and X. Olive.  
+- Michael Schultz, Judith Rosenow and Xavier Olive.
   Data-driven airport management enabled by operational milestones derived from ADS-B messages.  
-  _Journal of Air Transport Management_, 2021, 102164  
+  _Journal of Air Transport Management_, 2021, 102164;  
   [https://doi.org/10.1016/j.jairtraman.2021.102164](https://doi.org/10.1016/j.jairtraman.2021.102164)
 
 - Timothé Krauth, Jérôme Morio, Xavier Olive, Benoit Figuet and Raphael Monstein.  
