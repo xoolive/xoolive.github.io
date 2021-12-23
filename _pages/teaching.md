@@ -17,8 +17,8 @@ I regularly visit [ISAE SUPAERO](https://www.isae-supaero.fr/en/) (Toulouse camp
 
 - **Python programming**: advanced and idiomatic programming practices.
 
-  - an [intermediate-level seminar](/pyseminar) designed for three sessions, with a fair share of self-training;
-  - a [7 full-day course](https://github.com/xolearn/scientificpython), more oriented on data analysis and Geographical Information Systems.
+  - an [10h seminar](/pyseminar) designed for three sessions, with a fair share of self-training;
+  - a [7 full-day course](/pyweek), more oriented on data analysis and Geographical Information Systems.
 
 - **Algorithms and programming**, with a focus on data structures, algorithms and their implementations using the C language.
 
@@ -29,12 +29,15 @@ I regularly visit [ISAE SUPAERO](https://www.isae-supaero.fr/en/) (Toulouse camp
 
 - **Optimisation topics**:
 
-  - a [4 full-day course](), _Optimisation Topics for Artificial Intelligence_
+  I am in charge of two courses:
 
+  - [Optimisation for AI](/optim4ai): a 4 full-day illustrated course;
   - [Constraint Programming](/constraints): theory, hands-on session and project on realistic examples;
-  - Mixed-Integer Linear Programming;
+
+  I also tutor classes around:
+
+  - Linear and Mixed-Integer Linear Programming;
   - [Optimisation in graphs](https://github.com/xoolive/graphs);
-  - [Metaheuristics](https://github.com/xoolive/metaheuristics) (discontinued);
 
 - **Data Science & Machine Learning**: supervised and unsupervised approaches
 
