@@ -17,7 +17,7 @@ permalink: /publications/
   Synthetic Aircraft Trajectory Generation with Statistical Copula-based Models.  
   _Proceedings of the 9th OpenSky Symposium_, 2021
 
-- Junzi Sun, Xavier Olive, Martin Strohmeier, Matthias Schäfer, Ivan Martinovic Vincent Lenders.  
+- Junzi Sun, Xavier Olive, Martin Strohmeier, Matthias Schäfer, Ivan Martinovic and Vincent Lenders.  
   OpenSky Report 2021: Insights on ADS-B Mandate and Fleet Deployment in times of crisis.  
   _Proceedings of the 40th Digital Avionics Systems Conference (DASC)_, 2021.  
   [https://doi.org/10.1109/DASC52595.2021.9594361](https://doi.org/10.1109/DASC52595.2021.9594361)
