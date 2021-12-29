@@ -31,7 +31,7 @@ I regularly visit [ISAE SUPAERO](https://www.isae-supaero.fr/en/) (Toulouse camp
 
   I am in charge of two courses:
 
-  - [Optimisation for AI](/optim4ai): a 4 full-day illustrated course;
+  - [Optimisation for Artificial Intelligence](/optim4ai): a 4 full-day illustrated course;
   - [Constraint Programming](/constraints): theory, hands-on session and project on realistic examples;
 
   I also tutor classes around:
