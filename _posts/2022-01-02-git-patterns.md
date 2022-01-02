@@ -25,5 +25,5 @@ git reset --hard HEAD~
 ## Compress your git history
 
 ```bash
-git gc --aggresive --prune=now
+git gc --aggressive --prune=now
 ```
