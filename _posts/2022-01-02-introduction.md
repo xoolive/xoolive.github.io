@@ -3,6 +3,7 @@ layout: post
 lang: en
 title: Introduction to the command-line interface
 tags: technical
+permalink: /cli-intro
 ---
 
 This basic introduction to the command-line interface is designed for people with no previous experience of the terminal. It does not go very much in depth in all the possibilities of the terminal, but provides only a survival kit to the command line.

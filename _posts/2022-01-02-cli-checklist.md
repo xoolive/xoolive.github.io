@@ -3,6 +3,7 @@ layout: post
 lang: en
 title: A checklist for the command line interface
 tags: technical wip
+permalink: /cli-checklist
 ---
 
 A little checklist to estimate where you are with your command line abilities. This list is most likely a work in progress...
