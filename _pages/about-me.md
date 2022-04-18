@@ -19,9 +19,9 @@ Outside office hours, I love to learn new things, especially when it comes to:
 
 ## Highlights
 
+<span class="float-left year">2022</span> Program Committee Member for the [10th OpenSky Symposium](http://symposium.opensky-network.org/)  
 <span class="float-left year">2022</span>Technical Committee Member for the [1st International Conference for CBM in Aerospace](https://cbmacademy.eu/)<br/>
 <span class="float-left year">2021</span> I participated in the [#30DayMapChallenge](/30DayMapChallenge)  
-<span class="float-left year">2021</span> Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/)  
 <span class="float-left year">2021</span> **Book!** 🇫🇷 [**Programmation Python avancée**](/python) with Dunod Editions
 
 [» Past news](news)

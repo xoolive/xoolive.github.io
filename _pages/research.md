@@ -39,8 +39,9 @@ An overview of my research is also available on [Google Scholar](https://scholar
 
 ## Editorial board member
 
+<span class="float-left year">2022</span>Program Committee Member for the [10th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
 <span class="float-left year">2022</span>Technical Committee Member for the [1st International Conference for CBM in Aerospace](https://cbmacademy.eu/)<br/>
-<span class="float-left year">2021</span>Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
+<span class="float-left year">2021</span>Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/2021/): [proceedings](https://www.mdpi.com/2673-4591/13/1), [videos](https://www.youtube.com/playlist?list=PLNft4qtPGeqPKT8i9KJws9LXYS-u1c1Ly)<br/>
 <span class="float-left year">2021</span> Editor for [TU Delft OPEN Publishing](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing)<br/>
 <span class="float-left year">2021</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation)<br/>
 <span class="float-left year">2020</span> Technical Program Chair for the [8th OpenSky Symposium](https://symposium.opensky-network.org/2020/): [proceedings](https://www.mdpi.com/2504-3900/59/1), [videos](https://www.youtube.com/playlist?list=PLNft4qtPGeqO79zjez0mEPYEHkoI7zQCo)
@@ -52,8 +53,9 @@ An overview of my research is also available on [Google Scholar](https://scholar
 ## Most active collaborations
 
 - **Luis Basora**, ONERA
-- [**Junzi Sun**](https://junzisun.com/), TU Delft
-- [**Michael Schultz**](https://tu-dresden.de/bu/verkehr/ila/ifl/die-professur/staff/Michael_Schultz?set_language=en), TU Dresden
+- [**Benoit Figuet**](https://www.zhaw.ch/en/about-us/person/figu/) and [**Raphael Monstein**](https://www.zhaw.ch/en/about-us/person/mora/), Zürcher Hochschule für Angewandte Wissenschaften, Winterthur, ZH, Switzerland 🇨🇭
+- [**Junzi Sun**](https://junzisun.com/), Technical University of Delft, The Netherlands 🇳🇱
+- [**Michael Schultz**](https://www.unibw.de/home-en/appointment-of-professors/prof-michael-schultz), Universität der Bundeswehr, München, Germany 🇩🇪 <!-- https://www.unibw.de/lvk/ -->
 
 ## PhD students
 
@@ -67,13 +69,20 @@ An overview of my research is also available on [Google Scholar](https://scholar
 
 ## Student assignments
 
-<span class="float-left year">2022</span><span class="badge float-right">active</span> **Michel Khalaf** starts working on real-time turbulence information extraction from ADS-B data.  
-<span class="float-left year">2021</span><span class="badge graduated float-right">graduated</span> **Adrian Lafage** graduated after a work on a data-based trajectory generation framework.  
-<span class="float-left year">2021</span><span class="badge graduated float-right">graduated</span> **Raphaël Delair** graduated after a work on ADS-B based airport collaborative decision making, with a particular focus on ground operations.  
+<span class="float-left year">2022</span><span class="badge float-right">active</span> **Arthur Viens** starts working on Bayesian neural networks for anomaly detection and Remaining Useful Life (RUL) estimation.
+
+<span class="float-left year">2022</span><span class="badge float-right">active</span> **Michel Khalaf** starts working on real-time turbulence information extraction from ADS-B data.
+
+<span class="float-left year">2021</span><span class="badge graduated float-right">graduated</span> **Adrian Lafage** graduated after a work on a trajectory generation framework.
+
+<span class="float-left year">2021</span><span class="badge graduated float-right">graduated</span> **Raphaël Delair** graduated after a work on ADS-B based airport collaborative decision making, with a particular focus on ground operations.
+
 <span class="float-left year">2020</span> **Paloma Bry** [<span class="badge paper float-right">paper</span>](https://doi.org/10.3390/aerospace8040103)  
-_Aircraft Fleet Health Monitoring with Anomaly Detection Techniques_  
+_Aircraft Fleet Health Monitoring with Anomaly Detection Techniques_
+
 <span class="float-left year">2019</span> **Benoît Viry** [<span class="badge paper float-right">paper</span>](http://www.icrat.org/ICRAT/seminarContent/2020/papers/ICRAT2020_paper_2.pdf)  
-_Deep Trajectory Clustering with Autoencoders_  
+_Deep Trajectory Clustering with Autoencoders_
+
 <span class="float-left year">2018</span> **Jeremy Grignard** [<span class="badge paper float-right">paper</span>](https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_17.pdf)  
 _Detecting Controllers’ Actions in Past Mode S Data by Autoencoder-Based Anomaly Detection_
 
