@@ -6,7 +6,15 @@ permalink: /news/
 
 # Past news
 
+## 2022
+
+**May 24/25, 2022** -- Technical Committee Member for the [1st International Conference for CBM in Aerospace](https://cbmacademy.eu/). Luis Basora presented our work _Health monitoring of aircraft systems: challenges and perspectives based on a real-life study case (SCU system)_
+
+**May 13, 2022** -- I served in the PhD committee for Antoine Chevrot, Université de Bourgogne Franche-Comté. _Detection of contextual anomalies in multivariate time-series using Neural Network models aiming the application in the Air Traffic Control Domain_
+
 ## 2021
+
+**November 24, 2021** -- I served in the PhD committee for Samantha Corrado, Georgia Tech. _A Data-Driven Methodology to Analyze Air Traffic Management System Operations within the Terminal Airspace_
 
 **November 18/19, 2021** -- Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/). Timothé Krauth presented our work _Synthetic Aircraft Trajectory Generation with Statistical Copula-based Models_.
 

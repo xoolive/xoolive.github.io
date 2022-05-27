@@ -6,6 +6,13 @@ permalink: /publications/
 
 ## 2022
 
+- Junzi Sun, Luis Basora, Xavier Olive, Martin Strohmeier, Matthias Schäfer, Ivan Martinovic and Vincent Lenders. OpenSky Report 2022: Evaluating Aviation Emissions Using Crowdsourced Open Flight Data.  
+  _Proceedings of the 41th Digital Avionics Systems Conference (DASC)_, 2022
+
+- Florent Vergnes, Judicaël Bedouet, Xavier Olive and Junzi Sun.  
+  Environmental Impact Optimisation of Flight Plans in a Fixed and Free Route network.  
+  _Proceedings of the 10th International Conference on Research in Air Transportation_, 2022
+
 - Michael Schultz, Judith Rosenow and Xavier Olive.  
   Data-driven airport management enabled by operational milestones derived from ADS-B messages.  
   _Journal of Air Transport Management_ 99, 2022, 102164;  
