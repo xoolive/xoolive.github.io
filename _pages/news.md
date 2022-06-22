@@ -8,6 +8,10 @@ permalink: /news/
 
 ## 2022
 
+**June 20, 2022** -- Florent Vergnes presented our paper _Environmental Impact Optimisation of Flight Plans in a Fixed and Free Route network_ during [ICRAT conference](https://www.icrat.org/).
+
+**June 20, 2022** -- I ran a tutorial on data analysis with the [traffic](https://github.com/xoolive/traffic) library.
+
 **May 24/25, 2022** -- Technical Committee Member for the [1st International Conference for CBM in Aerospace](https://cbmacademy.eu/). Luis Basora presented our work _Health monitoring of aircraft systems: challenges and perspectives based on a real-life study case (SCU system)_
 
 **May 13, 2022** -- I served in the PhD committee for Antoine Chevrot, Université de Bourgogne Franche-Comté. _Detection of contextual anomalies in multivariate time-series using Neural Network models aiming the application in the Air Traffic Control Domain_
