@@ -55,9 +55,13 @@ An overview of my research is also available on [Google Scholar](https://scholar
 - **Luis Basora**, ONERA
 - [**Benoit Figuet**](https://www.zhaw.ch/en/about-us/person/figu/) and [**Raphael Monstein**](https://www.zhaw.ch/en/about-us/person/mora/), Zürcher Hochschule für Angewandte Wissenschaften, Winterthur, ZH, Switzerland 🇨🇭
 - [**Junzi Sun**](https://junzisun.com/), Technical University of Delft, The Netherlands 🇳🇱
-- [**Michael Schultz**](https://www.unibw.de/home-en/appointment-of-professors/prof-michael-schultz), Universität der Bundeswehr, München, Germany 🇩🇪 <!-- https://www.unibw.de/lvk/ -->
+- [**Michael Schultz**](https://www.unibw.de/lvk/), Universität der Bundeswehr, München, Germany 🇩🇪
 
 ## PhD students
+
+<span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Kim Gaume** starts working around data-driven methods and uncertainty around air traffic deconfliction methods. (collaboration with [ENAC](https://www.enac.fr/en)).
+
+<span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Zakaria Ezzahed** starts his research around explainable artificial intelligence for anomaly detection (collaboration with [ENAC](https://www.enac.fr/en)).
 
 <span class="float-left year">2024<br/>2021</span><span class="badge float-right">active</span> **Timothé Krauth** starts his research around trajectory generation and estimation of risk probability for aircraft collision (collaboration with [ZHAW](https://www.zhaw.ch/de/hochschule/)).
 
