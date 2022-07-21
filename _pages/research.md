@@ -52,12 +52,14 @@ An overview of my research is also available on [Google Scholar](https://scholar
 
 ## Most active collaborations
 
-- **Luis Basora**, ONERA
-- [**Benoit Figuet**](https://www.zhaw.ch/en/about-us/person/figu/) and [**Raphael Monstein**](https://www.zhaw.ch/en/about-us/person/mora/), Zürcher Hochschule für Angewandte Wissenschaften, Winterthur, ZH, Switzerland 🇨🇭
+- **Luis Basora** and [**Jérôme Morio**](https://www.onera.fr/en/staff/jerome-morio), ONERA
+- [**Benoit Figuet**](https://www.zhaw.ch/en/about-us/person/figu/) and [**Raphael Monstein**](https://www.zhaw.ch/en/about-us/person/mora/), Zürcher Hochschule für Angewandte Wissenschaften (ZHAW), Zurich, Switzerland 🇨🇭
 - [**Junzi Sun**](https://junzisun.com/), Technical University of Delft, The Netherlands 🇳🇱
 - [**Michael Schultz**](https://www.unibw.de/lvk/), Universität der Bundeswehr, München, Germany 🇩🇪
 
 ## PhD students
+
+<span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Nicolas Huber** starts working around hybrid trajectory generation methods for collision risk modelling (collaboration with [ZHAW](https://www.zhaw.ch/de/hochschule/)).
 
 <span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Kim Gaume** starts working around data-driven methods and uncertainty for air traffic deconfliction methods (collaboration with [ENAC](https://www.enac.fr/en)).
 
