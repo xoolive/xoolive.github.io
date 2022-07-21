@@ -59,7 +59,7 @@ An overview of my research is also available on [Google Scholar](https://scholar
 
 ## PhD students
 
-<span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Kim Gaume** starts working around data-driven methods and uncertainty for air traffic deconfliction methods. (collaboration with [ENAC](https://www.enac.fr/en)).
+<span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Kim Gaume** starts working around data-driven methods and uncertainty for air traffic deconfliction methods (collaboration with [ENAC](https://www.enac.fr/en)).
 
 <span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Zakaria Ezzahed** starts his research around explainable artificial intelligence for anomaly detection (collaboration with [ENAC](https://www.enac.fr/en)).
 
