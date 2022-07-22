@@ -9,10 +9,10 @@ permalink: /publications/
 - Junzi Sun, Luis Basora, Xavier Olive, Martin Strohmeier, Matthias Schäfer, Ivan Martinovic and Vincent Lenders. OpenSky Report 2022: Evaluating Aviation Emissions Using Crowdsourced Open Flight Data.  
   _Proceedings of the 41th Digital Avionics Systems Conference (DASC)_, 2022
 
-- Florent Vergnes, Judicaël Bedouet, Xavier Olive and Junzi Sun.  
+- Florent Vergnes, Judicaël Bedouet, Xavier Olive and Junzi Sun.
+  [<span class="badge paper float-right">PDF</span>](https://drive.google.com/file/d/1mwkqtrZbn6phOP6zurzQBjoc0FhGXc2t/view?usp=sharing)  
   Environmental Impact Optimisation of Flight Plans in a Fixed and Free Route network.  
-  _Proceedings of the 10th International Conference on Research in Air Transportation_, 2022  
-  [(download)](https://drive.google.com/file/d/1mwkqtrZbn6phOP6zurzQBjoc0FhGXc2t/view?usp=sharing)
+  _Proceedings of the 10th International Conference on Research in Air Transportation_, 2022
 
 - Michael Schultz, Judith Rosenow and Xavier Olive.  
   Data-driven airport management enabled by operational milestones derived from ADS-B messages.  
@@ -31,10 +31,10 @@ permalink: /publications/
   _Proceedings of the 40th Digital Avionics Systems Conference (DASC)_, 2021.  
   [https://doi.org/10.1109/DASC52595.2021.9594361](https://doi.org/10.1109/DASC52595.2021.9594361)
 
-- Xavier Olive, Junzi Sun, Mayara Condé Rocha Murça and Timothé Krauth.  
+- Xavier Olive, Junzi Sun, Mayara Condé Rocha Murça and Timothé Krauth.
+  [<span class="badge paper float-right">PDF</span>](https://drive.google.com/file/d/1xnFSDl074UQRcyW9Ij3FodO7EBHD_5CI/view?usp=sharing)  
   A Framework to Evaluate Aircraft Trajectory Generation Methods.  
-  _Proceedings of the 14th USA/Europe Air Traffic Management Research and Development Seminar_, 2021  
-  [(download)](https://drive.google.com/file/d/1xnFSDl074UQRcyW9Ij3FodO7EBHD_5CI/view?usp=sharing)
+  _Proceedings of the 14th USA/Europe Air Traffic Management Research and Development Seminar_, 2021
 
 - Sana Ikli, Catherine Mancel, Marcel Mongeau, Xavier Olive and Emmanuel Rachelson.  
   The aircraft runway scheduling problem: A survey.  
@@ -70,26 +70,26 @@ permalink: /publications/
   _Transportation Research Part C: Emerging Technologies_ 119, 2020, 10237.  
   [https://doi.org/10.1016/j.trc.2020.102737](https://doi.org/10.1016/j.trc.2020.102737)
 
-- Xavier Olive, Axel Tanner, Martin Strohmeier, Matthias Schäfer, Metin Feridun, Allan Tart, Ivan Martinovic and Vincent Lenders.  
+- <span class="badge graduated float-right"><i class="fas fa-solid fa-trophy"></i></span>Xavier Olive, Axel Tanner, Martin Strohmeier, Matthias Schäfer, Metin Feridun, Allan Tart, Ivan Martinovic and Vincent Lenders.  
   OpenSky Report 2020: Analysing in-flight emergencies using big data.  
   _Proceedings of the 39th Digital Avionics Systems Conference (DASC)_, 2020.  
   (Best of Session, Best of Track paper award)  
   [https://doi.org/10.1109/DASC50938.2020.9256787](https://doi.org/10.1109/DASC50938.2020.9256787)
 
-- Xavier Olive and Junzi Sun.  
+- Xavier Olive and Junzi Sun.
+  [<span class="badge paper float-right">PDF</span>](https://drive.google.com/file/d/1ttNd71bqZsF2tY5h8hMnYfyIpx9TzfXq/view?usp=sharing)  
   Detecting and Measuring Turbulence from Mode S Surveillance Downlink Data.  
-  _Proceedings of the 9th International Conference on Research in Air Transportation_, 2020  
-  [(download)](https://drive.google.com/file/d/1ttNd71bqZsF2tY5h8hMnYfyIpx9TzfXq/view?usp=sharing)
+  _Proceedings of the 9th International Conference on Research in Air Transportation_, 2020
 
-- Xavier Olive, Luis Basora, Benoît Viry and Richard Alligier.  
+- Xavier Olive, Luis Basora, Benoît Viry and Richard Alligier.
+  [<span class="badge paper float-right">PDF</span>](https://drive.google.com/file/d/1Zdo6MZ7CISDlUQmzQwIM9H2eQCwr-t0W/view?usp=sharing)  
   Deep Trajectory Clustering with Autoencoders.  
-  _Proceedings of the 9th International Conference on Research in Air Transportation_, 2020  
-  [(download)](https://drive.google.com/file/d/1Zdo6MZ7CISDlUQmzQwIM9H2eQCwr-t0W/view?usp=sharing)
+  _Proceedings of the 9th International Conference on Research in Air Transportation_, 2020
 
 - Sana Ikli, Catherine Mancel, Marcel Mongeau, Xavier Olive and Emmanuel Rachelson.
+  [<span class="badge paper float-right">PDF</span>](https://drive.google.com/file/d/1t1ollfV4epZImcKcsnSYAJvVc9xYBokO/view?usp=sharing)  
   Coupling Mathematical Optimization and Machine Learning for the Aircraft Landing Problem.  
-  _Proceedings of the 9th International Conference on Research in Air Transportation_, 2020  
-  [(download)](https://drive.google.com/file/d/1t1ollfV4epZImcKcsnSYAJvVc9xYBokO/view?usp=sharing)
+  _Proceedings of the 9th International Conference on Research in Air Transportation_, 2020
 
 - Michael Schultz, Xavier Olive, Judith Rosenow, Hartmut Fricke, Sameer Alam.  
   Analysis of airport ground operations based on ADS-B data.  
@@ -98,10 +98,10 @@ permalink: /publications/
 
 ## 2019
 
-- Michael Schultz, Judith Rosenow and Xavier Olive.  
+- Michael Schultz, Judith Rosenow and Xavier Olive.
+  [<span class="badge paper float-right">PDF</span>](https://www.sesarju.eu/sites/default/files/documents/sid/2019/papers/SIDs_2019_paper_76.pdf)
   A-CDM Lite: situation awareness and decision making for small airports based on ADS-B data.  
-  _Proceedings of the 9th SESAR Innovation Days_, 2019  
-  [(download)](https://www.sesarju.eu/sites/default/files/documents/sid/2019/papers/SIDs_2019_paper_76.pdf)
+  _Proceedings of the 9th SESAR Innovation Days_, 2019
 
 - Luis Basora, Xavier Olive and Thomas Dubot.  
   Recent Advances in Anomaly Detection Methods Applied to Aviation.  
@@ -128,10 +128,10 @@ permalink: /publications/
   _Journal of Open Source Software_, 4(39), 2019.  
   [https://doi.org/10.21105/joss.01518](https://doi.org/10.21105/joss.01518)
 
-- Xavier Olive and Luis Basora.  
+- Xavier Olive and Luis Basora.
+  [<span class="badge paper float-right">PDF</span>](https://drive.google.com/file/d/1vsUmxT7FYRmfxhef3CpekvBZ3bU2Ksr0/view?usp=sharing)  
   Identifying Anomalies in past en-route Trajectories with Clustering and Anomaly Detection Methods.
-  _Proceedings of the 13th USA/Europe Air Traffic Management Research and Development Seminar_, 2019  
-  [(download)](https://drive.google.com/file/d/1vsUmxT7FYRmfxhef3CpekvBZ3bU2Ksr0/view?usp=sharing)
+  _Proceedings of the 13th USA/Europe Air Traffic Management Research and Development Seminar_, 2019
 
 - Xavier Olive and Jérôme Morio.  
   Trajectory clustering of air traffic flows around airports.  
@@ -140,15 +140,16 @@ permalink: /publications/
 
 ## 2018
 
-- Xavier Olive, Jeremy Grignard, Thomas Dubot and Julie Saint-Lot.  
+- Xavier Olive, Jeremy Grignard, Thomas Dubot and Julie Saint-Lot.
+  [<span class="badge paper float-right">PDF</span>](https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_17.pdf)  
   Detecting Controllers' Actions in Past Mode S Data by Autoencoder-Based Anomaly Detection.  
-  _Proceedings of the 8th SESAR Innovation Days_, 2018  
-  [(download)](https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_17.pdf)
+  _Proceedings of the 8th SESAR Innovation Days_, 2018
 
-- Xavier Olive and Pierre Bieber.  
-  Quantitative Assessments of Runway Excursion Precursors using Mode S Data.
+- Xavier Olive and Pierre Bieber.
+  [<span class="badge paper float-right">PDF</span>](https://drive.google.com/file/d/1UyVM26OGG-H0gjCIT1b5PbrVOHbqiDGl/view?usp=sharing)<span class="badge graduated float-right"><i class="fas fa-solid fa-trophy"></i></span>  
+  Quantitative Assessments of Runway Excursion Precursors using Mode S Data.  
   _Proceedings of the 8th International Conference on Research in Air Transportation_, 2018  
-  (Best paper award) [(download)](https://drive.google.com/file/d/1UyVM26OGG-H0gjCIT1b5PbrVOHbqiDGl/view?usp=sharing)
+  (Best paper award)
 
 ## 2016
 
