@@ -8,17 +8,22 @@ permalink: /news/
 
 ## 2022
 
+**September 19, 2022** -- I will run a [tutorial](https://2022.dasconline.org/tutorials/) at [DASC 2022 conference](https://2022.dasconline.org/)
+on data analysis with [OpenSky](https://opensky-network.org/) and the [traffic](https://github.com/xoolive/traffic) library. I will also present our paper _OpenSky Report 2022: Evaluating Aviation Emissions Using Crowdsourced Open Flight Data_
+
 **June 20, 2022** -- Florent Vergnes presented our paper _Environmental Impact Optimisation of Flight Plans in a Fixed and Free Route network_ during [ICRAT conference](https://www.icrat.org/).
 
 **June 20, 2022** -- I ran a tutorial on data analysis with the [traffic](https://github.com/xoolive/traffic) library during [ICRAT conference](https://www.icrat.org/).
 
 **May 24/25, 2022** -- Technical Committee Member for the [1st International Conference for CBM in Aerospace](https://cbmacademy.eu/). Luis Basora presented our work _Health monitoring of aircraft systems: challenges and perspectives based on a real-life study case (SCU system)_
 
-**May 13, 2022** -- I served in the PhD committee for Antoine Chevrot, Université de Bourgogne Franche-Comté. _Detection of contextual anomalies in multivariate time-series using Neural Network models aiming the application in the Air Traffic Control Domain_
+**May 13, 2022** -- I served on the PhD committee for Antoine Chevrot, Université de Bourgogne Franche-Comté. _Detection of contextual anomalies in multivariate time-series using Neural Network models aiming the application in the Air Traffic Control Domain_
+
+**April 25/29, 2022** -- I was on a research visit at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/) in Winterthur, ZH, Switzerland.
 
 ## 2021
 
-**November 24, 2021** -- I served in the PhD committee for Samantha Corrado, Georgia Tech. _A Data-Driven Methodology to Analyze Air Traffic Management System Operations within the Terminal Airspace_
+**November 24, 2021** -- I served on the PhD committee for Samantha Corrado, Georgia Tech. _A Data-Driven Methodology to Analyze Air Traffic Management System Operations within the Terminal Airspace_
 
 **November 18/19, 2021** -- Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/). Timothé Krauth presented our work _Synthetic Aircraft Trajectory Generation with Statistical Copula-based Models_.
 
@@ -33,13 +38,13 @@ on data analysis with [OpenSky](https://opensky-network.org/) and the [traffic](
 
 **September 21, 2021** -- I will present our paper entitled _A Framework to Evaluate Aircraft Trajectory Generation Methods_ (with Junzi Sun, Mayara Condé Rocha Murça and Timothé Krauth) during [ATM Seminar](http://atmseminar.org/) (online)
 
-**September 3, 2021** -- I have been invited to participate to a panel discussion about impact, limitations and practices of Machine Learning techniques applied to aviation during [ENGAGE KTN](https://engagektn.com/thematic-challenges/) workshop (online) on AI, ML and Automation.
+**September 3, 2021** -- I have been invited to participate in a panel discussion about the impact, limitations and practices of Machine Learning techniques applied to aviation during [ENGAGE KTN](https://engagektn.com/thematic-challenges/) workshop (online) on AI, ML and Automation.
 
-**July 12, 2021** -- Sana Ikli defended her thesis around the Aircraft Landing Problem, entitled "Méthodes exactes et heuristiques pour l'ordonnancement des atterissages d'avions"
+**July 12, 2021** -- Sana Ikli defended her thesis around the Aircraft Landing Problem, entitled _Méthodes exactes et heuristiques pour l'ordonnancement des atterissages d'avions_
 
 **June 20, 2021** -- Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation) with Michael Schultz
 
-**June 7, 2021** -- I will give a talk about the [traffic](https://github.com/xoolive/traffic) Python library during next [MONDAIS](https://datascience.aero/mondais/) webinar.
+**June 7, 2021** -- I will give a talk about the [traffic](https://github.com/xoolive/traffic) Python library during the next [MONDAIS](https://datascience.aero/mondais/) webinar.
 
 **May 2021** -- Editor for [TU Delft OPEN Publishing](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing)
 
