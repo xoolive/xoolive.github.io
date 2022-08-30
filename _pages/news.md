@@ -8,6 +8,8 @@ permalink: /news/
 
 ## 2022
 
+**November 10/11, 2022** -- Program Committee Member for the [10th OpenSky Symposium](http://symposium.opensky-network.org/).
+
 **September 19, 2022** -- I will run a [tutorial](https://2022.dasconline.org/tutorials/) at [DASC 2022 conference](https://2022.dasconline.org/)
 on data analysis with [OpenSky](https://opensky-network.org/) and the [traffic](https://github.com/xoolive/traffic) library. I will also present our paper _OpenSky Report 2022: Evaluating Aviation Emissions Using Crowdsourced Open Flight Data_
 

@@ -12,7 +12,7 @@ I am a <span style="color: #9a3334; font-weight: 600">research scientist</span> 
 My research interests include Data Science, Machine Learning and Decision Science applied to aviation, with a particular focus on optimisation, anomaly and pattern detection.  
 Applications range from air traffic management, operations, predictive maintenance, safety analyses and risk assessment.
 
-[» Past news](news)
+[» Past news](/news)
 
 ## Selected recent publications
 
