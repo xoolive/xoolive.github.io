@@ -37,7 +37,7 @@ I enjoy working with [vim](https://www.vim.org/vim90.php) or [VS Code](https://c
 
 <i class="fas fa-globe fa-lg float-right" style="margin-top: 20px"></i>
 I am (now less of) a compulsive language learner  
-I should be able to get into trouble in 🇪🇸 🇮🇹 🇳🇱 🇵🇹 🇹🇼 🇭🇰  
+I should be able to get into trouble in 🇪🇸 🇮🇹 🇳🇱 🇵🇹 🇸🇪 🇹🇼 🇭🇰  
 I can get myself out of trouble in 🇫🇷 🇬🇧 🇩🇪 🇯🇵
 
 <i class="far fa-map fa-lg float-right" style="margin-top: 5px"></i>

@@ -38,8 +38,10 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 
 ## Editorial board member
 
+<span class="float-left year">2022</span>Co-editor in chief for the [Journal of Open Aviation Science](https://journals.open.tudelft.nl/joas/)<br/>
 <span class="float-left year">2022</span>Program Committee Member for the [10th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
 <span class="float-left year">2022</span>Technical Committee Member for the [1st International Conference for CBM in Aerospace](https://cbmacademy.eu/)<br/>
+<span class="float-left year">2021</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation II_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation_II)<br/>
 <span class="float-left year">2021</span>Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/2021/): [proceedings](https://www.mdpi.com/2673-4591/13/1), [videos](https://www.youtube.com/playlist?list=PLNft4qtPGeqPKT8i9KJws9LXYS-u1c1Ly)<br/>
 <span class="float-left year">2021</span> Editor for [TU Delft OPEN Publishing](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing)<br/>
 <span class="float-left year">2021</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation)<br/>
@@ -66,17 +68,14 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 
 <span class="float-left year">2024<br/>2021</span><span class="badge float-right">active</span> **Timothé Krauth** starts his research around trajectory generation and estimation of risk probability for aircraft collision (collaboration with [ZHAW](https://www.zhaw.ch/de/hochschule/)).
 
-<span class="float-left year">2021<br/>2020</span><span class="badge discontinued float-right">discontinued</span> **Hatem El Kadi** developed RL-based techniques for aircraft deconfliction  
-(collaboration with [ENAC](https://www.enac.fr/en)).
-
 <span class="float-left year">2021<br/>2017</span><span class="badge graduated float-right">graduated</span> **Sana Ikli** defended her thesis around the Aircraft Landing Problem, entitled "Méthodes exactes et heuristiques pour l'ordonnancement des atterrissages d'avions"  
 (collaboration with [ENAC](https://www.enac.fr/en) and [ISAE-SUPAERO](https://www.isae-supaero.fr/en)).
 
 ## Student assignments
 
-<span class="float-left year">2022</span><span class="badge float-right">active</span> **Arthur Viens** starts working on Bayesian neural networks for anomaly detection and Remaining Useful Life (RUL) estimation.
+<span class="float-left year">2022</span><span class="badge graduated float-right">graduated</span> **Arthur Viens** starts working on Bayesian neural networks for anomaly detection and Remaining Useful Life (RUL) estimation.
 
-<span class="float-left year">2022</span><span class="badge float-right">active</span> **Michel Khalaf** starts working on real-time turbulence information extraction from ADS-B data.
+<span class="float-left year">2022</span><span class="badge graduated float-right">graduated</span> **Michel Khalaf** starts working on real-time turbulence information extraction from ADS-B data.
 
 <span class="float-left year">2021</span><span class="badge graduated float-right">graduated</span> **Adrian Lafage** graduated after a work on a trajectory generation framework.
 
