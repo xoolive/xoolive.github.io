@@ -10,6 +10,8 @@ permalink: /news/
 
 **November 10/11, 2022** -- Program Committee Member for the [10th OpenSky Symposium](http://symposium.opensky-network.org/).
 
+**November 8, 2022** -- I served on the PhD committee for Manuel Mateos Villar, Universitat Politècnica de Catalunya. _Machine Learning for Aircraft Trajectory Prediction: a Solution for Pre-tactical Air Traffic Flow Management_
+
 **September 19, 2022** -- I will run a [tutorial](https://2022.dasconline.org/tutorials/) at [DASC 2022 conference](https://2022.dasconline.org/)
 on data analysis with [OpenSky](https://opensky-network.org/) and the [traffic](https://github.com/xoolive/traffic) library. I will also present our paper _OpenSky Report 2022: Evaluating Aviation Emissions Using Crowdsourced Open Flight Data._
 
