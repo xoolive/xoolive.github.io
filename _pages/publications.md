@@ -6,19 +6,24 @@ permalink: /publications/
 
 ## 2022
 
-- Junzi Sun, Xavier Olive and Daniel Delahaye. Evaluating Aviation Emission Inefficiencies and Reduction Challenges with Electric Flights.  
+- Junzi Sun, Xavier Olive and Daniel Delahaye.  
+  Evaluating Aviation Emission Inefficiencies and Reduction Challenges with Electric Flights.  
   _Proceedings of the 12th SESAR Innovation Days_, 2022
 
-- Xavier Olive and Patrick Le Blaye. A data-based approach to air traffic safety in lower altitudes.  
+- Xavier Olive and Patrick Le Blaye.  
+  A data-based approach to air traffic safety in lower altitudes.  
   _Proceedings of the 10th OpenSky Symposium_, 2022
 
-- Martin Strohmeier, Xavier Olive and Junzi Sun. Evading the Public Eye: On Astroturfing in Open Aviation Data.  
+- Martin Strohmeier, Xavier Olive and Junzi Sun.  
+  Evading the Public Eye: On Astroturfing in Open Aviation Data.  
   _Proceedings of the 10th OpenSky Symposium_, 2022
 
-- Junzi Sun, Xavier Olive and Martin Strohmeier. Environmental Footprint of Private and Business Jets.  
+- Junzi Sun, Xavier Olive and Martin Strohmeier.  
+  Environmental Footprint of Private and Business Jets.  
   _Proceedings of the 10th OpenSky Symposium_, 2022
 
-- Benoit Figuet, Manuel Waltert, Michael Felux and Xavier Olive. GNSS Jamming and its Effect on Air Traffic in Eastern Europe.  
+- Benoit Figuet, Manuel Waltert, Michael Felux and Xavier Olive.  
+  GNSS Jamming and its Effect on Air Traffic in Eastern Europe.  
   _Proceedings of the 10th OpenSky Symposium_, 2022
 
 - Junzi Sun, Luis Basora, Xavier Olive, Martin Strohmeier, Matthias Schäfer, Ivan Martinovic and Vincent Lenders. OpenSky Report 2022: Evaluating Aviation Emissions Using Crowdsourced Open Flight Data.  
