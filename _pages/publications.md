@@ -6,17 +6,20 @@ permalink: /publications/
 
 ## 2022
 
-- Junzi Sun, Xavier Olive and Daniel Delahaye.  
+- Junzi Sun, Xavier Olive and Daniel Delahaye.
+  [<span class="badge paper float-right">PDF</span>](https://whova.com/xems/whova_backend/get_event_s3_file_api/?event_id=sesar_202212&file_url=https://d1keuthy5s86c8.cloudfront.net/static/ems/upload/files/1669996947_qhlsf_SIDs_2022_paper_106_final.pdf&eventkey=4c68ac23dcb73ce4b5be87ca1b5b0ccaed6016dfcefe0c4b6af300caca061224)  
   Evaluating Aviation Emission Inefficiencies and Reduction Challenges with Electric Flights.  
   _Proceedings of the 12th SESAR Innovation Days_, 2022
 
 - Xavier Olive and Patrick Le Blaye.  
   A data-based approach to air traffic safety in lower altitudes.  
-  _Proceedings of the 10th OpenSky Symposium_, 2022
+  _Proceedings of the 10th OpenSky Symposium_, 2022  
+  [https://doi.org/10.3390/engproc2022028001](https://doi.org/10.3390/engproc2022028001)
 
 - Martin Strohmeier, Xavier Olive and Junzi Sun.  
   Evading the Public Eye: On Astroturfing in Open Aviation Data.  
-  _Proceedings of the 10th OpenSky Symposium_, 2022
+  _Proceedings of the 10th OpenSky Symposium_, 2022  
+  [https://doi.org/10.3390/engproc2022028007](https://doi.org/10.3390/engproc2022028007)
 
 - Junzi Sun, Xavier Olive and Martin Strohmeier.  
   Environmental Footprint of Private and Business Jets.  
