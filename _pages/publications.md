@@ -4,7 +4,20 @@ title: Publications
 permalink: /publications/
 ---
 
+## 2023
+
+- Richard Alligier, David Gianazza, Nicolas Durand, Xavier Olive.  
+  Dual-Horizon Reciprocal Collision Avoidance for Aircraft
+  and Unmanned Aerial Systems  
+  _Journal of Intelligent & Robotic Systems_, 2023  
+  [https://doi.org/10.1007/s10846-022-01782-2](https://doi.org/10.1007/s10846-022-01782-2)
+
 ## 2022
+
+- Timothé Krauth, Adrien Lafage, Jérôme Morio, Xavier Olive and Manuel Waltert.  
+  Deep generative modelling of aircraft trajectories in terminal maneuvering areas.  
+  _Machine Learning with Applications_, 2023  
+  [https://doi.org/10.1016/j.mlwa.2022.100446](https://doi.org/10.1016/j.mlwa.2022.100446)
 
 - Junzi Sun, Xavier Olive and Daniel Delahaye.
   [<span class="badge paper float-right">PDF</span>](https://whova.com/xems/whova_backend/get_event_s3_file_api/?event_id=sesar_202212&file_url=https://d1keuthy5s86c8.cloudfront.net/static/ems/upload/files/1669996947_qhlsf_SIDs_2022_paper_106_final.pdf&eventkey=4c68ac23dcb73ce4b5be87ca1b5b0ccaed6016dfcefe0c4b6af300caca061224)  
@@ -21,13 +34,15 @@ permalink: /publications/
   _Proceedings of the 10th OpenSky Symposium_, 2022  
   [https://doi.org/10.3390/engproc2022028007](https://doi.org/10.3390/engproc2022028007)
 
-- Junzi Sun, Xavier Olive and Martin Strohmeier.  
-  Environmental Footprint of Private and Business Jets.  
-  _Proceedings of the 10th OpenSky Symposium_, 2022
-
 - Benoit Figuet, Manuel Waltert, Michael Felux and Xavier Olive.  
   GNSS Jamming and its Effect on Air Traffic in Eastern Europe.  
-  _Proceedings of the 10th OpenSky Symposium_, 2022
+  _Proceedings of the 10th OpenSky Symposium_, 2022  
+  [https://doi.org/10.3390/engproc2022028012](https://doi.org/10.3390/engproc2022028012)
+
+- Junzi Sun, Xavier Olive and Martin Strohmeier.  
+  Environmental Footprint of Private and Business Jets.  
+  _Proceedings of the 10th OpenSky Symposium_, 2022  
+  [https://doi.org/10.3390/engproc2022028013](https://doi.org/10.3390/engproc2022028013)
 
 - Junzi Sun, Luis Basora, Xavier Olive, Martin Strohmeier, Matthias Schäfer, Ivan Martinovic and Vincent Lenders. OpenSky Report 2022: Evaluating Aviation Emissions Using Crowdsourced Open Flight Data.  
   _Proceedings of the 41th Digital Avionics Systems Conference (DASC)_, 2022  
