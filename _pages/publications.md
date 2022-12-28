@@ -9,7 +9,7 @@ permalink: /publications/
 - Richard Alligier, David Gianazza, Nicolas Durand, Xavier Olive.  
   Dual-Horizon Reciprocal Collision Avoidance for Aircraft
   and Unmanned Aerial Systems  
-  _Journal of Intelligent & Robotic Systems_, 2023  
+  _Journal of Intelligent & Robotic Systems_, 107, 3, 2023  
   [https://doi.org/10.1007/s10846-022-01782-2](https://doi.org/10.1007/s10846-022-01782-2)
 
 ## 2022

@@ -21,6 +21,11 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2335-5774" href="https://orcid.org/0000-0002-2335-5774" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2335-5774</a></div>
 
+- Timothé Krauth, Adrien Lafage, Jérôme Morio, Xavier Olive and Manuel Waltert.  
+  Deep generative modelling of aircraft trajectories in terminal maneuvering areas.  
+  _Machine Learning with Applications_, 100446, 2023  
+  [https://doi.org/10.1016/j.mlwa.2022.100446](https://doi.org/10.1016/j.mlwa.2022.100446)
+
 - Michael Schultz, Judith Rosenow and Xavier Olive.  
   Data-driven airport management enabled by operational milestones derived from ADS-B messages.  
   _Journal of Air Transport Management_ 99, 2022, 102164;  
