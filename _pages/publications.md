@@ -16,7 +16,7 @@ permalink: /publications/
 
 - Timothé Krauth, Adrien Lafage, Jérôme Morio, Xavier Olive and Manuel Waltert.  
   Deep generative modelling of aircraft trajectories in terminal maneuvering areas.  
-  _Machine Learning with Applications_, 2022  
+  _Machine Learning with Applications_, 11, 2022  
   [https://doi.org/10.1016/j.mlwa.2022.100446](https://doi.org/10.1016/j.mlwa.2022.100446)
 
 - Junzi Sun, Xavier Olive and Daniel Delahaye.
