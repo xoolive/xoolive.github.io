@@ -1,0 +1,132 @@
+<div id="{{entry.key}}" class="entry_{{entry.type}}">
+  <div class="paper">
+    <div class="paper-title">
+      <span class="float-right">
+        {% if entry.annotation contains 'award' %}
+        <i
+          class="fas fa-trophy green"
+          data-placement="top"
+          data-toggle="tooltip"
+          title="Best paper"
+        ></i>
+        {% endif %}
+
+        {% if entry.url %}
+        <a href="{{ entry.url }}" target="_blank">
+          <i class="fas fa-file"></i>
+        </a>
+        {% endif %}
+        {% if entry.pdf %}
+        <a href="{{site.url}}/files/{{entry.pdf}}" target="_blank">
+          <i class="fas fa-file"></i>
+        </a>
+        {% endif %}
+
+        <a class="collapser no-print" role="button">
+          <i class="fas fa-quote-left"></i>
+        </a>
+      </span>
+      <div class="author">
+        {% for author in entry.author_array %}
+            {% assign author_is_self = false %}
+
+            {% if author.last == site.scholar.last_name %}
+                {% if site.scholar.first_name contains author.first %}
+                    {% assign author_is_self = true %}
+                {% endif %}
+            {% endif %}
+
+            {% assign coauthor_url = nil %}
+
+            {% for coauthor in site.scholar.coauthors %}
+                {% if coauthor.last contains author.last && coauthor.first contains author.first %}
+                    {% assign coauthor_url = coauthor.url %}
+                    {% break %}
+                {% endif %}
+            {% endfor %}
+
+            {% if forloop.length == 1 %}
+                {% if author_is_self %}
+                    <span class="author_self">{{author.first}} {{author.last}}</span>
+                {% else %}
+                    {{author.first}} {{author.last}}
+                {% endif %}
+            {% else %}
+                {% unless forloop.last %}
+                    {% if author_is_self %}
+                        <span class="author_self">{{author.first}} {{author.last}}</span>,
+                    {% else %}
+                        {% if coauthor_url %}
+                            <a href="{{coauthor_url}}" class="coauthor" target="_blank">{{author.first}} {{author.last}}</a>,
+                        {% else %}
+                            {{author.first}} {{author.last}},
+                        {% endif %}
+                    {% endif %}
+                {% else %}
+                    {% if author_is_self %}
+                        and <span class="author_self">{{author.first}} {{author.last}}</span>
+                    {% else %}
+                        {% if coauthor_url %}
+                            and <a href="{{coauthor_url}}" class="coauthor" target="_blank">{{author.first}} {{author.last}}</a>
+                        {% else %}
+                            and {{author.first}} {{author.last}}
+                        {% endif %}
+                    {% endif %}
+                {% endunless %}
+            {% endif %}
+        {% endfor %}
+
+        <div>{{entry.title}}</div>
+
+        {% if entry.type == "incollection" %}
+            <em>{{entry.booktitle}}</em>, {{entry.year}}
+        {% endif %}
+
+        {% if entry.type == "article" %}
+            <em>
+              {{entry.journal}} {%if entry.volume %}, {{entry.volume}}{% endif %}
+              {% if entry.number %}({{entry.number}}){% endif %}</em >,
+
+            {{entry.year}}
+
+        {% elsif entry.type == "inproceedings" %}
+            <em>{{entry.booktitle}}, {{entry.year}}</em>
+
+        {% elsif entry.type == "book" %}
+            <em>{{entry.edition}},</em> {{entry.year}}<br />
+
+            ISBN: {{entry.isbn}} {% endif %} {% if entry.doi %}
+            <div class="doi">
+              <a href="https://doi.org/{{entry.doi}}">
+                https://doi.org/{{entry.doi}}
+              </a>
+            </div>
+        {% endif %}
+
+        {% if entry.annotation contains 'award' %}
+            <div class="award">({{entry.annotation}})</div>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="collapse">
+      <div class="mt-2 p-2 bg-white">
+        <a
+          class="btn btn-sm btn-info float-right"
+          href="#"
+          onclick="CopyToClipboard('cite-text-{{entry.key}}');return false;">Copy</a>
+        <span id="cite-text-{{entry.key}}">{{ reference }}</span>
+      </div>
+
+      <div class="mt-2 p-2 bg-white">
+        <a
+          class="btn btn-sm btn-info float-right"
+          href="#"
+          onclick="CopyToClipboard('cite-bib-{{entry.key}}');return false;">Copy</a>
+        <span id="cite-bib-{{entry.key}}">
+          {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %}
+        </span>
+      </div>
+    </div>
+  </div>
+</div>

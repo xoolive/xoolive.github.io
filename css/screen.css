@@ -112,6 +112,45 @@ ul.posts span {
 }
 
 /*
+ * Publications
+ */
+
+.pubicons {
+  margin-bottom: 20px;
+}
+
+.publications {
+  clear: both;
+}
+
+ol {
+  list-style: disc;
+}
+ol li {
+  margin-bottom: 1em;
+}
+
+
+.author_self {
+  color: #9a3334;
+  font-weight: 600;
+}
+a.coauthor {
+  color: #212529;
+  text-decoration: underline #9a3334 1px;
+  text-underline-offset: 3px;
+  font-weight: 600;
+}
+
+.green {
+  color: #54a24b;
+}
+
+.text-red {
+  color: #9a3334;
+}
+
+/*
  * Site
  */
 
@@ -367,8 +406,6 @@ textarea {
  * Posts
  */
 
-#post {
-}
 
 /* standard */
 

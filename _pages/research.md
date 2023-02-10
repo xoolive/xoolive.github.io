@@ -14,32 +14,11 @@ Applications range from air traffic management, operations, predictive maintenan
 
 [» Past news](/news)
 
-## Selected recent publications
+## [Full list of publications](/publications)
 
-See the [full list](/publications/) of my publications.  
 See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAAAJ&hl=fr&sortby=pubdate), [ResearchGate](https://www.researchgate.net/profile/Xavier_Olive2), [HAL](https://cv.archives-ouvertes.fr/xavier-olive), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219756804) and [SciProfiles](https://sciprofiles.com/profile/681188).
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2335-5774" href="https://orcid.org/0000-0002-2335-5774" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2335-5774</a></div>
-
-- Timothé Krauth, Adrien Lafage, Jérôme Morio, Xavier Olive and Manuel Waltert.  
-  Deep generative modelling of aircraft trajectories in terminal maneuvering areas.  
-  _Machine Learning with Applications_, 100446, 2023  
-  [https://doi.org/10.1016/j.mlwa.2022.100446](https://doi.org/10.1016/j.mlwa.2022.100446)
-
-- Michael Schultz, Judith Rosenow and Xavier Olive.  
-  Data-driven airport management enabled by operational milestones derived from ADS-B messages.  
-  _Journal of Air Transport Management_ 99, 2022, 102164;  
-  [https://doi.org/10.1016/j.jairtraman.2021.102164](https://doi.org/10.1016/j.jairtraman.2021.102164)
-
-- Xavier Olive and Luis Basora.  
-  Detection and identification of significant events in historical aircraft trajectory data.  
-  _Transportation Research Part C: Emerging Technologies_ 119, 2020, 10237;  
-  [https://doi.org/10.1016/j.trc.2020.102737](https://doi.org/10.1016/j.trc.2020.102737)
-
-- Luis Basora, Xavier Olive and Thomas Dubot.  
-  Recent Advances in Anomaly Detection Methods Applied to Aviation.  
-  _Aerospace_, 6(11), 2019, 117;  
-  [https://doi.org/10.3390/aerospace6110117](https://doi.org/10.3390/aerospace6110117)
 
 ## Editorial board member
 
@@ -82,7 +61,7 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 
 <span class="float-left year">2022</span><span class="badge graduated float-right">graduated</span> **Michel Khalaf** starts working on real-time turbulence information extraction from ADS-B data.
 
-<span class="float-left year">2021</span><span class="badge graduated float-right">graduated</span> **Adrian Lafage** graduated after a work on a trajectory generation framework.
+<span class="float-left year">2021</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.mlwa.2022.100446) **Adrian Lafage** graduated after a work on a trajectory generation framework.
 
 <span class="float-left year">2021</span><span class="badge graduated float-right">graduated</span> **Raphaël Delair** graduated after a work on ADS-B based airport collaborative decision making, with a particular focus on ground operations.
 
