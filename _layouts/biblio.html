@@ -1,4 +1,4 @@
-<div id="{{entry.key}}" class="entry_{{entry.type}}">
+<div id="{{entry.key}}" class="entry_{{entry.type}} {{entry.annotation}}">
   <div class="paper">
     <div class="paper-title">
       <span class="float-right">
@@ -103,6 +103,9 @@
             </div>
         {% endif %}
 
+        {% if entry.annotation contains 'preprint' %}
+            <div class="award">(submitted, under review)</div>
+        {% endif %}
         {% if entry.annotation contains 'award' %}
             <div class="award">({{entry.annotation}})</div>
         {% endif %}

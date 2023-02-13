@@ -130,6 +130,14 @@ ol li {
   margin-bottom: 1em;
 }
 
+.pubicons .border {
+  display: block;
+}
+
+.preprint {
+  font-style: italic;
+  opacity: .4;
+}
 
 .author_self {
   color: #9a3334;
