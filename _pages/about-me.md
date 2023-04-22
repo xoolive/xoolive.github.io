@@ -6,7 +6,7 @@ permalink: /
 
 <p><img class="profile-picture" src="images/profile.jpg" /></p>
 
-I am a <span style="color: #9a3334; font-weight: 600">research scientist</span>, passionate about <span style="color: #9a3334; font-weight: 600">aviation, maps and data</span>.
+I am a <a href="/research"><span style="color: #9a3334; font-weight: 600">research scientist</span></a>, passionate about <span style="color: #9a3334; font-weight: 600">aviation, maps and data</span>.
 
 My research interests include Data Science, Machine Learning and Decision Science applied to aviation, with a particular focus on optimisation, anomaly and pattern detection. Applications range from air traffic management, operations, predictive maintenance, safety analyses and risk assessment.
 
@@ -19,9 +19,8 @@ Outside office hours, I love to learn new things, especially when it comes to:
 
 ## Highlights
 
-<span class="float-left year">2022</span> Program Committee Member for the [10th OpenSky Symposium](http://symposium.opensky-network.org/)  
-<span class="float-left year">2022</span>Technical Committee Member for the [1st International Conference for CBM in Aerospace](https://cbmacademy.eu/)<br/>
-<span class="float-left year">2021</span> I participated in the [#30DayMapChallenge](/30DayMapChallenge)  
+<span class="float-left year">2023</span>Program Committee Member for the [13th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)<br/>
+<span class="float-left year">2023</span> Program Committee Member for the [11th OpenSky Symposium](http://symposium.opensky-network.org/)  
 <span class="float-left year">2021</span> **Book!** 🇫🇷 [**Programmation Python avancée**](/python) with Dunod Editions
 
 [» Past news](news)
@@ -41,7 +40,7 @@ I should be able to get into trouble in 🇪🇸 🇮🇹 🇳🇱 🇵🇹 🇸
 I can get myself out of trouble in 🇫🇷 🇬🇧 🇩🇪 🇯🇵
 
 <i class="far fa-map fa-lg float-right" style="margin-top: 5px"></i>
-I have some obsessional disorder with [maps](/30DayMapChallenge).
+I have some kind obsessional disorder with, among other things, [maps](/30DayMapChallenge).
 
 <i class="fas fa-book fa-lg float-right" style="margin-top: 5px"></i>
 I collect [translations](/le-petit-prince) of _Le Petit Prince_.

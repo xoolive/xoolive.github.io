@@ -6,6 +6,20 @@ permalink: /news/
 
 # Past news
 
+(since 2020)
+
+## 2023
+
+**December 2023** -- Program Committee Member for the [13th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays).
+
+**October 30/31, 2023** -- Program Committee Member, Local Chair for the [11th OpenSky Symposium](http://symposium.opensky-network.org/) hosted in Toulouse.
+
+**June 5/9, 2023** -- We will present two papers at the [Air Traffic Management Research and Development Seminar](https://www.atmseminar.org/), in Savannah, GA
+
+**April 25/28, 2022** -- I was on a research visit at the [Department of Science and Technology of Linköping University](https://liu.se/en/employee/tatpo46) in Norrköping, Sweden.
+
+**February 20/24, 2022** -- I was on a research visit at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/) in Winterthur, ZH, Switzerland.
+
 ## 2022
 
 **November 10/11, 2022** -- Program Committee Member for the [10th OpenSky Symposium](http://symposium.opensky-network.org/).

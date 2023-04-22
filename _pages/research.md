@@ -22,6 +22,8 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 
 ## Editorial board member
 
+<span class="float-left year">2023</span>Program Committee Member for the [13th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)<br/>
+<span class="float-left year">2023</span>Program Committee Member, Local Chair for the [11th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
 <span class="float-left year">2022</span>Co-editor in chief for the [Journal of Open Aviation Science](https://journals.open.tudelft.nl/joas/)<br/>
 <span class="float-left year">2022</span>Program Committee Member for the [10th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
 <span class="float-left year">2022</span>Technical Committee Member for the [1st International Conference for CBM in Aerospace](https://cbmacademy.eu/)<br/>
