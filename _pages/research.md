@@ -12,9 +12,8 @@ I am a <span style="color: #9a3334; font-weight: 600">research scientist</span> 
 My research interests include Data Science, Machine Learning and Decision Science applied to aviation, with a particular focus on optimisation, anomaly and pattern detection.  
 Applications range from air traffic management, operations, predictive maintenance, safety analyses and risk assessment.
 
-[» Past news](/news)
-
-## [Full list of publications](/publications)
+[» Past news](/news)  
+[» Full list of publications](/publications)
 
 See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAAAJ&hl=fr&sortby=pubdate), [ResearchGate](https://www.researchgate.net/profile/Xavier_Olive2), [HAL](https://cv.archives-ouvertes.fr/xavier-olive), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219756804) and [SciProfiles](https://sciprofiles.com/profile/681188).
 
