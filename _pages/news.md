@@ -14,7 +14,9 @@ permalink: /news/
 
 **October 30/31, 2023** -- Program Committee Member, Local Chair for the [11th OpenSky Symposium](http://symposium.opensky-network.org/) hosted in Toulouse.
 
-**June 5/9, 2023** -- We will present two papers at the [Air Traffic Management Research and Development Seminar](https://www.atmseminar.org/), in Savannah, GA
+**June 30, 2023** -- I served on the PhD committee for Sharmistha Chakrabarti, University of Central Florida. _Optimal sequencing and scheduling algorithm for traffic flows based on extracted control actions near the airport_
+
+**June 5/9, 2023** -- We presented two papers at the [Air Traffic Management Research and Development Seminar](https://www.atmseminar.org/), in Savannah, GA
 
 **April 25/28, 2022** -- I was on a research visit at the [Department of Science and Technology of Linköping University](https://liu.se/en/employee/tatpo46) in Norrköping, Sweden.
 
