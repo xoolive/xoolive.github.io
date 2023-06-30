@@ -31,6 +31,9 @@ permalink: /news/
 **September 19, 2022** -- I will run a [tutorial](https://2022.dasconline.org/tutorials/) at [DASC 2022 conference](https://2022.dasconline.org/)
 on data analysis with [OpenSky](https://opensky-network.org/) and the [traffic](https://github.com/xoolive/traffic) library. I will also present our paper _OpenSky Report 2022: Evaluating Aviation Emissions Using Crowdsourced Open Flight Data._
 
+**September 12, 2022** -- We officially started the [Journal of Open Aviation
+Science](https://journals.open.tudelft.nl/joas)
+
 **June 20, 2022** -- Florent Vergnes presented our paper _Environmental Impact Optimisation of Flight Plans in a Fixed and Free Route network_ during [ICRAT conference](https://www.icrat.org/).
 
 **June 20, 2022** -- I ran a tutorial on data analysis with the [traffic](https://github.com/xoolive/traffic) library during [ICRAT conference](https://www.icrat.org/).
