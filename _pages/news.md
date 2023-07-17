@@ -14,6 +14,10 @@ permalink: /news/
 
 **October 30/31, 2023** -- Program Committee Member, Local Chair for the [11th OpenSky Symposium](http://symposium.opensky-network.org/) hosted in Toulouse.
 
+**October 1/5 2023** -- Junzi Sun will present our paper _OpenSky Report 2023: Low Altitude Traffic Awareness for Light Aircraft with FLARM_ at the [DASC 2023 conference](https://2023.dasconline.org/)
+
+**July 2023** -- Together with Junzi Sun, we have been awarded a one year [Open Science Fund 2023](https://www.nwo.nl/en/researchprogrammes/open-science-fund-2023-awarded-grants) grant for the development of [tangram](https://github.com/open-aviation/tangram).
+
 **June 30, 2023** -- I served on the PhD committee for Sharmistha Chakrabarti, University of Central Florida. _Optimal sequencing and scheduling algorithm for traffic flows based on extracted control actions near the airport_
 
 **June 5/9, 2023** -- We presented two papers at the [Air Traffic Management Research and Development Seminar](https://www.atmseminar.org/), in Savannah, GA
