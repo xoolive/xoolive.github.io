@@ -10,7 +10,7 @@ permalink: /teaching/
 I teach mostly programming, optimisation and machine learning techniques.  
 I regularly visit [ISAE SUPAERO](https://www.isae-supaero.fr/en/) (Toulouse campus) and [ENSTA Paris](http://ensta-paris.fr/) (Palaiseau campus).
 
-- **Python programming**: advanced and idiomatic programming practices. I teach a [7 full-day course](/pyweek), oriented on data analysis and Geographical Information Systems.
+- **Python programming**: advanced and idiomatic programming practices. I teach a [7 full-day course](/pyclass), oriented on data analysis and Geographical Information Systems.
 
 - **Algorithms and programming**, with a focus on data structures, algorithms and their implementations using the C language.
 
