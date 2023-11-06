@@ -59,6 +59,7 @@ I bought some of these books during trips around the world. Some were offered by
 - 2023: _Mały Książę_, Polish, `offered by Antoine`
 - 2023: _A kis herceg_, Hungarian, `offered by Junzi`
 - 2023: _D'r klein Prinz_, Alsacian, `offered by Timothé`
+- 2023: _·-·· · / ·--· · - ·· - / ·--· ·-· ·· -· -·-· ·_, Morse, `offered by Xevi for my habilitation`
 
 [^1]: Also offered by Damien and Marianne (2015)
 [^2]: Occitan dialect. The spelling follows the Mistralian norm.

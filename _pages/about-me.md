@@ -19,6 +19,8 @@ Outside office hours, I love to learn new things, especially when it comes to:
 
 ## Highlights
 
+<span class="float-left year">2024</span> Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
+<span class="float-left year">2023</span>Habilitation à diriger des recherches, Université de Toulouse 3 Paul Sabatier<br/>
 <span class="float-left year">2023</span>Program Committee Member for the [13th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)<br/>
 <span class="float-left year">2023</span> Program Committee Member for the [11th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
 <span class="float-left year">2023</span> [Open Science Fund 2023](https://www.nwo.nl/en/researchprogrammes/open-science-fund-2023-awarded-grants) grant for the development of [tangram](https://github.com/open-aviation/tangram)<br/>
