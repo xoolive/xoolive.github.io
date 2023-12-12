@@ -12,6 +12,8 @@ permalink: /news/
 
 **November 7/8, 2024** -- Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/).
 
+**September 11/13 2024** -- Technical Committee Member for the [2st International Conference for CBM in Aerospace](https://cbmacademy.eu/)
+
 ## 2023
 
 **December 2023** -- Program Committee Member for the [13th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays).
