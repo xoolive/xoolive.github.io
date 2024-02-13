@@ -24,6 +24,7 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 
 ## Editorial board member
 
+<span class="float-left year">2024</span>Program Committee Member for the [14th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)<br/>
 <span class="float-left year">2024</span>Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
 <span class="float-left year">2024</span>Technical Committee Member for the [2st International Conference for CBM in Aerospace](https://cbmacademy.eu/)<br/>
 <span class="float-left year">2023</span>Program Committee Member for the [13th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)<br/>
