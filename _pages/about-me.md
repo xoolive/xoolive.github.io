@@ -19,6 +19,7 @@ Outside office hours, I love to learn new things, especially when it comes to:
 
 ## Highlights
 
+<span class="float-left year">2024</span>Qualification aux fonctions de professeurs des universités (section 27)<br/>
 <span class="float-left year">2024</span>Program Committee Member for the [14th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)<br/>
 <span class="float-left year">2024</span> Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
 <span class="float-left year">2024</span>Technical Committee Member for the [2st International Conference for CBM in Aerospace](https://cbmacademy.eu/)<br/>
