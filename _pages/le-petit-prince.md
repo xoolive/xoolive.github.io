@@ -60,6 +60,7 @@ I bought some of these books during trips around the world. Some were offered by
 - 2023: _A kis herceg_, Hungarian, `offered by Junzi`
 - 2023: _D'r klein Prinz_, Alsacian, `offered by Timothé`
 - 2023: _·-·· · / ·--· · - ·· - / ·--· ·-· ·· -· -·-· ·_, Morse, `offered by Xevi for my habilitation`
+- 2024: _De Pety Präingjss_, [Bolze dialect](https://www.bbc.com/travel/article/20190422-the-swiss-language-that-few-know), `offered by Jan`
 
 [^1]: Also offered by Damien and Marianne (2015)
 [^2]: Occitan dialect. The spelling follows the Mistralian norm.
