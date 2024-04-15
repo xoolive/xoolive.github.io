@@ -55,7 +55,7 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 
 <span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Zakaria Ezzahed** starts his research around explainable artificial intelligence for anomaly detection (collaboration with [ENAC](https://www.enac.fr/en)).
 
-<span class="float-left year">2024<br/>2021</span><span class="badge paper float-right">planned</span> **Timothé Krauth** will defend his thesis about trajectory generation and estimation of risk probability for aircraft collision, entitled "Deep Generative Modelling for Mid-Air Collision
+<span class="float-left year">2024<br/>2021</span><span class="badge graduated float-right">graduated</span> **Timothé Krauth** defended his thesis about trajectory generation and estimation of risk probability for aircraft collision, entitled "Deep Generative Modelling for Mid-Air Collision
 Probability Estimation" (collaboration with Jérôme Morio, ONERA, and Michael Felux, Benoit Figuet and Manuel Waltert, [ZHAW](https://www.zhaw.ch/de/hochschule/)).
 
 <span class="float-left year">2021<br/>2017</span><span class="badge graduated float-right">graduated</span> **Sana Ikli** defended her thesis around the Aircraft Landing Problem, entitled "Méthodes exactes et heuristiques pour l'ordonnancement des atterrissages d'avions"  
