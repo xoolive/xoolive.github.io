@@ -14,7 +14,13 @@ permalink: /news/
 
 **November 7/8, 2024** -- Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/).
 
-**September 11/13 2024** -- Technical Committee Member for the [2st International Conference for CBM in Aerospace](https://cbmacademy.eu/)
+**September 11/13, 2024** -- Technical Committee Member for the [2st International Conference for CBM in Aerospace](https://cbmacademy.eu/)
+
+**July 1/4, 2024** -- We present two papers at the [ICRAT conference](https://www.icrat.org), and a series of tutorial about ADS-B, the traffic and the OpenAP library.
+
+**June 7, 2024** -- I will give two talks at the _Open-Source tools for Air Traffic Management Modelling and Research_ workshop hosted by the University of Westminster. I will talk about open science, open software and the traffic library.
+
+**April 8/12, 2022** -- I was on a research visit at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/) in Winterthur, ZH, Switzerland.
 
 **February 2024** -- I was entitled the French academic qualification for full professorship, in French, _Qualification aux fonctions de professeurs des universités_ (section 27)
 
