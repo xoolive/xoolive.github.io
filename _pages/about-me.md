@@ -19,12 +19,12 @@ Outside office hours, I love to learn new things, especially when it comes to:
 
 ## Highlights
 
-<span class="float-left year">2024</span>Qualification aux fonctions de professeurs des universités (section 27)<br/>
 <span class="float-left year">2024</span>Program Committee Member for the [14th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)<br/>
 <span class="float-left year">2024</span> Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
 <span class="float-left year">2024</span>Technical Committee Member for the [2st International Conference for CBM in Aerospace](https://cbmacademy.eu/)<br/>
-<span class="float-left year">2023</span>Habilitation à diriger des recherches, Université de Toulouse 3 Paul Sabatier<br/>
-<span class="float-left year">2023</span> [Open Science Fund 2023](https://www.nwo.nl/en/researchprogrammes/open-science-fund-2023-awarded-grants) grant for the development of [tangram](https://github.com/open-aviation/tangram)<br/>
+<span class="float-left year">2024</span><b>Directeur de recherche</b>, *full professor (rang A) equivalent* in PhD committees<br/>
+<span class="float-left year">2024</span><b>Qualification aux fonctions de professeur des universités</b> (section 27)<br/>
+<span class="float-left year">2023</span><b>Habilitation à diriger des recherches</b>, Université de Toulouse 3 Paul Sabatier<br/>
 
 [» Past news](news)
 

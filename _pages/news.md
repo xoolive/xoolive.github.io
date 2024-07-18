@@ -14,7 +14,12 @@ permalink: /news/
 
 **November 7/8, 2024** -- Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/).
 
+**September 29/October 3, 2024** -- I will give a tutorial and present a paper
+at the [43rd DASC conference](https://2023.dasconline.org/) 
+
 **September 11/13, 2024** -- Technical Committee Member for the [2st International Conference for CBM in Aerospace](https://cbmacademy.eu/)
+
+**September 2024** -- I was entitled the "Directeur de recherche" grade, which confers the equivalence to full professorship in PhD committees in France.
 
 **July 1/4, 2024** -- We present two papers at the [ICRAT conference](https://www.icrat.org), and a series of tutorial about ADS-B, the traffic and the OpenAP library.
 
