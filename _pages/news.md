@@ -10,12 +10,16 @@ permalink: /news/
 
 ## 2024
 
+**December 2, 2024** -- I will serve as opponent to the licentiate thesis of Lucie Smetanová at the [Department of Science and Technology of Linköping University](https://liu.se/en/employee/tatpo46) in Norrköping, Sweden.
+
+**September 9, 2024** -- I will serve in the jury for Jan Krummen's Master Thesis at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/). The thesis is entitled "Development of a 4D trajectory prediction model for aircraft departures and assessment of the impact of mass availability on its predictions".
+
 **November 12/15, 2024** -- Program Committee Member for the [14th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)
 
 **November 7/8, 2024** -- Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/).
 
 **September 29/October 3, 2024** -- I will give a tutorial and present a paper
-at the [43rd DASC conference](https://2023.dasconline.org/) 
+at the [43rd DASC conference](https://2023.dasconline.org/)
 
 **September 11/13, 2024** -- Technical Committee Member for the [2st International Conference for CBM in Aerospace](https://cbmacademy.eu/)
 
@@ -45,9 +49,9 @@ at the [43rd DASC conference](https://2023.dasconline.org/)
 
 **June 5/9, 2023** -- We presented two papers at the [Air Traffic Management Research and Development Seminar](https://www.atmseminar.org/), in Savannah, GA
 
-**April 25/28, 2022** -- I was on a research visit at the [Department of Science and Technology of Linköping University](https://liu.se/en/employee/tatpo46) in Norrköping, Sweden.
+**April 25/28, 2023** -- I was on a research visit at the [Department of Science and Technology of Linköping University](https://liu.se/en/employee/tatpo46) in Norrköping, Sweden.
 
-**February 20/24, 2022** -- I was on a research visit at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/) in Winterthur, ZH, Switzerland.
+**February 20/24, 2023** -- I was on a research visit at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/) in Winterthur, ZH, Switzerland.
 
 ## 2022
 
