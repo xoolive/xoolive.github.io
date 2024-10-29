@@ -8,20 +8,26 @@ permalink: /news/
 
 (since 2020)
 
+## 2025
+
+**October 2025** -- Program Committee Member for the [13th OpenSky Symposium](http://symposium.opensky-network.org/).
+
+**14/18 September 2025** -- Program Committee Member for the [44th DASC conference](http://2024.dasconline.org/).
+
 ## 2024
 
 **December 2, 2024** -- I will serve as opponent to the licentiate thesis of Lucie Smetanová at the [Department of Science and Technology of Linköping University](https://liu.se/en/employee/tatpo46) in Norrköping, Sweden.
 
-**September 9, 2024** -- I will serve in the jury for Jan Krummen's Master Thesis at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/). The thesis is entitled "Development of a 4D trajectory prediction model for aircraft departures and assessment of the impact of mass availability on its predictions".
-
 **November 12/15, 2024** -- Program Committee Member for the [14th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)
 
-**November 7/8, 2024** -- Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/).
+**November 7/8, 2024** -- Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/). I will present two papers about preprocessing methods in the [traffic](https://traffic-viz.github.io/) library.
 
-**September 29/October 3, 2024** -- I will give a tutorial and present a paper
+**September 29/October 3, 2024** -- I gave a tutorial and present a paper
 at the [43rd DASC conference](https://2023.dasconline.org/)
 
 **September 11/13, 2024** -- Technical Committee Member for the [2st International Conference for CBM in Aerospace](https://cbmacademy.eu/)
+
+**September 9, 2024** -- I served in the jury for Jan Krummen's Master Thesis at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/). The thesis is entitled "Development of a 4D trajectory prediction model for aircraft departures and assessment of the impact of mass availability on its predictions".
 
 **September 2024** -- I was entitled the "Directeur de recherche" grade, which confers the equivalence to full professorship in PhD committees in France.
 
