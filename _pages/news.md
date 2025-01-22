@@ -10,17 +10,21 @@ permalink: /news/
 
 ## 2025
 
-**October 2025** -- Program Committee Member for the [13th OpenSky Symposium](http://symposium.opensky-network.org/).
+**December 2025** -- Program Committee Member for the [15th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays).
+
+**6/7 November 2025** -- Program Committee Member for the [13th OpenSky Symposium](http://symposium.opensky-network.org/).
 
 **14/18 September 2025** -- Program Committee Member for the [44th DASC conference](http://2024.dasconline.org/).
 
+**8/10 April 2025** -- Track chair _"Air Traffic Management"_, for the [25th ICNS conference](https://i-cns.org/).
+
 ## 2024
 
-**December 2, 2024** -- I will serve as opponent to the licentiate thesis of Lucie Smetanová at the [Department of Science and Technology of Linköping University](https://liu.se/en/employee/tatpo46) in Norrköping, Sweden.
+**December 2, 2024** -- I served as opponent to the licentiate thesis of Lucie Smetanová at the [Department of Science and Technology of Linköping University](https://liu.se/en/employee/tatpo46) in Norrköping, Sweden.
 
 **November 12/15, 2024** -- Program Committee Member for the [14th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)
 
-**November 7/8, 2024** -- Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/). I will present two papers about preprocessing methods in the [traffic](https://traffic-viz.github.io/) library.
+**November 7/8, 2024** -- Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/). I presented two papers about preprocessing methods in the [traffic](https://traffic-viz.github.io/) library.
 
 **September 29/October 3, 2024** -- I gave a tutorial and present a paper
 at the [43rd DASC conference](https://2023.dasconline.org/)
