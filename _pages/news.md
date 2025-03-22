@@ -18,6 +18,10 @@ permalink: /news/
 
 **8/10 April 2025** -- Track chair _"Air Traffic Management"_, for the [25th ICNS conference](https://i-cns.org/).
 
+**3/4 April 2025** -- I am chairing the [2nd workshop on open science in
+aviation](https://mode-s.org/workshop), with a specific focus on the
+[tangram](https://github.com/open-aviation/tangram) platform.
+
 ## 2024
 
 **December 2, 2024** -- I served as opponent to the licentiate thesis of Lucie Smetanová at the [Department of Science and Technology of Linköping University](https://liu.se/en/employee/tatpo46) in Norrköping, Sweden.
