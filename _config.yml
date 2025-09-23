@@ -1,16 +1,16 @@
 title: Xavier Olive
 
-include: ['_pages']
+include: ["_pages"]
 
 markdown: kramdown
 
 highlighter: rouge
 
 kramdown:
-    input: GFM
+  input: GFM
 
 redcarpet:
-    extensions:
+  extensions:
     - "footnotes"
     - "tables"
     - "no_intra_emphasis"
@@ -18,43 +18,43 @@ redcarpet:
 
 plugins:
   - jekyll/scholar
+  - jekyll-simple-icons
 
 scholar:
+  last_name: Olive
+  first_name: Xavier
 
-    last_name: Olive
-    first_name: Xavier
+  style: apa
+  locale: en
+  source: /extra/
+  bibliography: biblio.bib
+  bibliography_template: biblio
 
-    style: apa
-    locale: en
-    source: /extra/
-    bibliography: biblio.bib
-    bibliography_template: biblio
+  replace_strings: true
+  join_strings: true
 
-    replace_strings: true
-    join_strings: true
+  sort_by: year,month
+  order: descending
 
-    sort_by: year,month
-    order: descending
-
-    coauthors:
-        - last: Figuet
-          first: Benoit
-          url: https://www.zhaw.ch/en/about-us/person/figu/
-        - last: Monstein
-          first: Raphael
-          url: https://www.zhaw.ch/en/about-us/person/mora/
-        - last: Morio
-          first: Jérôme
-          url: https://www.onera.fr/en/staff/jerome-morio
-        - last: Schultz
-          first: Michael
-          url: https://www.unibw.de/lvk-en/chair/team/michael-schultz
-        - last: Strohmeier
-          first: Martin
-          url: https://www.cs.ox.ac.uk/people/martin.strohmeier/
-        - last: Sun
-          first: Junzi
-          url: https://www.junzis.com
-        - last: Waltert
-          first: Manuel
-          url: https://www.zhaw.ch/en/about-us/person/wate/
+  coauthors:
+    - last: Figuet
+      first: Benoit
+      url: https://www.zhaw.ch/en/about-us/person/figu/
+    - last: Monstein
+      first: Raphael
+      url: https://www.zhaw.ch/en/about-us/person/mora/
+    - last: Morio
+      first: Jérôme
+      url: https://www.onera.fr/en/staff/jerome-morio
+    - last: Schultz
+      first: Michael
+      url: https://www.unibw.de/lvk-en/chair/team/michael-schultz
+    - last: Strohmeier
+      first: Martin
+      url: https://www.cs.ox.ac.uk/people/martin.strohmeier/
+    - last: Sun
+      first: Junzi
+      url: https://www.junzis.com
+    - last: Waltert
+      first: Manuel
+      url: https://www.zhaw.ch/en/about-us/person/wate/

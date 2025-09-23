@@ -622,3 +622,10 @@ code {
     width: 95%;
   }
 }
+
+span.icon img {
+  vertical-align: middle;
+  margin-bottom: .5ex;
+  margin-left: .2em;
+  margin-right: .2em;
+}
