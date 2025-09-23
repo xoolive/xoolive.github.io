@@ -19,8 +19,8 @@ Outside office hours, I love to learn new things, especially when it comes to:
 
 ## Highlights
 
-<span class="float-left year">2025</span>Program Committee Member for the [15th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays), [13th OpenSky Symposium](https://symposium.opensky-network.org/), [44th DASC conference](https://2025.dasconline.org/)<br/>
-<span class="float-left year">2025</span> Track chair _"Air Traffic Management"_, for the [25th ICNS conference](https://i-cns.org/).<br/>
+<span class="float-left year">2025</span>Program Committee Member for the [15th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays), [13th OpenSky Symposium](https://symposium.opensky-network.org/)<br/>
+<span class="float-left year">2025</span> Track chair _"Air Traffic Management"_, for the [25th ICNS conference](https://i-cns.org/) and [44th DASC conference](https://2025.dasconline.org/).<br/>
 <span class="float-left year">2025</span> I am chairing the [2nd workshop on
 open science in aviation](https://mode-s.org/workshop), with a specific focus
 on the [tangram](https://github.com/open-aviation/tangram) platform.<br/>
@@ -37,11 +37,11 @@ I appreciate a good cup of tea and/or coffee.
 My preference goes for [siphon coffee brewer](https://coffeeaffection.com/best-siphon-vacuum-coffee-makers/) and [AeroPress](https://coffeeaffection.com/who-invented-the-aeropress/).
 
 <i class="fas fa-code fa-lg float-right" style="margin-top: 5px"></i>
-I enjoy working with [vim](https://www.vim.org/vim90.php) or [VS Code](https://code.visualstudio.com/), [git](github.com/xoolive/), [Python](/python), [Observable](https://observablehq.com/@xoolive/), and [OCaml](https://ocaml.org/).
+I enjoy working with [vim](https://www.vim.org/vim90.php) or [VS Code](https://code.visualstudio.com/), [git](github.com/xoolive/), [Python](/python), [Rust](), [Observable](https://observablehq.com/@xoolive/), and [OCaml](https://ocaml.org/).
 
 <i class="fas fa-globe fa-lg float-right" style="margin-top: 20px"></i>
 I am (now less of) a compulsive language learner  
-I should be able to get into trouble in 🇪🇸 🇮🇹 🇳🇱 🇵🇹 🇸🇪 🇹🇼 🇭🇰  
+After a decent Duolingo streak, I should be able to get into trouble in 🇪🇸 🇮🇹 🇳🇱 🇵🇹 🇸🇪 🇳🇴 🇷🇺 🇹🇼 🇭🇰 🇰🇷 🇨🇿  
 I can get myself out of trouble in 🇫🇷 🇬🇧 🇩🇪 🇯🇵
 
 <i class="far fa-map fa-lg float-right" style="margin-top: 5px"></i>
