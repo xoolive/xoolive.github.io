@@ -24,6 +24,10 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 
 ## Editorial board member
 
+<span class="float-left year">2025</span>Program Committee Member for the [15th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)<br/>
+<span class="float-left year">2025</span>Program Committee Member for the [13th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
+<span class="float-left year">2025</span>Track chair _"Air Traffic Management"_ for the [44th DASC Conference](https://2025.dasconline.org/)<br/>
+<span class="float-left year">2025</span>Track chair _"Air Traffic Management"_ for the [25th ICNS Conference](https://i-cns.org/)<br/>
 <span class="float-left year">2024</span>Program Committee Member for the [14th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)<br/>
 <span class="float-left year">2024</span>Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
 <span class="float-left year">2024</span>Technical Committee Member for the [2st International Conference for CBM in Aerospace](https://cbmacademy.eu/)<br/>
@@ -63,9 +67,11 @@ Probability Estimation" (collaboration with Jérôme Morio, ONERA, and Michael F
 
 ## Student assignments
 
-<span class="float-left year">2022</span><span class="badge graduated float-right">graduated</span> **Arthur Viens** starts working on Bayesian neural networks for anomaly detection and Remaining Useful Life (RUL) estimation.
+<span class="float-left year">2025</span><span class="badge graduated float-right">graduated</span> **Arnault Motte** graduated after working on Conditional Variational Autoencoders for aircraft trajectory generation.
 
-<span class="float-left year">2022</span><span class="badge graduated float-right">graduated</span> **Michel Khalaf** starts working on real-time turbulence information extraction from ADS-B data.
+<span class="float-left year">2022</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.ress.2024.110513) **Arthur Viens** graduated after working on Bayesian neural networks for anomaly detection and Remaining Useful Life (RUL) estimation.
+
+<span class="float-left year">2022</span><span class="badge graduated float-right">graduated</span> **Michel Khalaf** graduated after working on real-time turbulence information extraction from ADS-B data.
 
 <span class="float-left year">2021</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.mlwa.2022.100446) **Adrian Lafage** graduated after a work on a trajectory generation framework.
 

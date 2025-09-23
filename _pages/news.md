@@ -14,13 +14,15 @@ permalink: /news/
 
 **6/7 November 2025** -- Program Committee Member for the [13th OpenSky Symposium](http://symposium.opensky-network.org/).
 
-**14/18 September 2025** -- Program Committee Member for the [44th DASC conference](http://2024.dasconline.org/).
+**14/18 September 2025** -- Track chair _"Air Traffic Management"_ for the [44th DASC conference](http://2025.dasconline.org/). I also ran a tutorial on large-scale air traffic data analysis with machine learning techniques.
 
 **8/10 April 2025** -- Track chair _"Air Traffic Management"_, for the [25th ICNS conference](https://i-cns.org/).
 
-**3/4 April 2025** -- I am chairing the [2nd workshop on open science in
+**3/4 April 2025** -- General chair for the [2nd workshop on open science in
 aviation](https://mode-s.org/workshop), with a specific focus on the
 [tangram](https://github.com/open-aviation/tangram) platform.
+
+**January 15, 2025** -- The second edition of my book [**Programmation Python avancée**](/python) with Dunod Editions is now available.
 
 ## 2024
 
