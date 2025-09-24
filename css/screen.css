@@ -306,6 +306,10 @@ i {
   background-color: #349a33;
 }
 
+.badge.thesis {
+  background-color: #3178c6;
+}
+
 .badge.paper {
   background-color: #9a3334;
 }
