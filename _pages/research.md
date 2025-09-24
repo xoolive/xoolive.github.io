@@ -55,25 +55,29 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 
 ## PhD students
 
-<span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Kim Gaume** starts working around data-driven methods and uncertainty for air traffic deconfliction methods (collaboration with [ENAC](https://www.enac.fr/en)).
+<span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Zakaria Ezzahed** will defend his thesis about explainability on autoencoders and variational autoencoders for trajectories, entitled "Explainability in Autoencoders for Time Series: From Latent Space Interpretation to Global Saliency Maps"
+(collaboration with Christophe Hurter, [ENAC](https://www.enac.fr/en))
 
-<span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Zakaria Ezzahed** starts his research around explainable artificial intelligence for anomaly detection (collaboration with [ENAC](https://www.enac.fr/en)).
+<span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Kim Gaume** will defend his thesis about data-driven methods and uncertainty quantification about conflict resolution, entitled "Extracting lateral deconfliction manoeuvres and uncertainty parameters from historical ADS-B air traffic data"
+(collaboration with David Gianazza and Richard Alligier, [ENAC](https://www.enac.fr/en))
 
 <span class="float-left year">2024<br/>2021</span>[<span class="badge thesis float-right">thesis</span>](https://theses.fr/2024ESAE0018)<span class="badge graduated float-right">graduated</span> **Timothé Krauth** defended his thesis about trajectory generation and estimation of risk probability for aircraft collision, entitled "Deep Generative Modelling for Mid-Air Collision
-Probability Estimation" (collaboration with Jérôme Morio, ONERA, and Michael Felux, Benoit Figuet and Manuel Waltert, [ZHAW](https://www.zhaw.ch/de/hochschule/)).
+Probability Estimation"
+(collaboration with Jérôme Morio, ONERA, and Michael Felux, Benoit Figuet and Manuel Waltert, [ZHAW](https://www.zhaw.ch/de/hochschule/))
 
-<span class="float-left year">2021<br/>2017</span>[<span class="badge thesis float-right">thesis</span>](https://theses.fr/2021ESAE0027)<span class="badge graduated float-right">graduated</span> **Sana Ikli** defended her thesis around the Aircraft Landing Problem, entitled "Méthodes exactes et heuristiques pour l'ordonnancement des atterrissages d'avions"  
-(collaboration with Marcel Mongeau, Catherine Mancel, [ENAC](https://www.enac.fr/en) and Emmanuel Rachelson [ISAE-SUPAERO](https://www.isae-supaero.fr/en)).
+<span class="float-left year">2021<br/>2017</span>[<span class="badge thesis float-right">thesis</span>](https://theses.fr/2021ESAE0027)<span class="badge graduated float-right">graduated</span> **Sana Ikli** defended her thesis around the Aircraft Landing Problem, entitled "Méthodes exactes et heuristiques pour l'ordonnancement des atterrissages d'avions"
+(collaboration with Marcel Mongeau, Catherine Mancel, [ENAC](https://www.enac.fr/en) and Emmanuel Rachelson [ISAE-SUPAERO](https://www.isae-supaero.fr/en))
 
 ## Student assignments
 
 <span class="float-left year">2025</span><span class="badge graduated float-right">graduated</span> **Arnault Motte** graduated after working on Conditional Variational Autoencoders for aircraft trajectory generation.
 
-<span class="float-left year">2022</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.ress.2024.110513) **Arthur Viens** graduated after working on Bayesian neural networks for anomaly detection and Remaining Useful Life (RUL) estimation.
+<span class="float-left year">2022</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.ress.2024.110513) **Arthur Viens**  
+_A benchmark on uncertainty quantification for deep learning prognostics_
 
 <span class="float-left year">2022</span><span class="badge graduated float-right">graduated</span> **Michel Khalaf** graduated after working on real-time turbulence information extraction from ADS-B data.
 
-<span class="float-left year">2021</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.mlwa.2022.100446) **Adrian Lafage** graduated after a work on a trajectory generation framework.
+<span class="float-left year">2021</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.mlwa.2022.100446) **Adrian Lafage** graduated after a work on temporal convolution network for trajectory generation.
 
 <span class="float-left year">2021</span><span class="badge graduated float-right">graduated</span> **Raphaël Delair** graduated after a work on ADS-B based airport collaborative decision making, with a particular focus on ground operations.
 
