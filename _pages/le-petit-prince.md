@@ -63,6 +63,7 @@ I bought some of these books during trips around the world. Some were offered by
 - 2024: _De Pety Präingjss_, [Bolze dialect](https://www.bbc.com/travel/article/20190422-the-swiss-language-that-few-know), `offered by Jan`
 - 2025: _Pangeran Cilik_, Indonesian (Javanese, basa ngoko), `offered by Fazlur`
 - 2025: _Pangeran Alit_, Indonesian (Javanese, basa krama), `offered by Fazlur`
+- 2025: _Den lille prins_, Danish, `offered by Niclas after Kim's defence`
 
 [^1]: Also offered by Damien and Marianne (2015)
 
