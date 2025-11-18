@@ -10,9 +10,9 @@ permalink: /news/
 
 ## 2025
 
-**December 2025** -- Program Committee Member for the [15th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays).
+**December 2025** -- Program Committee Member for the [15th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays). I presented two papers about conditional variational autoencoders for aircraft trajectory generation, and about the [tangram](https://mode-s.org/tangram) platform.
 
-**6/7 November 2025** -- Program Committee Member for the [13th OpenSky Symposium](http://symposium.opensky-network.org/).
+**6/7 November 2025** -- Program Committee Member for the [13th OpenSky Symposium](http://symposium.opensky-network.org/). We presented three papers together with Richard Alligier, Timothé Krauth and Gabriel Jarray (all speakers).
 
 **14/18 September 2025** -- Track chair _"Air Traffic Management"_ for the [44th DASC conference](http://2025.dasconline.org/). I also ran a tutorial on large-scale air traffic data analysis with machine learning techniques.
 

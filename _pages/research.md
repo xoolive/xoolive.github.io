@@ -49,16 +49,18 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 ## Most active collaborations
 
 - [**Luis Basora**](https://github.com/lbasora/) and [**Jérôme Morio**](https://www.onera.fr/en/staff/jerome-morio), ONERA, Université de Toulouse 🇫🇷
-- [**Benoit Figuet**](https://www.zhaw.ch/en/about-us/person/figu/) and [**Raphael Monstein**](https://www.zhaw.ch/en/about-us/person/mora/), ZHAW, Zurich, Switzerland 🇨🇭
+- [**Benoit Figuet**](https://www.zhaw.ch/en/about-us/person/figu/), [**Manuel Waltert**](https://www.zhaw.ch/en/about-us/person/wate) and [**Raphael Monstein**](https://www.zhaw.ch/en/about-us/person/mora/), ZHAW, Zurich, Switzerland 🇨🇭
 - [**Junzi Sun**](https://junzisun.com/), Technical University of Delft, The Netherlands 🇳🇱
 - [**Michael Schultz**](https://www.unibw.de/lvk/), Universität der Bundeswehr, München, Germany 🇩🇪
 
 ## PhD students
 
-<span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Zakaria Ezzahed** will defend his thesis about explainability on autoencoders and variational autoencoders for trajectories, entitled "Explainability in Autoencoders for Time Series: From Latent Space Interpretation to Global Saliency Maps"
+<span class="float-left year">2028<br/>2025</span><span class="badge float-right">active</span> **Alexandre Leys** will start his reasearch about optimisation of collaborative air operations management (collaboration with Bastien Berthelot, Thalès AVS, Pierrick Legrand and Éric Grivel, Université de Bordeaux)
+
+<span class="float-left year">2025<br/>2022</span>[<span class="badge thesis float-right">thesis</span>](https://theses.fr/s356498) **Zakaria Ezzahed** will defend his thesis about explainability on autoencoders and variational autoencoders for trajectories, entitled "Explainability in Autoencoders for Time Series: From Latent Space Interpretation to Global Saliency Maps"
 (collaboration with Christophe Hurter, [ENAC](https://www.enac.fr/en))
 
-<span class="float-left year">2025<br/>2022</span><span class="badge float-right">active</span> **Kim Gaume** will defend his thesis about data-driven methods and uncertainty quantification about conflict resolution, entitled "Extracting lateral deconfliction manoeuvres and uncertainty parameters from historical ADS-B air traffic data"
+<span class="float-left year">2025<br/>2022</span>[<span class="badge thesis float-right">thesis</span>](https://theses.fr/s349425)<span class="badge graduated float-right">graduated</span> **Kim Gaume** defended his thesis about data-driven methods and uncertainty quantification about conflict resolution, entitled "Extracting lateral deconfliction manoeuvres and uncertainty parameters from historical ADS-B air traffic data"
 (collaboration with David Gianazza and Richard Alligier, [ENAC](https://www.enac.fr/en))
 
 <span class="float-left year">2024<br/>2021</span>[<span class="badge thesis float-right">thesis</span>](https://theses.fr/2024ESAE0018)<span class="badge graduated float-right">graduated</span> **Timothé Krauth** defended his thesis about trajectory generation and estimation of risk probability for aircraft collision, entitled "Deep Generative Modelling for Mid-Air Collision
@@ -75,7 +77,7 @@ Probability Estimation"
 <span class="float-left year">2022</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.ress.2024.110513) **Arthur Viens**  
 _A benchmark on uncertainty quantification for deep learning prognostics_
 
-<span class="float-left year">2022</span><span class="badge graduated float-right">graduated</span> **Michel Khalaf** graduated after working on real-time turbulence information extraction from ADS-B data.
+<span class="float-left year">2022</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.21105/joss.08662) **Michel Khalaf** graduated after working on real-time turbulence information extraction from ADS-B data.
 
 <span class="float-left year">2021</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.mlwa.2022.100446) **Adrian Lafage** graduated after a work on temporal convolution network for trajectory generation.
 
