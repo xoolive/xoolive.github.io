@@ -57,7 +57,7 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 
 <span class="float-left year">2028<br/>2025</span><span class="badge float-right">active</span> **Alexandre Leys** will start his reasearch about optimisation of collaborative air operations management (collaboration with Bastien Berthelot, Thalès AVS, Pierrick Legrand and Éric Grivel, Université de Bordeaux)
 
-<span class="float-left year">2025<br/>2022</span>[<span class="badge thesis float-right">thesis</span>](https://theses.fr/s356498) **Zakaria Ezzahed** will defend his thesis about explainability on autoencoders and variational autoencoders for trajectories, entitled "Explainability in Autoencoders for Time Series: From Latent Space Interpretation to Global Saliency Maps"
+<span class="float-left year">2025<br/>2022</span>[<span class="badge thesis float-right">thesis</span>](https://theses.fr/s356498)<span class="badge graduated float-right">graduated</span> **Zakaria Ezzahed** will defend his thesis about explainability on autoencoders and variational autoencoders for trajectories, entitled "Explainability in Autoencoders for Time Series: From Latent Space Interpretation to Global Saliency Maps"
 (collaboration with Christophe Hurter, [ENAC](https://www.enac.fr/en))
 
 <span class="float-left year">2025<br/>2022</span>[<span class="badge thesis float-right">thesis</span>](https://theses.fr/s349425)<span class="badge graduated float-right">graduated</span> **Kim Gaume** defended his thesis about data-driven methods and uncertainty quantification about conflict resolution, entitled "Extracting lateral deconfliction manoeuvres and uncertainty parameters from historical ADS-B air traffic data"
@@ -72,24 +72,25 @@ Probability Estimation"
 
 ## Student assignments
 
-<span class="float-left year">2025</span><span class="badge graduated float-right">graduated</span> **Arnault Motte** graduated after working on Conditional Variational Autoencoders for aircraft trajectory generation.
+<span class="float-left year">2025</span>[<span class="badge paper float-right">paper</span>](https://www.sesarju.eu/sites/default/files/documents/sid/2025/pres/Conditional%20Variational%20Autoencoders.pdf)<span class="badge graduated float-right">graduated</span> **Arnault Motte**  
+_Conditional Variational Autoencoders for aircraft type-specific trajectory generation_
 
-<span class="float-left year">2022</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.ress.2024.110513) **Arthur Viens**  
+<span class="float-left year">2022</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.ress.2024.110513)<span class="badge graduated float-right">graduated</span> **Arthur Viens**  
 _A benchmark on uncertainty quantification for deep learning prognostics_
 
-<span class="float-left year">2022</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.21105/joss.08662) **Michel Khalaf** graduated after working on real-time turbulence information extraction from ADS-B data.
+<span class="float-left year">2022</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.21105/joss.08662)<span class="badge graduated float-right">graduated</span> **Michel Khalaf** graduated after working on real-time turbulence information extraction from ADS-B data.
 
-<span class="float-left year">2021</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.mlwa.2022.100446) **Adrian Lafage** graduated after a work on temporal convolution network for trajectory generation.
+<span class="float-left year">2021</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.mlwa.2022.100446)<span class="badge graduated float-right">graduated</span> **Adrian Lafage** graduated after a work on temporal convolution network for trajectory generation.
 
 <span class="float-left year">2021</span><span class="badge graduated float-right">graduated</span> **Raphaël Delair** graduated after a work on ADS-B based airport collaborative decision making, with a particular focus on ground operations.
 
-<span class="float-left year">2020</span> **Paloma Bry** [<span class="badge paper float-right">paper</span>](https://doi.org/10.3390/aerospace8040103)  
+<span class="float-left year">2020</span> **Paloma Bry** [<span class="badge paper float-right">paper</span>](https://doi.org/10.3390/aerospace8040103)<span class="badge graduated float-right">graduated</span>  
 _Aircraft Fleet Health Monitoring with Anomaly Detection Techniques_
 
-<span class="float-left year">2019</span> **Benoît Viry** [<span class="badge paper float-right">paper</span>](http://www.icrat.org/ICRAT/seminarContent/2020/papers/ICRAT2020_paper_2.pdf)  
+<span class="float-left year">2019</span> **Benoît Viry** [<span class="badge paper float-right">paper</span>](http://www.icrat.org/ICRAT/seminarContent/2020/papers/ICRAT2020_paper_2.pdf)<span class="badge graduated float-right">graduated</span>  
 _Deep Trajectory Clustering with Autoencoders_
 
-<span class="float-left year">2018</span> **Jeremy Grignard** [<span class="badge paper float-right">paper</span>](https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_17.pdf)  
+<span class="float-left year">2018</span> **Jeremy Grignard** [<span class="badge paper float-right">paper</span>](https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_17.pdf)<span class="badge graduated float-right">graduated</span>  
 _Detecting Controllers’ Actions in Past Mode S Data by Autoencoder-Based Anomaly Detection_
 
 ## Open access projects (open source, open data)
