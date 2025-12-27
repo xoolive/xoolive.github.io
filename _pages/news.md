@@ -10,17 +10,21 @@ permalink: /news/
 
 ## 2025
 
-**December 2025** -- Program Committee Member for the [15th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays). I presented two papers about conditional variational autoencoders for aircraft trajectory generation, and about the [tangram](https://mode-s.org/tangram) platform.
+**December 1/4 2025** -- Program Committee Member for the [15th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays). I presented two papers about conditional variational autoencoders for aircraft trajectory generation, and about the [tangram](https://mode-s.org/tangram) platform.
 
-**6/7 November 2025** -- Program Committee Member for the [13th OpenSky Symposium](http://symposium.opensky-network.org/). We presented three papers together with Richard Alligier, Timothé Krauth and Gabriel Jarray (all speakers).
+**November 6/7 2025** -- Program Committee Member for the [13th OpenSky Symposium](http://symposium.opensky-network.org/). We presented three papers together with Richard Alligier, Timothé Krauth and Gabriel Jarry (all speakers).
 
-**14/18 September 2025** -- Track chair _"Air Traffic Management"_ for the [44th DASC conference](http://2025.dasconline.org/). I also ran a tutorial on large-scale air traffic data analysis with machine learning techniques.
+**September 14/18 2025** -- Track chair _"Air Traffic Management"_ for the [44th DASC conference](http://2025.dasconline.org/). I also ran a tutorial on large-scale air traffic data analysis with machine learning techniques.
 
-**8/10 April 2025** -- Track chair _"Air Traffic Management"_, for the [25th ICNS conference](https://i-cns.org/).
+**June 23/27, 2025** -- We present two papers at the [ATRD symposium](https://www.atrdsymposium.org/).
 
-**3/4 April 2025** -- General chair for the [2nd workshop on open science in
+**April 8/10 2025** -- Track chair _"Air Traffic Management"_, for the [25th ICNS conference](https://i-cns.org/).
+
+**April 3/4 2025** -- General chair for the [2nd workshop on open science in
 aviation](https://mode-s.org/workshop), with a specific focus on the
 [tangram](https://github.com/open-aviation/tangram) platform.
+
+**February 17/21, 2025** -- I was on a research visit at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/) in Winterthur, ZH, Switzerland.
 
 **January 15, 2025** -- The second edition of my book [**Programmation Python avancée**](/python) with Dunod Editions is now available.
 
@@ -45,7 +49,7 @@ at the [43rd DASC conference](https://2023.dasconline.org/)
 
 **June 7, 2024** -- I will give two talks at the _Open-Source tools for Air Traffic Management Modelling and Research_ workshop hosted by the University of Westminster. I will talk about open science, open software and the traffic library.
 
-**April 8/12, 2022** -- I was on a research visit at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/) in Winterthur, ZH, Switzerland.
+**April 8/12, 2024** -- I was on a research visit at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/) in Winterthur, ZH, Switzerland.
 
 **February 2024** -- I was entitled the French academic qualification for full professorship, in French, _Qualification aux fonctions de professeurs des universités_ (section 27)
 

@@ -7,16 +7,12 @@ permalink: /research/
 
 # Research interests
 
+[<span style="text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 0.3em;">Full list of publications</span>](/publications) | [Past news](/news) | [Past students](#phd-students) | [Projects](#open-access-projects-open-source-open-data)
+
 I am a <span style="color: #9a3334; font-weight: 600">research scientist</span> with [ONERA](https://www.onera.fr/en) and [Université de Toulouse](https://www.univ-toulouse.fr/).
 
 My research interests include Data Science, Machine Learning and Decision Science applied to aviation, with a particular focus on optimisation, anomaly and pattern detection.  
 Applications range from air traffic management, operations, predictive maintenance, safety analyses and risk assessment.
-
-[» Past news](/news)
-
-<span class="badge paper"> <!-- float-right -->
-<a href="/publications" style="color: white; font-weight: bold; font-size: 115%;padding:3pt">Full list of publications</a>
-</span>
 
 See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAAAJ&hl=fr&sortby=pubdate), [ResearchGate](https://www.researchgate.net/profile/Xavier_Olive2), [HAL](https://cv.archives-ouvertes.fr/xavier-olive), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219756804) and [SciProfiles](https://sciprofiles.com/profile/681188).
 
@@ -44,6 +40,7 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 
 ## Book
 
+- [**A journey through aviation data**](https://aviationbook.netlify.app/), _still work in progress_
 - [**Programmation Python avancée**](/python) with Dunod Editions (in French)
 
 ## Most active collaborations

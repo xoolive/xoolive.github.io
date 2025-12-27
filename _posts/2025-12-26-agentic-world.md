@@ -2,7 +2,7 @@
 date: 2025-12-26
 layout: post
 lang: en
-tag: technical
+tag: technical rambling
 title: It's an agentic world
 ---
 

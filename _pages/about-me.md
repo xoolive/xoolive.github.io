@@ -17,6 +17,8 @@ Outside office hours, I love to learn new things, especially when it comes to:
 - trail running, meditation and yoga;
 - radio waves and broadcasting;
 
+[<span style="text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 0.3em;">Full list of publications</span>](/publications) | [Past news](/news)
+
 ## Highlights
 
 <span class="float-left year">2025</span>Program Committee Member <br/>for the [15th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays) and for the [13th OpenSky Symposium](https://symposium.opensky-network.org/)<br/>
@@ -27,8 +29,6 @@ on the [tangram](https://github.com/open-aviation/tangram) platform.<br/>
 <span class="float-left year">2024</span><b>Directeur de recherche</b>, _full professor (rang A) equivalent_ in PhD committees<br/>
 <span class="float-left year">2024</span><b>Qualification aux fonctions de professeur des universités</b> (section 27)<br/>
 <span class="float-left year">2023</span><b>Habilitation à diriger des recherches</b>, Université de Toulouse 3 Paul Sabatier<br/>
-
-[» Past news](news)
 
 ## Pathologies
 
@@ -44,7 +44,7 @@ with <span class="icon"><img height="14" width="14" src="/extra/python.svg" alt=
 <i class="fas fa-globe fa-lg float-right" style="margin-top: 20px"></i>
 I am (now less of) a compulsive language learner  
 With a decent Duolingo streak, I should be able to get into trouble in:  
-🇪🇸 🇮🇹 🇳🇱 🇵🇹 🇸🇪 🇳🇴 🇹🇼 🇭🇰 🇰🇷 🇨🇿 🇷🇺 🇱🇧 🇮🇱 (order not relevant)  
+🇪🇸 🇮🇹 🇳🇱 🇵🇹 🇸🇪 🇳🇴 🇹🇼 🇭🇰 🇰🇷 🇨🇿 🇷🇺 🇮🇪 (order not relevant)  
 After years of serious practice, I should get myself out of trouble in:  
 🇫🇷 🇬🇧 🇯🇵 🇩🇪
 
