@@ -98,6 +98,13 @@ _Detecting Controllers’ Actions in Past Mode S Data by Autoencoder-Based Anoma
   traffic like the [OpenSky Network](https://opensky-network.org/).
   It is designed to be easily extendable to other sources of data.
 
+- The [tangram](https://github.com/open-aviation/tangram) project is a modular
+   platform for real-time geospatial and air traffic management research. Built on
+   a plugin-first architecture with a high-performance backend (Python & Rust) and
+   modern web frontend (Vue & Deck.gl), it enables visualization and analysis of
+   moving entities with low latency. While focused on air traffic management, the
+   core framework is generic and adaptable to any domain.
+
 - The [open aviation data](https://atmdata.github.io/) initiative intends to
   reference any kind of (possibly open) data initiative related to aviation. It is
   supported by a group of academics, researchers and aviation people working to
