@@ -30,7 +30,9 @@ title: Publications
   </div>
 </div>
 
-{% capture years_list %}2026|2025|2024|2023|2022|2021|2020|2019|2018|2016|2014|2011|2010|2009|2006{% endcapture %}
+{% capture years_list %}
+2026|2025|2024|2023|2022|2021|2020|2019|2018|2016|2014|2011|2010|2009|2006
+{% endcapture %}
 {% assign years_array = years_list | split: "|" %}
 
 {% for year in years_array %}
