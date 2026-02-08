@@ -24,6 +24,9 @@ title: Publications
 <h2>Books</h2>
 {% bibliography --query @book %}
 
+<h2>2026</h2>
+{% bibliography --query !@book[year=2026] %}
+
 <h2>2025</h2>
 {% bibliography --query !@book[year=2025] %}
 
