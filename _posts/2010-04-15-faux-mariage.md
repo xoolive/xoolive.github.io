@@ -2,6 +2,7 @@
 date: 2010-04-15 09:40:37+00:00
 layout: post
 lang: fr
+tags: rambling japan
 title: Un faux mariage
 ---
 

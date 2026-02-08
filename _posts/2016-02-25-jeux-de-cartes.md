@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jeux de cartes
-tags: notebook
+tags: python maps
 lang: fr
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Importance sampling (avec les mains)
-tags: notebook
+tags: notebook technical statistics
 lang: fr
 ---
 

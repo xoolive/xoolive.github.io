@@ -1,9 +1,9 @@
 ---
 layout: post
 lang: en
-tags: til technical
+tags: til technical git
 logo: fab fa-git
-title: Create a git branch for every pull request your get on GitHub
+title: Create a git branch for every PR
 ---
 
 Edit your `.git/config` file as follows:

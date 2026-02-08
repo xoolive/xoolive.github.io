@@ -1,9 +1,8 @@
 ---
 layout: post
 lang: en
-tags: til technical
-logo: fab fa-python
-title: How to detect if sys.stdout is attached to a terminal or piped
+tags: til cli
+title: Detect if sys.stdout is attached to a terminal or piped
 ---
 
 ```bash

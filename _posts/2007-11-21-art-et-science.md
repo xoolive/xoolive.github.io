@@ -2,6 +2,7 @@
 date: 2007-11-21 15:42:55+00:00
 layout: post
 lang: fr
+tags: rambling
 title: Art et science
 ---
 

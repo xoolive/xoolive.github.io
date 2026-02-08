@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: Advanced Git usage patterns
-tags: technical wip
+tags: technical git
 permalink: /git-patterns
 ---
 

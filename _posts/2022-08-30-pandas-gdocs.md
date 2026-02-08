@@ -1,9 +1,9 @@
 ---
 layout: post
 lang: en
-tags: til technical
+tags: til python
 logo: fab fa-python
-title: How to read a Google Sheets document with pandas
+title: Read a Google Sheets document with pandas
 ---
 
 The most direct way would be to build the URL:

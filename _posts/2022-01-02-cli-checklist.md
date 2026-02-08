@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: A checklist for the command line interface
-tags: technical wip
+tags: technical wip cheatsheet
 permalink: /cli-checklist
 ---
 

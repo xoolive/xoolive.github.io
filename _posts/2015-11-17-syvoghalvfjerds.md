@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: fr
+tags: rambling language
 title: Syvoghalvfjerds, 7 + (-½ + 4) × 20 = 77
 ---
 

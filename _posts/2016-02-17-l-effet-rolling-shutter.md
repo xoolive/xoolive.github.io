@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-tags: notebook
+tags: python
 title: L'effet « rolling shutter »
 ---
 

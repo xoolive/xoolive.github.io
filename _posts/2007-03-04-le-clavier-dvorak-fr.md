@@ -2,6 +2,7 @@
 date: 2007-03-04 19:20:45+00:00
 layout: post
 lang: fr
+tags: technical rambling dvorak
 title: Le clavier dvorak-fr
 ---
 

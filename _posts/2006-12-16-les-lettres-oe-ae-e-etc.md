@@ -2,6 +2,7 @@
 date: 2006-12-16 11:04:14+00:00
 layout: post
 lang: fr
+tags: rambling typography
 title: Les lettres œ, æ, É, etc.
 ---
 

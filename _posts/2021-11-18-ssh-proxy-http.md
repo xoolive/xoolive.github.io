@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-tags: til technical
+tags: til technical ssh
 logo: fas fa-network-wired
 title: SSH through an http proxy
 ---

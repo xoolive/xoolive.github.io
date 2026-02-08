@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: technical
+tags: technical python windows
+logo: fab fa-python
 title: Building libpython34.a for Windows
 ---
 

@@ -2,6 +2,7 @@
 date: 2007-01-28 22:46:49+00:00
 layout: post
 lang: fr
+tags: rambling
 title: L’île au trésor
 ---
 

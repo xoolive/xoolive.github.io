@@ -2,6 +2,7 @@
 date: 2018-01-22
 layout: post
 title: Ma bibliothèque de Babel
+tag: rambling
 lang: fr
 ---
 

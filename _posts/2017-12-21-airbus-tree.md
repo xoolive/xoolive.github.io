@@ -2,7 +2,7 @@
 layout: post
 title: Introducing cartotools with Airbus Christmas tree
 lang: en
-tags: notebook
+tags: python maps adsb
 ---
 
 Before Christmas leave, just a small snippet of code for plotting the trajectory of Airbus flight `AIB232E`. The data has been made available by the [OpenSky Network](https://opensky-network.org). It is plotted using my new [`cartotools`](https://github.com/xoolive/cartotools) library (built on top of Cartopy).

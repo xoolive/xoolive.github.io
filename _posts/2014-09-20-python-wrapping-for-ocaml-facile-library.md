@@ -1,7 +1,8 @@
 ---
 date: 2014-09-20 13:28:38+00:00
 layout: post
-tags: technical
+tags: technical python ocaml
+logo: fab fa-python
 title: Python wrapping for OCaml Facile library
 ---
 

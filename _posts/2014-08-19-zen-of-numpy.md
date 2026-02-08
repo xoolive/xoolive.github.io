@@ -1,7 +1,8 @@
 ---
 date: 2014-08-19 13:24:21+00:00
 layout: post
-tags: technical
+tags: technical python
+logo: fab fa-python
 title: The zen of NumPy
 ---
 

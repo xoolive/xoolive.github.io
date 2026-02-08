@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: en
+tags: rambling
 title: How I want to travel
 ---
 

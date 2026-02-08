@@ -2,7 +2,7 @@
 date: 2025-12-26
 layout: post
 lang: en
-tag: technical rambling
+tags: technical rambling vibecoding
 title: It's an agentic world
 ---
 

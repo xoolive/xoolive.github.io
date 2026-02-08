@@ -2,7 +2,7 @@
 date: 2018-07-18
 layout: post
 lang: en
-tag: technical
+tags: technical rambling
 title: Good smell for code
 ---
 

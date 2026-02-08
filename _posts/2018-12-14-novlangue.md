@@ -1,6 +1,7 @@
 ---
 date: 2018-12-14
 layout: post
+tags: rambling language
 title: Florilège d'écueils de langage récurrents
 lang: fr
 ---

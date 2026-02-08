@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-tags: til technical
+tags: til technical mongo
 logo: fas fa-database
 title: MongoDB index
 ---

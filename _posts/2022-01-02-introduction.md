@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: Introduction to the command-line interface
-tags: technical
+tags: technical cheatsheet cli
 permalink: /cli-intro
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 lang: en
-tags: technical
+tags: technical python
+logo: fab fa-python
 title: Python private constructors
 ---
 

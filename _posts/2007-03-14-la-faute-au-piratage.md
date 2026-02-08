@@ -2,6 +2,7 @@
 date: 2007-03-14 20:58:49+00:00
 layout: post
 lang: fr
+tags: rambling
 title: La faute au piratage
 ---
 

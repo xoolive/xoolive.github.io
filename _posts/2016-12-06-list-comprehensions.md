@@ -1,7 +1,7 @@
 ---
 layout: post
 title: List comprehensions in Python
-tags: notebook
+tags: python
 lang: en
 ---
 

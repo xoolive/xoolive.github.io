@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transposée de matrice et défauts de cache
-tags: notebook
+tags: technical python
 lang: fr
 ---
 

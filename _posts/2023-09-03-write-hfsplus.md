@@ -1,9 +1,9 @@
 ---
 layout: post
 lang: en
-tags: til technical
+tags: til technical linux
 logo: fab fa-apple
-title: How to mount a HFS partition in Ubuntu as read/write?
+title: Mount a HFS partition as read/write?
 ---
 
 Install hfsprogs

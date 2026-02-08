@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Voronoi Tessellation
-tags: notebook
+tags: notebook python
 ---
 
 [Voronoi tessellation](https://en.wikipedia.org/wiki/Voronoi_diagram) is a process of partitioning the plane into polygons based on the distances between points of the plane and selected seed points. Voronoi diagrams are often plotted with random color, and some GPU techniques can make their plotting pretty fast.

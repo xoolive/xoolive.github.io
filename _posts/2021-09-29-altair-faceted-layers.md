@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-tags: til technical
+tags: til technical plot
 logo: fab fa-python
 title: Faceted layered charts in Altair
 ---

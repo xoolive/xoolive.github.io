@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: fr
+tags: rambling
 title: Rester fidèle au texte
 ---
 

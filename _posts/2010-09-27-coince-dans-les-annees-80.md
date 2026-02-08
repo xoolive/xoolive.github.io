@@ -2,6 +2,7 @@
 date: 2010-09-27 15:25:40+00:00
 layout: post
 lang: fr
+tags: rambling japan
 title: Coincé dans les années 80, ou juste différent ?
 ---
 

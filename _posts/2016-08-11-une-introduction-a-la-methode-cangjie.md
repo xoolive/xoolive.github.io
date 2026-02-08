@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: fr
+tags: language chinese
 title: 倉頡輸入法, une introduction à la méthode Cangjie
 ---
 

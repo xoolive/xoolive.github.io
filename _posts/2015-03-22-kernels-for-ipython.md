@@ -1,7 +1,8 @@
 ---
 date: 2015-03-22 22:24:13+00:00
 layout: post
-tags: technical
+tags: technical python
+logo: fab fa-python
 title: Kernels for iPython
 ---
 

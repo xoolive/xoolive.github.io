@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-tags: til technical
+tags: til technical python
 logo: fab fa-python
 title: Pretty-print all your outputs in Python REPL
 ---

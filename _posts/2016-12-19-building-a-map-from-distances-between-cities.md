@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building a map from distances between cities
-tags: notebook
+tags: python constraints maps
 lang: en
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: fr
+tags: rambling language
 title: Anonci sonòr en occitan dins lo mètro de Tolosa
 ---
 

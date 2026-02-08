@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: technical til
+tags: technical til ssh
 title: Tricks around SSH
 ---
 

@@ -2,7 +2,7 @@
 date: 2018-01-04
 layout: post
 title: Linux at the command line
-tag: technical
+tags: technical cheatsheet cli
 permalink: /linux-tools/
 ---
 

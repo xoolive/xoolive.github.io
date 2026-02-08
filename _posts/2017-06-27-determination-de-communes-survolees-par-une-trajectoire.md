@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Détermination de communes survolées par une trajectoire
-tags: notebook
+tags: maps python
 lang: fr
 ---
 

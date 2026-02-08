@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pavage par tatamis
-tags: notebook
+tags: python constraints
 lang: fr
 ---
 

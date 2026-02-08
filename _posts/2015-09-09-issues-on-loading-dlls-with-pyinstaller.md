@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: technical
+tags: technical python
+logo: fab fa-python
 title: Issues on loading DLLs with pyinstaller
 ---
 

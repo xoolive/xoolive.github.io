@@ -2,6 +2,7 @@
 date: 2018-12-18
 layout: post
 title: Exercices de tonicité linguale
+tags: language
 lang: fr
 ---
 

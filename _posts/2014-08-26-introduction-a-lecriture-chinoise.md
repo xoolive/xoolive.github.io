@@ -2,6 +2,7 @@
 date: 2014-08-26 20:14:17+00:00
 layout: post
 lang: fr
+tags: chinese language
 title: Introduction à l'écriture chinoise
 ---
 

@@ -5,22 +5,85 @@ permalink: /blog/
 ---
 
 <div id="home">
-  <div class="header">
-    <a href="/digest/">Digest</a> » <a href="/rambling/">Rambling</a> »
+  <div id="tag-filter" class="tag-filter">
+    <button class="tag-btn active" data-tag="all">All posts</button>
+    {% assign all_tags = "" | split: "" %}
+    {% for post in site.posts %}
+    {% for tag in post.tags %}
+    {% unless all_tags contains tag %}
+    {% assign all_tags = all_tags | push: tag %}
+    {% endunless %}
+    {% endfor %}
+    {% endfor %}
+    {% assign sorted_tags = all_tags | sort %}
+    {% for tag in sorted_tags %}
+    {% assign count = 0 %}
+    {% for post in site.posts %}
+    {% if post.tags contains tag %}
+    {% assign count = count | plus: 1 %}
+    {% endif %}
+    {% endfor %}
+    <button class="tag-btn" data-tag="{{ tag }}">{{ tag }} ({{ count
+      }})</button>
+    {% endfor %}
   </div>
-  <h1>Technical notes</h1>
-  <ul class="posts">
-    {% for post in site.posts %} {% if post.tags contains "technical" or
-    post.tags contains "notebook" %}
-    <li>
-      <span>{{ post.date | date_to_string }}</span>
-      {% if post.tags contains "notebook" %}
-      <i class="fab fa-python" style="color: #ffc864"></i>
+
+  <ul class="posts" id="post-list">
+    {% for post in site.posts %}
+    <li class="post-item"
+      data-tags="{% for tag in post.tags %}{{ tag }}|{% endfor %}">
+      <span class="post-date">{{ post.date | date_to_string }}</span>
+      {% if post.logo %}
+      <i class="{{ post.logo }}" style="color: #aabcbc"></i>
+      {% elsif post.tags contains "python" %}
+      <i class="fab fa-python" style="color: #aabcbc"></i>
+      {% elsif post.tags contains "notebook" %}
+      <i class="fab fa-python" style="color: #aabcbc"></i>
+      {% elsif post.tags contains "til" %}
+      <i class="fas fa-lightbulb" style="color: #aabcbc"></i>
+      {% elsif post.tags contains "digest" %}
+      <i class="far fa-comment" style="color: #aabcbc"></i>
       {% else %}
       <i class="fas fa-angle-double-right" style="color: #aabcbc"></i>
       {% endif %}
       <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="post-tags">
+        {% for tag in post.tags %}
+        <span class="tag-label">{{ tag }}</span>
+        {% endfor %}
+      </span>
     </li>
-    {% endif %} {% endfor %}
+    {% endfor %}
   </ul>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const tagButtons = document.querySelectorAll('.tag-btn');
+    const postItems = document.querySelectorAll('.post-item');
+
+    tagButtons.forEach(button => {
+      button.addEventListener('click', function () {
+        const selectedTag = this.getAttribute('data-tag');
+
+        // Update active button
+        tagButtons.forEach(btn => btn.classList.remove('active'));
+        this.classList.add('active');
+
+        // Filter posts
+        postItems.forEach(item => {
+          if (selectedTag === 'all') {
+            item.style.display = 'list-item';
+          } else {
+            const tags = item.getAttribute('data-tags').split('|').filter(t => t);
+            if (tags.includes(selectedTag)) {
+              item.style.display = 'list-item';
+            } else {
+              item.style.display = 'none';
+            }
+          }
+        });
+      });
+    });
+  });
+</script>

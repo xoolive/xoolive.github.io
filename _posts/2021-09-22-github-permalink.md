@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-tags: til technical
+tags: til technical git
 logo: fab fa-git
 title: Get a permalink to current GitHub repository state
 ---
