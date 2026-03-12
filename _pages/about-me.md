@@ -8,7 +8,7 @@ permalink: /
 
 I am a <a href="/research"><span style="color: #9a3334; font-weight: 600">research scientist</span></a>, passionate about <span style="color: #9a3334; font-weight: 600">aviation, maps and data</span>.
 
-My research interests include Data Science, Machine Learning and Decision Science applied to aviation, with a particular focus on optimisation, anomaly and pattern detection. Applications range from air traffic management, operations, predictive maintenance, safety analyses and risk assessment.
+My research focuses on data-driven methods and machine learning for aviation systems, spanning trajectory analysis, trajectory generation, anomaly detection, optimization, and predictive maintenance. I work across air traffic management, safety analysis, environmental sustainability, and cybersecurity of aviation surveillance systems, including detection of spoofing attacks and analysis of software-defined radio data.
 
 Outside office hours, I love to learn new things, especially when it comes to:
 
@@ -17,7 +17,16 @@ Outside office hours, I love to learn new things, especially when it comes to:
 - trail running, meditation and yoga;
 - radio waves and broadcasting;
 
-[<span style="text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 0.3em;">Full list of publications</span>](/publications) | [Past news](/news)
+
+<p class="screen-only" style="margin-bottom: 1.5em;">
+<a href="/publications" class="publications-button">
+  <i class="fas fa-book"></i> Full list of publications
+</a>
+<a href="/news" class="publications-button">
+  <i class="fas fa-newspaper"></i> Past news
+</a>
+</p>
+
 
 ## Highlights
 

@@ -1,17 +1,458 @@
+/* Print styles for professional CV output */
+
+@import url("https://fonts.googleapis.com/css2?family=Lato&subset=latin,latin-ext&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans&subset=latin,latin-ext&display=swap");
+
+@page {
+  margin: 2cm 1.5cm;
+  size: A4;
+}
+
+body {
+  font-size: 10.5pt;
+  line-height: 1.4;
+  color: #000;
+  background: white;
+  font-family: Lato, "Fira Sans", sans-serif;
+}
+
+/* Hide navigation and web-specific elements */
 .title,
-.footer {
-  display: none;
-}
-
-#related {
-  display: none;
-}
-
-.rss {
-  display: none;
-}
-
+.footer,
+#related,
+.rss,
 input,
-textarea {
+textarea,
+.social,
+.screen-only-nav,
+.screen-only {
+  display: none !important;
+}
+
+/* Show CV sections and print summary only in print */
+.cv-header-print,
+.cv-publications-print,
+.cv-teaching-print,
+.cv-education-print,
+.print-summary {
+  display: block !important;
+}
+
+.print-summary {
+  margin-bottom: 1em;
+  margin-top: 0.5em;
+}
+
+.cv-header-print {
+  margin-bottom: 1.5em;
+  padding-bottom: 0.8em;
+}
+
+.cv-publications-print {
+  page-break-after: always;
+}
+
+.cv-education-print,
+.cv-experience-print {
+  margin-bottom: 1.2em;
+  page-break-inside: avoid;
+}
+
+.cv-education-print h2,
+.cv-experience-print h2 {
+  font-size: 13pt;
+  font-weight: bold;
+  margin-bottom: 0.6em;
+  margin-top: 0.8em;
+  border-bottom: 1px solid #000;
+  padding-bottom: 0.2em;
+}
+
+.cv-education-print p,
+.cv-experience-print p {
+  margin-bottom: 0.7em;
+  position: relative;
+}
+
+.cv-year {
+  position: absolute;
+  left: -5em;
+  width: 4em;
+  text-align: right;
+  font-weight: bold;
+  color: #000;
+}
+
+/* Container adjustments */
+.site {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  width: 100%;
+  padding-left: 0.5em;
+}
+
+/* Headings */
+h1 {
+  font-size: 16pt;
+  font-weight: bold;
+  margin-bottom: 0.4em;
+  margin-top: 0.8em;
+  padding-bottom: 0.2em;
+}
+
+h2 {
+  font-size: 13pt;
+  font-weight: bold;
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+  page-break-after: avoid;
+  padding-bottom: 0.2em;
+}
+
+h2 + ul,
+h2 + ol,
+h2 + p {
+  page-break-before: avoid;
+}
+
+h3 {
+  font-size: 11pt;
+  font-weight: bold;
+  margin-top: 0.8em;
+  margin-bottom: 0.3em;
+}
+
+/* Links - clean black text for printing */
+a {
+  color: #000 !important;
+  text-decoration: none !important;
+}
+
+/* Don't show URLs for internal navigation */
+a[href^="#"]::after,
+a[href^="/"]::after {
+  content: "";
+}
+
+/* Year labels - traditional CV style */
+.year {
+  font-weight: bold;
+  margin-left: -3em;
+  float: left;
+  width: 4.5em;
+  text-align: right;
+  padding-right: 1em;
+  color: #000;
+  line-height: 1.2;
+}
+
+.float-left {
+  float: left;
+  margin-right: 1em;
+  font-weight: normal;
+  color: #000;
+}
+
+/* Disable float ONLY for years in print */
+.float-left.year {
+  font-weight: bold;
+  margin-left: -5em;
+  float: left;
+  width: 4.5em;
+  text-align: right;
+  padding-right: 0.5em;
+  color: #000;
+  line-height: 1.2;
+}
+
+/* Clean up year ranges - show line breaks in print */
+.float-left.year br {
+  display: block;
+}
+
+.float-left.year br::before {
+  content: "";
+}
+
+/* Float right elements */
+.float-right {
+  float: right;
+  margin-left: 1em;
+}
+
+/* Ensure proper spacing for CV entries */
+.content>p,
+.content>ul,
+.content>ol {
+  margin-bottom: 0.6em;
+  margin-left: 5em;
+  page-break-inside: avoid;
+}
+
+/* Don't indent the first paragraphs after header */
+.cv-header-print + p,
+.screen-only + p {
+  margin-left: 0;
+}
+
+/* List styling */
+ul,
+ol {
+  margin-left: 1.5em;
+  page-break-inside: avoid;
+}
+
+li {
+  margin-bottom: 0.4em;
+  page-break-inside: avoid;
+  line-height: 1.4;
+}
+
+/* Publications and bibliography */
+.bibliography,
+.publications {
+  font-size: 10pt;
+}
+
+.bibliography li,
+.publications li {
+  margin-bottom: 0.6em;
+}
+
+/* Author highlighting */
+.author_self {
+  font-weight: bold;
+  color: #000;
+}
+
+a.coauthor {
+  color: #000;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+/* Section spacing */
+.year-section,
+.book-section {
+  margin-bottom: 1em;
+  page-break-inside: avoid;
+}
+
+/* Collapsible sections - always show when printing */
+.year-header {
+  border: none;
+  padding: 0;
+  margin: 0;
+  font-size: 12pt;
+  font-weight: bold;
+}
+
+.chevron-icon {
   display: none;
+}
+
+/* Hide filter buttons and interactive elements */
+.tag-filter,
+.pubicons,
+.pubicon-btn,
+.tag-btn {
+  display: none !important;
+}
+
+/* Badges - convert to text or hide decorative ones */
+.badge {
+  display: none !important;
+}
+
+/* Icons - hide all */
+i.fab,
+i.fas,
+.icon img {
+  display: none !important;
+}
+
+/* Hide emojis and special characters in print */
+img.emoji {
+  display: none !important;
+}
+
+/* Code and technical elements */
+code {
+  font-family: "Courier New", monospace;
+  font-size: 9pt;
+  background: none;
+  border: none;
+  color: #000;
+}
+
+/* Profile picture - hide for CV */
+.profile-picture {
+  display: none;
+}
+
+/* Ensure no broken images */
+img {
+  max-width: 100%;
+  page-break-inside: avoid;
+}
+
+/* Page breaks */
+h1,
+h2,
+h3 {
+  page-break-after: avoid;
+}
+
+/* Remove colored highlights for print */
+.text-red,
+.green {
+  color: #000;
+}
+
+/* Blockquotes */
+blockquote {
+  margin-left: 2em;
+  font-style: italic;
+  page-break-inside: avoid;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  page-break-inside: avoid;
+  margin: 0.8em 0;
+  font-size: 10pt;
+}
+
+th,
+td {
+  border: 1px solid #000;
+  padding: 0.3em 0.5em;
+  text-align: left;
+}
+
+th {
+  font-weight: bold;
+  background: #f0f0f0;
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 1px solid #000;
+  margin: 1em 0;
+}
+
+/* Alerts - convert to simple text boxes */
+.alert {
+  border: 1px solid #000;
+  padding: 0.5em;
+  margin: 0.8em 0;
+  background: none;
+  page-break-inside: avoid;
+}
+
+/* Remove box shadows and decorations */
+* {
+  box-shadow: none !important;
+  text-shadow: none !important;
+}
+
+/* Ensure black text for printing */
+body,
+p,
+li,
+td,
+th,
+div {
+  color: #000 !important;
+}
+
+/* Reduce bold weight in print */
+b,
+strong {
+  font-weight: 500;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+}
+
+/* Override hardcoded font-weight in spans */
+span[style*="font-weight"],
+.student-highlight,
+.author_self {
+  font-weight: 500 !important;
+}
+
+/* Better page break handling */
+section,
+article {
+  page-break-inside: avoid;
+}
+
+/* Prevent page breaks within content sections */
+.content > section,
+.content > article,
+.content > div {
+  page-break-inside: avoid;
+}
+
+/* Force page break before collaborations section */
+h2:nth-of-type(6) {
+  page-break-before: always;
+}
+
+/* Force page break before editorial board section */
+h2:nth-of-type(7) {
+  page-break-before: always;
+}
+
+/* Keep sections together */
+.cv-header-print,
+.cv-publications-print,
+.cv-teaching-print,
+.cv-education-print,
+.cv-experience-print {
+  page-break-inside: avoid;
+}
+
+/* Prevent orphaned headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  page-break-after: avoid;
+  page-break-inside: avoid;
+}
+
+/* Prevent paragraph orphans and widows */
+p {
+  orphans: 3;
+  widows: 3;
+  page-break-inside: avoid;
+}
+
+/* Student assignment entry styling */
+.student-assignment-entry {
+  margin: 0.5em 0;
+  padding: 0.5em 0;
+}
+
+/* Student highlight - black and white in print */
+.student-highlight {
+  font-weight: bold;
+  color: #000;
 }
