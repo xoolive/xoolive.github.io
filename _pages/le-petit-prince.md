@@ -64,7 +64,8 @@ I bought some of these books during trips around the world. Some were offered by
 - 2025: _Pangeran Cilik_, Indonesian (basa ngoko), `offered by Fazlur`
 - 2025: _Pangeran Alit_, Indonesian (basa krama), `offered by Fazlur`
 - 2025: _Den lille prins_, Danish, `offered by Niclas after Kim's defence`
-- 2026: _ꦫꦢꦶꦤ꧀ꦏꦺꦤꦺꦃ_, _Radhin kènè'_, Indonesian (bhâsa madhurâ),`offered by Fazlur` 
+- 2026: _ꦫꦢꦶꦤ꧀ꦏꦺꦤꦺꦃ_, _Radhin kènè'_, Indonesian (bhâsa madhurâ), `offered by Fazlur`
+- 2026: _ᮕᮢᮘᮥ ᮃᮔᮧᮙ᮪_, _Prabu Anom_, Indonesian (basa Sunda), `offered by Fazlur`
 
 [^1]: Also offered by Damien and Marianne (2015)
 
