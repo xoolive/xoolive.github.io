@@ -94,6 +94,14 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 
 ## Research Projects
 
+<span class="float-left year">2029<br/>2026</span> **[PostQat](https://cordis.europa.eu/project/id/101286435)** (SESAR ER-03)  
+_Post-Quantum Secure Communication and Surveillance for Air Traffic Management_  
+Addressing cybersecurity vulnerabilities in air traffic management communication and surveillance systems that rely on unauthenticated or insecure technologies (ADS-B, CPDLC, ACARS, TCAS) and are threatened by the advent of quantum computing; defining requirements for post-quantum cryptography in aviation and a blueprint for a quantum-resistant public key infrastructure with crypto-agility, aligned with certification needs.
+
+<span class="float-left year">2028<br/>2026</span> **[FairSky](https://cordis.europa.eu/project/id/101287193)** (SESAR ER-03)  
+_Framework for Airspace Incentives and Routing toward Sustainable Sky_  
+Development of a decision-support framework to assess and compare regulatory instruments (route charge modulation, inclusion of non-CO₂ emissions in the emissions trading scheme) to reduce aviation's climate impact, integrating optimised trajectory generation, network incentive modelling, assessment of operational, economic and climate impacts, and trade-off visualisation.
+
 <span class="float-left year">2027<br/>2023</span> **[NEEDED](https://cordis.europa.eu/project/id/101095754)** (Horizon Europe)  
 _Next generation data-driven reference European models and methods towards silent and green aircraft operations around airports_  
 Development of advanced models and methods to estimate present and future aircraft emissions (pollutants and noise) using real-world ADS-B data, improved emission inventories, and dynamic population maps to optimize flight patterns for minimum environmental impact.
@@ -175,7 +183,7 @@ Detecting Controllers' Actions in Past Mode S Data by Autoencoder-Based Anomaly 
 <span class="float-left year">2022</span>Co-editor in chief for the [Journal of Open Aviation Science](https://journals.open.tudelft.nl/joas/)<br/>
 <span class="float-left year">2022</span>Program Committee Member for the [10th OpenSky Symposium](http://symposium.opensky-network.org/2022/)<br/>
 <span class="float-left year">2022</span>Technical Committee Member for the [1st International Conference for CBM in Aerospace](https://cbmacademy.eu/)<br/>
-<span class="float-left year">2021</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation II_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation_II)<br/>
+<span class="float-left year">2022</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation II_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation_II)<br/>
 <span class="float-left year">2021</span>Program Committee Member for the [9th OpenSky Symposium](http://symposium.opensky-network.org/2021/): [proceedings](https://www.mdpi.com/2673-4591/13/1), [videos](https://www.youtube.com/playlist?list=PLNft4qtPGeqPKT8i9KJws9LXYS-u1c1Ly)<br/>
 <span class="float-left year">2021</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation)<br/>
 <span class="float-left year">2020</span> Technical Program Chair for the [8th OpenSky Symposium](https://symposium.opensky-network.org/2020/): [proceedings](https://www.mdpi.com/2504-3900/59/1), [videos](https://www.youtube.com/playlist?list=PLNft4qtPGeqO79zjez0mEPYEHkoI7zQCo)

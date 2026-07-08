@@ -8,20 +8,34 @@ permalink: /news/
 
 (since 2020)
 
+## 2026
+
+**December 7/11, 2026** -- Program Committee Member for the [16th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays), in Cork, Ireland.
+
+**October 29/30, 2026** -- Program Committee Member for the [14th OpenSky Symposium](https://symposium.opensky-network.org/), in Madrid, Spain.
+
+**September 15/17, 2026** -- Track chair _"Air Traffic Management"_ for the [45th DASC conference](https://dasconline.org/2026), in Orlando, Florida.
+
+**June 18, 2026** -- I ran the tutorial _Beyond ADS-B: exploring multi-modal aviation data with [tangram](https://github.com/open-aviation/tangram)_ at the [ATRD symposium](https://www.atrdsymposium.org/), in Delft, the Netherlands, moving beyond ADS-B trajectories to ACARS/VDL2 datalink and ADS-C surveillance data.
+
+**February 5/6, 2026** -- I attended the [_Towards new Horizons of Scholarly Publishing_](https://www.horizondiamond.nl/) event on Diamond Open Access at [Radboud University](https://www.ru.nl/), Nijmegen, the Netherlands, where I shared our experience with the [Journal of Open Aviation Science](https://journals.open.tudelft.nl/joas/index) (JOAS).
+
+**January 21, 2026** -- Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation III_](https://www.mdpi.com/journal/aerospace/special_issues/NMI484T4J9) with Michael Schultz. Deadline for manuscript submissions: 31 October 2026.
+
 ## 2025
 
-**December 1/4 2025** -- Program Committee Member for the [15th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays). I presented two papers about conditional variational autoencoders for aircraft trajectory generation, and about the [tangram](https://mode-s.org/tangram) platform.
+**December 1/4 2025** -- Program Committee Member for the [15th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays), in Bled, Slovenia. I presented two papers about conditional variational autoencoders for aircraft trajectory generation, and about the [tangram](https://mode-s.org/tangram) platform.
 
-**November 6/7 2025** -- Program Committee Member for the [13th OpenSky Symposium](http://symposium.opensky-network.org/). We presented three papers together with Richard Alligier, Timothé Krauth and Gabriel Jarry (all speakers).
+**November 6/7 2025** -- Program Committee Member for the [13th OpenSky Symposium](http://symposium.opensky-network.org/), in Norrköping, Sweden. We presented three papers together with Richard Alligier, Timothé Krauth and Gabriel Jarry (all speakers).
 
-**September 14/18 2025** -- Track chair _"Air Traffic Management"_ for the [44th DASC conference](http://2025.dasconline.org/). I also ran a tutorial on large-scale air traffic data analysis with machine learning techniques.
+**September 14/18 2025** -- Track chair _"Air Traffic Management"_ for the [44th DASC conference](http://2025.dasconline.org/), in Montreal, Canada. I also ran a tutorial on large-scale air traffic data analysis with machine learning techniques.
 
-**June 23/27, 2025** -- We present two papers at the [ATRD symposium](https://www.atrdsymposium.org/).
+**June 23/27, 2025** -- We present two papers at the [ATRD symposium](https://www.atrdsymposium.org/), in Prague.
 
-**April 8/10 2025** -- Track chair _"Air Traffic Management"_, for the [25th ICNS conference](https://i-cns.org/).
+**April 8/10 2025** -- Track chair _"Air Traffic Management"_, for the [25th ICNS conference](https://i-cns.org/), in Brussels, Belgium.
 
 **April 3/4 2025** -- General chair for the [2nd workshop on open science in
-aviation](https://mode-s.org/workshop), with a specific focus on the
+aviation](https://mode-s.org/workshop), in Delft, the Netherlands, with a specific focus on the
 [tangram](https://github.com/open-aviation/tangram) platform.
 
 **February 17/21, 2025** -- I was on a research visit at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/) in Winterthur, ZH, Switzerland.
@@ -32,22 +46,22 @@ aviation](https://mode-s.org/workshop), with a specific focus on the
 
 **December 2, 2024** -- I served as opponent to the licentiate thesis of Lucie Smetanová at the [Department of Science and Technology of Linköping University](https://liu.se/en/employee/tatpo46) in Norrköping, Sweden.
 
-**November 12/15, 2024** -- Program Committee Member for the [14th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)
+**November 12/15, 2024** -- Program Committee Member for the [14th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays), in Rome, Italy
 
-**November 7/8, 2024** -- Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/). I presented two papers about preprocessing methods in the [traffic](https://traffic-viz.github.io/) library.
+**November 7/8, 2024** -- Program Committee Member for the [12th OpenSky Symposium](http://symposium.opensky-network.org/), in Hamburg, Germany. I presented two papers about preprocessing methods in the [traffic](https://traffic-viz.github.io/) library.
 
 **September 29/October 3, 2024** -- I gave a tutorial and present a paper
-at the [43rd DASC conference](https://2023.dasconline.org/)
+at the [43rd DASC conference](https://2024.dasconline.org/), in San Diego, California
 
-**September 11/13, 2024** -- Technical Committee Member for the [2st International Conference for CBM in Aerospace](https://cbmacademy.eu/)
+**September 11/13, 2024** -- Technical Committee Member for the [2st International Conference for CBM in Aerospace](https://cbmacademy.eu/), in Paris, France
 
 **September 9, 2024** -- I served in the jury for Jan Krummen's Master Thesis at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/). The thesis is entitled "Development of a 4D trajectory prediction model for aircraft departures and assessment of the impact of mass availability on its predictions".
 
 **September 2024** -- I was entitled the "Directeur de recherche" grade, which confers the equivalence to full professorship in PhD committees in France.
 
-**July 1/4, 2024** -- We present two papers at the [ICRAT conference](https://www.icrat.org), and a series of tutorial about ADS-B, the traffic and the OpenAP library.
+**July 1/4, 2024** -- We present two papers at the [ICRAT conference](https://www.icrat.org), in Tampa, Florida, and a series of tutorial about ADS-B, the traffic and the OpenAP library.
 
-**June 7, 2024** -- I will give two talks at the _Open-Source tools for Air Traffic Management Modelling and Research_ workshop hosted by the University of Westminster. I will talk about open science, open software and the traffic library.
+**June 7, 2024** -- I will give two talks at the _Open-Source tools for Air Traffic Management Modelling and Research_ workshop hosted by the University of Westminster, in London, United Kingdom. I will talk about open science, open software and the traffic library.
 
 **April 8/12, 2024** -- I was on a research visit at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/) in Winterthur, ZH, Switzerland.
 
@@ -55,13 +69,13 @@ at the [43rd DASC conference](https://2023.dasconline.org/)
 
 ## 2023
 
-**December 2023** -- Program Committee Member for the [13th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays).
+**December 2023** -- Program Committee Member for the [13th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays), in Seville, Spain.
 
 **October 31, 2023** -- I defended my Habilitation à diriger des recherches entitled _Information extraction from large-scale aviation data_.
 
 **October 30/31, 2023** -- Program Committee Member, Local Chair for the [11th OpenSky Symposium](http://symposium.opensky-network.org/) hosted in Toulouse.
 
-**October 1/5, 2023** -- Junzi Sun will present our paper _OpenSky Report 2023: Low Altitude Traffic Awareness for Light Aircraft with FLARM_ at the [DASC 2023 conference](https://2023.dasconline.org/)
+**October 1/5, 2023** -- Junzi Sun will present our paper _OpenSky Report 2023: Low Altitude Traffic Awareness for Light Aircraft with FLARM_ at the [DASC 2023 conference](https://2023.dasconline.org/), in Barcelona, Spain
 
 **July 2023** -- Together with Junzi Sun, we have been awarded a one year [Open Science Fund 2023](https://www.nwo.nl/en/researchprogrammes/open-science-fund-2023-awarded-grants) grant for the development of [tangram](https://github.com/open-aviation/tangram).
 
@@ -75,25 +89,27 @@ at the [43rd DASC conference](https://2023.dasconline.org/)
 
 ## 2022
 
-**November 10/11, 2022** -- Program Committee Member for the [10th OpenSky Symposium](http://symposium.opensky-network.org/).
+**November 10/11, 2022** -- Program Committee Member for the [10th OpenSky Symposium](http://symposium.opensky-network.org/), in Delft, the Netherlands.
 
 **November 8, 2022** -- I served on the PhD committee for Manuel Mateos Villar, Universitat Politècnica de Catalunya. _Machine Learning for Aircraft Trajectory Prediction: a Solution for Pre-tactical Air Traffic Flow Management_
 
-**September 19, 2022** -- I will run a [tutorial](https://2022.dasconline.org/tutorials/) at [DASC 2022 conference](https://2022.dasconline.org/)
+**September 19, 2022** -- I will run a [tutorial](https://2022.dasconline.org/tutorials/) at [DASC 2022 conference](https://2022.dasconline.org/), in Portsmouth, Virginia,
 on data analysis with [OpenSky](https://opensky-network.org/) and the [traffic](https://github.com/xoolive/traffic) library. I will also present our paper _OpenSky Report 2022: Evaluating Aviation Emissions Using Crowdsourced Open Flight Data._
 
 **September 12, 2022** -- We officially started the [Journal of Open Aviation
 Science](https://journals.open.tudelft.nl/joas)
 
-**June 20, 2022** -- Florent Vergnes presented our paper _Environmental Impact Optimisation of Flight Plans in a Fixed and Free Route network_ during [ICRAT conference](https://www.icrat.org/).
+**June 20, 2022** -- Florent Vergnes presented our paper _Environmental Impact Optimisation of Flight Plans in a Fixed and Free Route network_ during [ICRAT conference](https://www.icrat.org/), in Tampa, Florida.
 
 **June 20, 2022** -- I ran a tutorial on data analysis with the [traffic](https://github.com/xoolive/traffic) library during [ICRAT conference](https://www.icrat.org/).
 
-**May 24/25, 2022** -- Technical Committee Member for the [1st International Conference for CBM in Aerospace](https://cbmacademy.eu/). Luis Basora presented our work _Health monitoring of aircraft systems: challenges and perspectives based on a real-life study case (SCU system)_
+**May 24/25, 2022** -- Technical Committee Member for the [1st International Conference for CBM in Aerospace](https://cbmacademy.eu/), in Delft, the Netherlands. Luis Basora presented our work _Health monitoring of aircraft systems: challenges and perspectives based on a real-life study case (SCU system)_
 
 **May 13, 2022** -- I served on the PhD committee for Antoine Chevrot, Université de Bourgogne Franche-Comté. _Detection of contextual anomalies in multivariate time-series using Neural Network models aiming the application in the Air Traffic Control Domain_
 
 **April 25/29, 2022** -- I was on a research visit at the [Center for Aviation at ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/zav/) in Winterthur, ZH, Switzerland.
+
+**February 15, 2022** -- Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation II_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation_II) with Michael Schultz.
 
 ## 2021
 

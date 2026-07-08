@@ -30,11 +30,8 @@ Outside office hours, I love to learn new things, especially when it comes to:
 
 ## Highlights
 
-<span class="float-left year">2025</span>Program Committee Member <br/>for the [15th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays) and for the [13th OpenSky Symposium](https://symposium.opensky-network.org/)<br/>
-<span class="float-left year">2025</span> Track chair _"Air Traffic Management"_, <br/>for the [25th ICNS conference](https://i-cns.org/) and [44th DASC conference](https://2025.dasconline.org/)<br/>
-<span class="float-left year">2025</span> I am chairing the [2nd workshop on
-open science in aviation](https://mode-s.org/workshop), with a specific focus
-on the [tangram](https://github.com/open-aviation/tangram) platform.<br/>
+<span class="float-left year">2026</span>Program Committee Member <br/>for the [16th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays) and for the [14th OpenSky Symposium](https://symposium.opensky-network.org/)<br/>
+<span class="float-left year">2026</span> Track chair _"Air Traffic Management"_, <br/>for the [45th DASC conference](https://dasconline.org/2026)<br/>
 <span class="float-left year">2024</span><b>Directeur de recherche</b>, _full professor (rang A) equivalent_ in PhD committees<br/>
 <span class="float-left year">2024</span><b>Qualification aux fonctions de professeur des universités</b> (section 27)<br/>
 <span class="float-left year">2023</span><b>Habilitation à diriger des recherches</b>, Université de Toulouse 3 Paul Sabatier<br/>
