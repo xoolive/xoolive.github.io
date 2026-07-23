@@ -120,9 +120,13 @@ Development of an Integrated Fleet Health Management solution for aircraft maint
 
 ## PhD Students
 
+<span class="float-left year">2029<br/>2026</span><span class="badge float-right">active</span> **Mathis Saunier** will start his research about robustness and explainability of machine learning models built on multivariate time series, applied to virtual sensors for helicopter condition-based maintenance (CIFRE with Ammar Mechouche, Airbus Helicopters, and Julien Demange-Chryst and Xavier Pucel, ONERA)
+
+<span class="float-left year">2029<br/>2026</span><span class="badge float-right">active</span> **Alexis Altolaguirre** will start his research about learning a model for aircraft conflict detection from historical trajectory data and controller experience (collaboration with David Gianazza and Richard Alligier, [ENAC](https://www.enac.fr/en))
+
 <span class="float-left year">2028<br/>2025</span><span class="badge float-right">active</span> **Alexandre Leys** will start his reasearch about optimisation of collaborative air operations management (collaboration with Bastien Berthelot, Thalès AVS, Pierrick Legrand and Éric Grivel, Université de Bordeaux)
 
-<span class="float-left year">2025<br/>2022</span>[<span class="badge thesis float-right">thesis</span>](https://theses.fr/s356498)<span class="badge graduated float-right">graduated</span> **Zakaria Ezzahed** will defend his thesis about explainability on autoencoders and variational autoencoders for trajectories, entitled "Explainability in Autoencoders for Time Series: From Latent Space Interpretation to Global Saliency Maps"
+<span class="float-left year">2025<br/>2022</span>[<span class="badge thesis float-right">thesis</span>](https://theses.fr/s356498)<span class="badge graduated float-right">graduated</span> **Zakaria Ezzahed** defended his thesis about explainability on autoencoders and variational autoencoders for trajectories, entitled "Explainability in Autoencoders for Time Series: From Latent Space Interpretation to Global Saliency Maps"
 (collaboration with Christophe Hurter, [ENAC](https://www.enac.fr/en))
 
 <span class="float-left year">2025<br/>2022</span>[<span class="badge thesis float-right">thesis</span>](https://theses.fr/2025ESAE0029)<span class="badge graduated float-right">graduated</span> **Kim Gaume** defended his thesis about data-driven methods and uncertainty quantification about conflict resolution, entitled "Extracting lateral deconfliction manoeuvres and uncertainty parameters from historical ADS-B air traffic data"
