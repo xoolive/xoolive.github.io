@@ -12,6 +12,8 @@ permalink: /news/
 
 **December 7/11, 2026** -- Program Committee Member for the [16th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays), in Cork, Ireland.
 
+**November 13, 2026** -- I will serve on the PhD committee for Esther Roosenbrand, [TU Delft](https://www.tudelft.nl/en/ae), Faculty of Aerospace Engineering. _Contrail Mitigation in Air Traffic Operations: Feasibility, Detection, and Optimization with Open Data_
+
 **October 29/30, 2026** -- Program Committee Member for the [14th OpenSky Symposium](https://symposium.opensky-network.org/), in Madrid, Spain.
 
 **September 15/17, 2026** -- Track chair _"Air Traffic Management"_ for the [45th DASC conference](https://dasconline.org/2026), in Orlando, Florida.

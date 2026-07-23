@@ -47,8 +47,6 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 </a>
 </p>
 
-
-
 <div class="cv-publications-print" markdown="1">
 
 ## Selected publications
@@ -64,7 +62,6 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
 - [**A journey through aviation data**](https://aviationbook.netlify.app/), _still work in progress_
 - [**Programmation Python avancée**](/python) with Dunod Editions (in French)
 
-
 ## Open Science Projects
 
 - The [traffic](https://traffic-viz.github.io/) library provides data
@@ -74,11 +71,11 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
   It is designed to be easily extendable to other sources of data.
 
 - The [tangram](https://github.com/open-aviation/tangram) project is a modular
-   platform for real-time geospatial and air traffic management research. Built on
-   a plugin-first architecture with a high-performance backend (Python & Rust) and
-   modern web frontend (Vue & Deck.gl), it enables visualization and analysis of
-   moving entities with low latency. While focused on air traffic management, the
-   core framework is generic and adaptable to any domain.
+  platform for real-time geospatial and air traffic management research. Built on
+  a plugin-first architecture with a high-performance backend (Python & Rust) and
+  modern web frontend (Vue & Deck.gl), it enables visualization and analysis of
+  moving entities with low latency. While focused on air traffic management, the
+  core framework is generic and adaptable to any domain.
 
 - The [open aviation data](https://atmdata.github.io/) initiative intends to
   reference any kind of (possibly open) data initiative related to aviation. It is
@@ -90,7 +87,6 @@ See also on [Google Scholar](https://scholar.google.fr/citations?user=mUHbacsAAA
   providing open access to real-world air traffic control data. The network collects
   and archives ADS-B data from thousands of sensors worldwide, supporting research
   in aviation safety, security, and efficiency.
-
 
 ## Research Projects
 
@@ -142,25 +138,30 @@ Probability Estimation"
 ## Student Assignments
 
 <span class="float-left year">2025</span>[<span class="badge paper float-right">paper</span>](https://www.sesarju.eu/sites/default/files/documents/sid/2025/pres/Conditional%20Variational%20Autoencoders.pdf)<span class="badge graduated float-right">graduated</span> <span class="student-highlight">Arnault Motte</span><br/>
-Conditional Variational Autoencoders for aircraft type-specific trajectory generation.<br/> *Proceedings of the 15th SESAR Innovation Days*. (2025)
+Conditional Variational Autoencoders for aircraft type-specific trajectory generation.<br/> _Proceedings of the 15th SESAR Innovation Days_. (2025)
 
-<span class="float-left year">2022</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.ress.2024.110513)<span class="badge graduated float-right">graduated</span> <span class="student-highlight">Arthur Viens</span><br/>
-A benchmark on uncertainty quantification for deep learning prognostics.<br/> *Reliability Engineering & System Safety*, 110513. (2024)
+<span class="float-left year">2022</span>[<span class="badge thesis float-right">PhD</span>](https://theses.fr/s407742) [<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.ress.2024.110513)<span class="badge graduated float-right">graduated</span> <span class="student-highlight">Arthur Viens</span><br/>
+A benchmark on uncertainty quantification for deep learning prognostics.<br/> _Reliability Engineering & System Safety_, 110513. (2024)<br/>
+Then, Arthur started a [PhD](https://theses.fr/s407742) at Université PSL in 2024 on optimization of convolutional neural network placement on resource-constrained hybrid architectures.
 
 <span class="float-left year">2022</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.21105/joss.08662)<span class="badge graduated float-right">graduated</span> **Michel Khalaf** graduated after working on real-time turbulence information extraction from ADS-B data.
 
-<span class="float-left year">2021</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.mlwa.2022.100446)<span class="badge graduated float-right">graduated</span> **Adrian Lafage** graduated after a work on temporal convolution network for trajectory generation.
+<span class="float-left year">2021</span>[<span class="badge thesis float-right">PhD</span>](https://theses.fr/s341446) [<span class="badge paper float-right">paper</span>](https://doi.org/10.1016/j.mlwa.2022.100446)<span class="badge graduated float-right">graduated</span> **Adrien Lafage** graduated after a work on temporal convolution network for trajectory generation.<br/>
+Adrien continued with a [PhD](https://theses.fr/s341446) at Institut Polytechnique de Paris since 2022 on deep learning for intermediate and long-term driving risk prediction.
 
-<span class="float-left year">2021</span><span class="badge graduated float-right">graduated</span> **Raphaël Delair** graduated after a work on ADS-B based airport collaborative decision making, with a particular focus on ground operations.
+<span class="float-left year">2021</span>[<span class="badge thesis float-right">PhD</span>](https://theses.fr/s371118)<span class="badge graduated float-right">graduated</span> **Raphaël Delair** graduated after a work on ADS-B based airport collaborative decision making, with a particular focus on ground operations.<br/>
+Raphaël started a [PhD](https://theses.fr/s371118) at Université de Toulouse in 2023 on machine learning for super-resolution of surface temperature in urban environments by multimodal data fusion.
 
-<span class="float-left year">2020</span>[<span class="badge paper float-right">paper</span>](https://doi.org/10.3390/aerospace8040103)<span class="badge graduated float-right">graduated</span> <span class="student-highlight">Paloma Bry</span><br/>
-Aircraft Fleet Health Monitoring with Anomaly Detection Techniques.<br/> *Aerospace*, 8(4), 103. (2021)
+<span class="float-left year">2020</span>[<span class="badge thesis float-right">PhD</span>](https://theses.fr/s413991) [<span class="badge paper float-right">paper</span>](https://doi.org/10.3390/aerospace8040103)<span class="badge graduated float-right">graduated</span> <span class="student-highlight">Paloma Bry</span><br/>
+Aircraft Fleet Health Monitoring with Anomaly Detection Techniques.<br/> _Aerospace_, 8(4), 103. (2021)<br/>
+Then, Paloma started a [PhD](https://theses.fr/s413991) at CNAM Paris in 2025 on tools for procedural authorship of video games.
 
 <span class="float-left year">2019</span>[<span class="badge paper float-right">paper</span>](http://www.icrat.org/ICRAT/seminarContent/2020/papers/ICRAT2020_paper_2.pdf)<span class="badge graduated float-right">graduated</span> <span class="student-highlight">Benoît Viry</span><br/>
-Deep Trajectory Clustering with Autoencoders.<br/> *Proceedings of the 9th International Conference on Research in Air Transportation*. (2020)
+Deep Trajectory Clustering with Autoencoders.<br/> _Proceedings of the 9th International Conference on Research in Air Transportation_. (2020)
 
-<span class="float-left year">2018</span>[<span class="badge paper float-right">paper</span>](https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_17.pdf)<span class="badge graduated float-right">graduated</span> <span class="student-highlight">Jeremy Grignard</span><br/>
-Detecting Controllers' Actions in Past Mode S Data by Autoencoder-Based Anomaly Detection.<br/> *Proceedings of the 8th SESAR Innovation Days*. (2018)
+<span class="float-left year">2018</span>[<span class="badge thesis float-right">PhD</span>](https://theses.fr/2022IPPAX045) [<span class="badge paper float-right">paper</span>](https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_17.pdf)<span class="badge graduated float-right">graduated</span> <span class="student-highlight">Jeremy Grignard</span><br/>
+Detecting Controllers' Actions in Past Mode S Data by Autoencoder-Based Anomaly Detection. _Proceedings of the 8th SESAR Innovation Days_. (2018)<br/>
+Then, Jeremy defended a [PhD](https://theses.fr/2022IPPAX045) at Institut Polytechnique de Paris in 2022 on computational methods for early drug discovery.
 
 <div class="cv-teaching-print" markdown="1">
 
@@ -169,7 +170,6 @@ Detecting Controllers' Actions in Past Mode S Data by Autoencoder-Based Anomaly 
 {% include teaching_content.md %}
 
 </div>
-
 
 ## Editorial Board Member
 
@@ -199,26 +199,24 @@ Detecting Controllers' Actions in Past Mode S Data by Autoencoder-Based Anomaly 
 - [**Junzi Sun**](https://junzisun.com/), Technical University of Delft, The Netherlands 🇳🇱
 - [**Michael Schultz**](https://www.unibw.de/lvk/), Universität der Bundeswehr, München, Germany 🇩🇪
 
-
 ## Positions
 
 <span class="float-left year">today <br/> 2012</span> **Senior Research scientist**  
 ONERA, The French Aerospace Lab, Toulouse, France
 
 <span class="float-left year">2012<br/>2011</span> **Research engineer**  
-AiRPX, Paris, France  
+AiRPX, Paris, France
 
 <span class="float-left year">2007<br/>2006</span> **Software developer**  
-Amadeus SAS, Sophia-Antipolis, France  
+Amadeus SAS, Sophia-Antipolis, France
 
 ## Education
 
 <span class="float-left year">2023<br/></span> **Habilitation à diriger des recherches**  
-Université de Toulouse 3 Paul Sabatier, Toulouse, France  
+Université de Toulouse 3 Paul Sabatier, Toulouse, France
 
 <span class="float-left year">2011<br/>2007</span> **PhD in Computer Science**  
-Kyoto University, Kyoto, Japan  
+Kyoto University, Kyoto, Japan
 
 <span class="float-left year">2006<br/>2003</span> **Master of Science & Engineering degree**  
-École nationale supérieure de l'aéronautique et de l'espace, Toulouse, France  
-
+École nationale supérieure de l'aéronautique et de l'espace, Toulouse, France
