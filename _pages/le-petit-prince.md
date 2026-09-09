@@ -60,12 +60,13 @@ I bought some of these books during trips around the world. Some were offered by
 - 2023: _A kis herceg_, Hungarian, `offered by Junzi`
 - 2023: _D'r klein Prinz_, Alsacian, `offered by Timothé`
 - 2023: _·-·· · / ·--· · - ·· - / ·--· ·-· ·· -· -·-· ·_, Morse, `offered by Xevi for my habilitation`
-- 2024: _De Pety Präingjss_, [Bolze dialect](https://www.bbc.com/travel/article/20190422-the-swiss-language-that-few-know), `offered by Jan`
+- 2024: _De Pety Präingjss_, Swiss German ([Bolze dialect](https://www.bbc.com/travel/article/20190422-the-swiss-language-that-few-know)), `offered by Jan`
 - 2025: _Pangeran Cilik_, Indonesian, `offered by Fazlur`
 - 2025: _Pangeran Alit_, Javanese (basa krama), `offered by Fazlur`
 - 2025: _Den lille prins_, Danish, `offered by Niclas after Kim's defence`
 - 2026: _ꦫꦢꦶꦤ꧀ꦏꦺꦤꦺꦃ_, _Radhin kènè'_, Madurese (bhâsa madhurâ), `offered by Fazlur`
 - 2026: _ᮕᮢᮘᮥ ᮃᮔᮧᮙ᮪_, _Prabu Anom_, Sundanese (basa Sunda), `offered by Fazlur`
+- 2026: _De chlii Prinz_, Swiss German (Zürich dialect), `offered by Manuel`
 
 [^1]: Also offered by Damien and Marianne (2015)
 
