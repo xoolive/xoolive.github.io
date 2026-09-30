@@ -175,6 +175,11 @@ Then, Jeremy defended a [PhD](https://theses.fr/2022IPPAX045) at Institut Polyte
 
 **Editor for [TU Delft OPEN Publishing](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing)** since 2021
 
+<span class="float-left year">2026</span>Program Committee Member for the [16th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)<br/>
+<span class="float-left year">2026</span>Program Committee Member for the [14th OpenSky Symposium](https://symposium.opensky-network.org/)<br/>
+<span class="float-left year">2026</span>Track chair _"Air Traffic Management"_ for the [45th DASC Conference](https://dasconline.org/2026)<br/>
+<span class="float-left year">2026</span>Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation III_](https://www.mdpi.com/journal/aerospace/special_issues/NMI484T4J9)<br/>
+<span class="float-left year">2025</span>General chair for the [2nd Workshop on Open Science in Aviation](https://mode-s.org/workshop)<br/>
 <span class="float-left year">2025</span>Program Committee Member for the [15th SESAR Innovation Days](https://sesarju.eu/sesarinnovationdays)<br/>
 <span class="float-left year">2025</span>Program Committee Member for the [13th OpenSky Symposium](http://symposium.opensky-network.org/)<br/>
 <span class="float-left year">2025</span>Track chair _"Air Traffic Management"_ for the [44th DASC Conference](https://2025.dasconline.org/)<br/>
@@ -192,11 +197,32 @@ Then, Jeremy defended a [PhD](https://theses.fr/2022IPPAX045) at Institut Polyte
 <span class="float-left year">2021</span> Guest Editor for MDPI Aerospace Special Issue [_Application of Data Science to Aviation_](https://www.mdpi.com/journal/aerospace/special_issues/Application_Data_Science_Aviation)<br/>
 <span class="float-left year">2020</span> Technical Program Chair for the [8th OpenSky Symposium](https://symposium.opensky-network.org/2020/): [proceedings](https://www.mdpi.com/2504-3900/59/1), [videos](https://www.youtube.com/playlist?list=PLNft4qtPGeqO79zjez0mEPYEHkoI7zQCo)
 
+## Thesis Committees
+
+<span class="float-left year">2026</span>Member of the PhD committee for **Esther Roosenbrand**<br/>
+TU Delft Faculty of Aerospace Engineering<br/>
+<span class="float-left year">2026</span>External examiner for the PhD thesis of **Anthony Chiaratti**<br/>
+Queensland University of Technology<br/>
+<span class="float-left year">2024</span>Opponent for the licentiate thesis of **Lucie Smetanová**<br/>
+Linköping University<br/>
+<span class="float-left year">2023</span>Member of the PhD committee for [**Sharmistha Chakrabarti**](https://stars.library.ucf.edu/etd2020/1851/)<br/>
+University of Central Florida<br/>
+<span class="float-left year">2022</span>Member of the PhD committee for [**Manuel Mateos Villar**](https://hdl.handle.net/2117/380808)<br/>
+Universitat Politècnica de Catalunya<br/>
+<span class="float-left year">2022</span>Member of the PhD committee for [**Antoine Chevrot**](https://theses.fr/2022UBFCD010)<br/>
+Université de Bourgogne Franche-Comté<br/>
+<span class="float-left year">2021</span>Member of the PhD committee for [**Samantha Corrado**](http://hdl.handle.net/1853/66182)<br/>
+Georgia Institute of Technology<br/>
+<span class="float-left year">2019</span>Member of the PhD committee for [**Junzi Sun**](https://doi.org/10.4233/uuid:af94d535-1853-4a6c-8b3f-77c98a52346a)<br/>
+TU Delft Faculty of Aerospace Engineering<br/>
+
 ## Most Active Collaborations
 
-- [**Luis Basora**](https://github.com/lbasora/) and [**Jérôme Morio**](https://www.onera.fr/en/staff/jerome-morio), ONERA, Université de Toulouse 🇫🇷
-- [**Benoit Figuet**](https://www.zhaw.ch/en/about-us/person/figu/), [**Manuel Waltert**](https://www.zhaw.ch/en/about-us/person/wate) and [**Raphael Monstein**](https://www.zhaw.ch/en/about-us/person/mora/), ZHAW, Zurich, Switzerland 🇨🇭
+- [**Julien Demange-Chryst**](https://orcid.org/0009-0002-6086-8437) and [**Jérôme Morio**](https://www.onera.fr/en/staff/jerome-morio), ONERA, Université de Toulouse 🇫🇷
+- [**Christophe Hurter**](https://recherche.enac.fr/~hurter/), [**Richard Alligier**](https://orcid.org/0000-0003-3279-8208), [**Nicolas Durand**](https://orcid.org/0000-0003-0417-9231) and [**David Gianazza**](https://orcid.org/0000-0002-9294-3422), ENAC, Université de Toulouse 🇫🇷
 - [**Junzi Sun**](https://junzisun.com/), Technical University of Delft, The Netherlands 🇳🇱
+- [**Michael Felux**](https://www.zhaw.ch/en/about-us/person/felu/), [**Benoit Figuet**](https://www.zhaw.ch/en/about-us/person/figu/) and [**Manuel Waltert**](https://www.zhaw.ch/en/about-us/person/wate), ZHAW, Zurich, Switzerland 🇨🇭
+- [**Ryota Mori**](https://orcid.org/0000-0002-2804-2048), Kobe University; [**Junichi Naganawa**](https://orcid.org/0000-0002-5899-5675), [ENRI](https://www.enri.go.jp/), Tokyo, Japan 🇯🇵
 - [**Michael Schultz**](https://www.unibw.de/lvk/), Universität der Bundeswehr, München, Germany 🇩🇪
 
 ## Positions
