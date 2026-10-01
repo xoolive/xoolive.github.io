@@ -203,7 +203,7 @@ Then, Jeremy defended a [PhD](https://theses.fr/2022IPPAX045) at Institut Polyte
 TU Delft Faculty of Aerospace Engineering<br/>
 <span class="float-left year">2026</span>External examiner for the PhD thesis of **Anthony Chiaratti**<br/>
 Queensland University of Technology<br/>
-<span class="float-left year">2024</span>Opponent for the licentiate thesis of **Lucie Smetanová**<br/>
+<span class="float-left year">2024</span>Opponent for the licentiate thesis of [**Lucie Smetanová**](https://dx.doi.org/10.3384/9789180758734)<br/>
 Linköping University<br/>
 <span class="float-left year">2023</span>Member of the PhD committee for [**Sharmistha Chakrabarti**](https://stars.library.ucf.edu/etd2020/1851/)<br/>
 University of Central Florida<br/>
